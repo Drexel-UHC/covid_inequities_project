@@ -17,7 +17,6 @@ This folder contains cumulative COVID-19 data for BCHC cities by race/ethnicity 
 This folder contains trends in COVID-19 outcomes and testing for BCHC cities.
 
 
-
 ### codebook.xlsx
 
 This Excel file contains a codebook with details about all the data in this folder.
