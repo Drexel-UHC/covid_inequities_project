@@ -17,10 +17,6 @@ This folder contains cumulative COVID-19 data for BCHC cities by race/ethnicity 
 This folder contains trends in COVID-19 outcomes and testing for BCHC cities.
 
 
-### latest_bchc.csv
-
-This file contains the latest daily data. For each city, we provide daily data for incidence and mortality, including 7 day moving averages, relative changes over the past two weeks and relative change over the past 4 weeks
-
 
 ### codebook.xlsx
 
