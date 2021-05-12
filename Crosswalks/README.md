@@ -1,6 +1,6 @@
 # Crosswalks/
 
-This folder contains Geographic Relationship Files (aka crosswalks) which define the geographic relationship between BCHC cities and various geographic units. The primary key which links all of these files is the column name 'city'.
+This folder contains Geographic Relationship Files (aka crosswalks) which define the geographic relationship between BCHC cities and various geographic units. The primary key which links all of these files is the column name 'city'. 
 
 ## xwalk_fips_bchc.csv
 
