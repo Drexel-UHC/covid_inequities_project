@@ -1,0 +1,37 @@
+outcome,outcome_label,exposure,top_lab,bot_lab,bot_value,top_value,rate_diff,rr
+Incidence,Cases per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,3181,4970,1788,1.56
+Incidence,Cases per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,3321,5234,1913,1.58
+Incidence,Cases per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,3090,4039,950,1.31
+Incidence,Cases per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,3507,5175,1668,1.48
+Incidence,Cases per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,3934,4498,564,1.14
+Incidence,Cases per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,5230,2831,-2399,0.54
+Incidence,Cases per 100K,% NH White,Highest % NH White,Lowest % NH White,5031,2400,-2632,0.48
+Incidence,Cases per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,4270,5324,1053,1.25
+Incidence,Cases per 100K,% Poverty,Highest Poverty,Lowest Poverty,3385,4658,1273,1.38
+Incidence,Cases per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,3602,4157,555,1.15
+Incidence,Cases per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,4718,3548,-1170,0.75
+Incidence,Cases per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),2414,5575,3161,2.31
+Incidence,Cases per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),3687,6269,2582,1.7
+Incidence,Cases per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,4322,5145,822,1.19
+Incidence,Cases per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),3013,4598,1584,1.53
+Incidence,Cases per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),3875,6167,2292,1.59
+Incidence,Cases per 100K,Population,Largest Population,Smallest Population,3827,5662,1834,1.48
+Incidence,Cases per 100K,Population Density,Highest Population Density,Lowest Population Density,3234,5814,2580,1.8
+Mortality,Deaths per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,60,105,45,1.75
+Mortality,Deaths per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,45,125,80,2.76
+Mortality,Deaths per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,56,63,8,1.14
+Mortality,Deaths per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,56,102,46,1.82
+Mortality,Deaths per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,69,98,29,1.43
+Mortality,Deaths per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,106,47,-60,0.44
+Mortality,Deaths per 100K,% NH White,Highest % NH White,Lowest % NH White,90,33,-57,0.37
+Mortality,Deaths per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,81,108,27,1.33
+Mortality,Deaths per 100K,% Poverty,Highest Poverty,Lowest Poverty,48,88,41,1.86
+Mortality,Deaths per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,82,73,-9,0.89
+Mortality,Deaths per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,76,61,-14,0.81
+Mortality,Deaths per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),41,131,91,3.24
+Mortality,Deaths per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),57,143,87,2.52
+Mortality,Deaths per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,68,112,43,1.64
+Mortality,Deaths per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),52,81,30,1.57
+Mortality,Deaths per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),63,144,81,2.28
+Mortality,Deaths per 100K,Population,Largest Population,Smallest Population,65,127,62,1.95
+Mortality,Deaths per 100K,Population Density,Highest Population Density,Lowest Population Density,47,133,86,2.85

@@ -1,0 +1,700 @@
+outcome,outcome_label,exposure,city,percentile_25,percentile_75,top_lab,bot_lab,bottom,top,rate_diff,rr,date_of_access
+Hospitalization,Hospitalization per 100K,% Complete College,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,1081,542,-539,0.5,2021-04-19
+Hospitalization,Hospitalization per 100K,% Complete High School,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,1089,593,-496,0.54,2021-04-19
+Hospitalization,Hospitalization per 100K,% Foreign Born,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,883,921,38,1.04,2021-04-19
+Hospitalization,Hospitalization per 100K,% Healthcare Worker,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,793,1173,380,1.48,2021-04-19
+Hospitalization,Hospitalization per 100K,% Hispanic,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,1039,982,-57,0.94,2021-04-19
+Hospitalization,Hospitalization per 100K,% Limited English,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,868,1080,213,1.24,2021-04-19
+Hospitalization,Hospitalization per 100K,% NH Asian/PI,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,1083,848,-234,0.78,2021-04-19
+Hospitalization,Hospitalization per 100K,% NH Black,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,610,1232,622,2.02,2021-04-19
+Hospitalization,Hospitalization per 100K,% NH Native American,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,968,1060,93,1.1,2021-04-19
+Hospitalization,Hospitalization per 100K,% NH White,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,1295,528,-768,0.41,2021-04-19
+Hospitalization,Hospitalization per 100K,% Not Insured,Philadelphia,5.06,9.62,Lowest % Insured,Highest % Insured,525,1161,637,2.21,2021-04-19
+Hospitalization,Hospitalization per 100K,% Overcrowding,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,891,1114,224,1.25,2021-04-19
+Hospitalization,Hospitalization per 100K,% Poverty,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,666,1157,491,1.74,2021-04-19
+Hospitalization,Hospitalization per 100K,% Production Worker,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,640,1056,416,1.65,2021-04-19
+Hospitalization,Hospitalization per 100K,% Service Worker,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,701,912,211,1.3,2021-04-19
+Hospitalization,Hospitalization per 100K,% Using Public Transit,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,780,1253,473,1.61,2021-04-19
+Hospitalization,Hospitalization per 100K,COVID Local Risk Index,Philadelphia,33.98,78.76,Highest Risk Areas,Lowest Risk Areas,543,1315,772,2.42,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - Hispanic,Philadelphia,0.03,0.61,Mostly White,Mostly Hispanic,1233,537,-696,0.44,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - Income,Philadelphia,-0.26,0.17,High-income,Low-income,1187,523,-664,0.44,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - Income + Black,Philadelphia,-0.23,0.19,High-income + Mostly White,Low-income + Mostly Black,1291,530,-761,0.41,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - Income + People of Color,Philadelphia,-0.31,0.15,High-income + Mostly White,Low-income + Mostly Minority,1211,567,-644,0.47,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - NH Black,Philadelphia,-0.59,0.55,Mostly White,Mostly Black,1232,550,-682,0.45,2021-04-19
+Hospitalization,Hospitalization per 100K,ICE - Occupation + Black,Philadelphia,-0.28,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,1217,543,-674,0.45,2021-04-19
+Hospitalization,Hospitalization per 100K,Social Vulnerability Index (SVI),Philadelphia,0.52,0.86,Most Socially Vulnerable,Least Socially Vulnerable,478,1180,702,2.47,2021-04-19
+Hospitalization,Hospitalization per 100K,SVI -  Housing Type & Transportation,Philadelphia,0.54,0.73,Most Socially Vulnerable,Least Socially Vulnerable,893,877,-16,0.98,2021-04-19
+Hospitalization,Hospitalization per 100K,SVI - Household Composition & Disability,Philadelphia,0.3,0.75,Most Socially Vulnerable,Least Socially Vulnerable,496,1215,719,2.45,2021-04-19
+Hospitalization,Hospitalization per 100K,SVI - Minority Status & Language,Philadelphia,0.7,0.89,Most Socially Vulnerable,Least Socially Vulnerable,695,1045,351,1.51,2021-04-19
+Hospitalization,Hospitalization per 100K,SVI - Socioeconomic,Philadelphia,0.49,0.88,Most Socially Vulnerable,Least Socially Vulnerable,552,1145,593,2.07,2021-04-19
+Hospitalization,Hospitalizations per 100K,% Complete College,New York City,25.92,51.33,Highest College Education,Lowest College Education,120,48,-72,0.4,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Complete High School,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,115,54,-62,0.47,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Foreign Born,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,65,105,40,1.62,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Healthcare Worker,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,61,108,47,1.77,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Hispanic,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,68,106,38,1.56,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Limited English,New York City,4.85,18,Highest Limited English,Lowest  Limited English,60,121,61,2.02,2021-04-20
+Hospitalization,Hospitalizations per 100K,% NH Asian/PI,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,108,96,-11,0.9,2021-04-20
+Hospitalization,Hospitalizations per 100K,% NH Black,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,84,100,16,1.19,2021-04-20
+Hospitalization,Hospitalizations per 100K,% NH Native American,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,70,101,31,1.45,2021-04-20
+Hospitalization,Hospitalizations per 100K,% NH White,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,110,64,-45,0.59,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Not Insured,New York City,4.43,8.32,Lowest % Insured,Highest % Insured,63,113,50,1.79,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Overcrowding,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,76,107,32,1.42,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Poverty,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,69,116,46,1.67,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Production Worker,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,57,104,47,1.82,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Service Worker,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,53,111,58,2.1,2021-04-20
+Hospitalization,Hospitalizations per 100K,% Using Public Transit,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,86,89,3,1.03,2021-04-20
+Hospitalization,Hospitalizations per 100K,COVID Local Risk Index,New York City,32.69,67.9,Highest Risk Areas,Lowest Risk Areas,52,117,65,2.25,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - Hispanic,New York City,-0.18,0.42,Mostly White,Mostly Hispanic,109,66,-43,0.6,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - Income,New York City,-0.01,0.32,High-income,Low-income,119,54,-65,0.46,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - Income + Black,New York City,-0.01,0.33,High-income + Mostly White,Low-income + Mostly Black,110,53,-58,0.48,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - Income + People of Color,New York City,-0.14,0.24,High-income + Mostly White,Low-income + Mostly Minority,117,56,-62,0.47,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - NH Black,New York City,-0.21,0.52,Mostly White,Mostly Black,107,67,-41,0.62,2021-04-20
+Hospitalization,Hospitalizations per 100K,ICE - Occupation + Black,New York City,-0.06,0.39,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,111,51,-60,0.46,2021-04-20
+Hospitalization,Hospitalizations per 100K,Social Vulnerability Index (SVI),New York City,0.42,0.77,Most Socially Vulnerable,Least Socially Vulnerable,56,114,58,2.02,2021-04-20
+Hospitalization,Hospitalizations per 100K,SVI -  Housing Type & Transportation,New York City,0.5,0.82,Most Socially Vulnerable,Least Socially Vulnerable,93,86,-7,0.93,2021-04-20
+Hospitalization,Hospitalizations per 100K,SVI - Household Composition & Disability,New York City,0.23,0.58,Most Socially Vulnerable,Least Socially Vulnerable,56,111,56,2.01,2021-04-20
+Hospitalization,Hospitalizations per 100K,SVI - Minority Status & Language,New York City,0.57,0.83,Most Socially Vulnerable,Least Socially Vulnerable,51,119,68,2.33,2021-04-20
+Hospitalization,Hospitalizations per 100K,SVI - Socioeconomic,New York City,0.34,0.75,Most Socially Vulnerable,Least Socially Vulnerable,54,115,61,2.12,2021-04-20
+Incidence,Cases per 100K,% Complete College,Baltimore,19.35,47.02,Highest College Education,Lowest College Education,8161,6683,-1478,0.82,2021-04-19
+Incidence,Cases per 100K,% Complete College,Boston,36.73,79.52,Highest College Education,Lowest College Education,10749,5574,-5175,0.52,2021-03-02
+Incidence,Cases per 100K,% Complete College,Charlotte,30.44,64.59,Highest College Education,Lowest College Education,10404,10218,-186,0.98,2021-03-23
+Incidence,Cases per 100K,% Complete College,Chicago,20.73,73.9,Highest College Education,Lowest College Education,10687,8375,-2312,0.78,2021-04-19
+Incidence,Cases per 100K,% Complete College,Dallas,13.57,57.83,Highest College Education,Lowest College Education,11623,10423,-1200,0.9,2021-03-22
+Incidence,Cases per 100K,% Complete College,Detroit,9.41,23.72,Highest College Education,Lowest College Education,4598,4141,-457,0.9,2021-03-10
+Incidence,Cases per 100K,% Complete College,Las Vegas (Metro),14.93,31.84,Highest College Education,Lowest College Education,10671,8975,-1696,0.84,2021-03-28
+Incidence,Cases per 100K,% Complete College,Long Beach,17.2,46.64,Highest College Education,Lowest College Education,12537,6177,-6360,0.49,2021-02-19
+Incidence,Cases per 100K,% Complete College,New York City,25.92,51.33,Highest College Education,Lowest College Education,9998,5612,-4386,0.56,2021-04-20
+Incidence,Cases per 100K,% Complete College,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,8994,7021,-1973,0.78,2021-04-19
+Incidence,Cases per 100K,% Complete High School,Baltimore,82.44,89.89,Highest High School Education,Lowest High School Education,8338,6517,-1821,0.78,2021-04-19
+Incidence,Cases per 100K,% Complete High School,Boston,83.45,95.68,Highest High School Education,Lowest High School Education,10684,5574,-5110,0.52,2021-03-02
+Incidence,Cases per 100K,% Complete High School,Charlotte,84.87,95.08,Highest High School Education,Lowest High School Education,10400,8564,-1836,0.82,2021-03-23
+Incidence,Cases per 100K,% Complete High School,Chicago,83.26,96.38,Highest High School Education,Lowest High School Education,11053,8498,-2554,0.77,2021-04-19
+Incidence,Cases per 100K,% Complete High School,Dallas,67.98,91.75,Highest High School Education,Lowest High School Education,11958,10413,-1545,0.87,2021-03-22
+Incidence,Cases per 100K,% Complete High School,Detroit,78.94,86.36,Highest High School Education,Lowest High School Education,4573,4035,-538,0.88,2021-03-10
+Incidence,Cases per 100K,% Complete High School,Las Vegas (Metro),80.98,93.87,Highest High School Education,Lowest High School Education,11326,8529,-2797,0.75,2021-03-28
+Incidence,Cases per 100K,% Complete High School,Long Beach,72.26,92.89,Highest High School Education,Lowest High School Education,12726,6112,-6613,0.48,2021-02-19
+Incidence,Cases per 100K,% Complete High School,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,9647,6651,-2996,0.69,2021-04-20
+Incidence,Cases per 100K,% Complete High School,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,9315,7174,-2141,0.77,2021-04-19
+Incidence,Cases per 100K,% Foreign Born,Baltimore,5.68,10.7,Highest Foreign Born,Lowest  Foreign Born,7501,7776,275,1.04,2021-04-19
+Incidence,Cases per 100K,% Foreign Born,Boston,19.87,34.2,Highest Foreign Born,Lowest  Foreign Born,6344,9326,2982,1.47,2021-03-02
+Incidence,Cases per 100K,% Foreign Born,Charlotte,10.3,18.76,Highest Foreign Born,Lowest  Foreign Born,10643,9421,-1221,0.89,2021-03-23
+Incidence,Cases per 100K,% Foreign Born,Chicago,12.05,29,Highest Foreign Born,Lowest  Foreign Born,8110,10514,2404,1.3,2021-04-19
+Incidence,Cases per 100K,% Foreign Born,Dallas,13.05,28.63,Highest Foreign Born,Lowest  Foreign Born,12550,10941,-1609,0.87,2021-03-22
+Incidence,Cases per 100K,% Foreign Born,Detroit,1.31,9.71,Highest Foreign Born,Lowest  Foreign Born,3855,4339,484,1.13,2021-03-10
+Incidence,Cases per 100K,% Foreign Born,Las Vegas (Metro),13.29,27.14,Highest Foreign Born,Lowest  Foreign Born,7696,11588,3892,1.51,2021-03-28
+Incidence,Cases per 100K,% Foreign Born,Long Beach,14.75,30.83,Highest Foreign Born,Lowest  Foreign Born,6112,12726,6613,2.08,2021-02-19
+Incidence,Cases per 100K,% Foreign Born,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,7583,9418,1835,1.24,2021-04-20
+Incidence,Cases per 100K,% Foreign Born,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,8104,9274,1171,1.14,2021-04-19
+Incidence,Cases per 100K,% Healthcare Worker,Baltimore,9.92,12.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,7356,7539,183,1.02,2021-04-19
+Incidence,Cases per 100K,% Healthcare Worker,Boston,8.41,12.26,Highest % Healthcare Worker,Lowest % Healthcare Worker,7736,7947,211,1.03,2021-03-02
+Incidence,Cases per 100K,% Healthcare Worker,Charlotte,5.82,8,Highest % Healthcare Worker,Lowest % Healthcare Worker,10128,9136,-993,0.9,2021-03-23
+Incidence,Cases per 100K,% Healthcare Worker,Chicago,7.22,10.95,Highest % Healthcare Worker,Lowest % Healthcare Worker,10740,7830,-2909,0.73,2021-04-19
+Incidence,Cases per 100K,% Healthcare Worker,Dallas,6.47,8.96,Highest % Healthcare Worker,Lowest % Healthcare Worker,11641,12045,404,1.03,2021-03-22
+Incidence,Cases per 100K,% Healthcare Worker,Detroit,9.34,12.04,Highest % Healthcare Worker,Lowest % Healthcare Worker,4551,3874,-678,0.85,2021-03-10
+Incidence,Cases per 100K,% Healthcare Worker,Las Vegas (Metro),4.88,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,10585,8369,-2216,0.79,2021-03-28
+Incidence,Cases per 100K,% Healthcare Worker,Long Beach,8.32,9.5,Highest % Healthcare Worker,Lowest % Healthcare Worker,7037,8840,1803,1.26,2021-02-19
+Incidence,Cases per 100K,% Healthcare Worker,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,6477,9435,2958,1.46,2021-04-20
+Incidence,Cases per 100K,% Healthcare Worker,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,8490,8785,295,1.03,2021-04-19
+Incidence,Cases per 100K,% Hispanic,Baltimore,2.92,6.24,Highest % Hispanic,Lowest % Hispanic,7784,8361,577,1.07,2021-04-19
+Incidence,Cases per 100K,% Hispanic,Boston,7.67,21.14,Highest % Hispanic,Lowest % Hispanic,5848,10367,4519,1.77,2021-03-02
+Incidence,Cases per 100K,% Hispanic,Charlotte,6.66,17.94,Highest % Hispanic,Lowest % Hispanic,9254,10009,754,1.08,2021-03-23
+Incidence,Cases per 100K,% Hispanic,Chicago,5.77,38.37,Highest % Hispanic,Lowest % Hispanic,7894,11495,3601,1.46,2021-04-19
+Incidence,Cases per 100K,% Hispanic,Dallas,20.26,55.08,Highest % Hispanic,Lowest % Hispanic,11960,12057,96,1.01,2021-03-22
+Incidence,Cases per 100K,% Hispanic,Detroit,0.95,4.12,Highest % Hispanic,Lowest % Hispanic,4114,4991,878,1.21,2021-03-10
+Incidence,Cases per 100K,% Hispanic,Las Vegas (Metro),17.39,37.56,Highest % Hispanic,Lowest % Hispanic,7488,12337,4849,1.65,2021-03-28
+Incidence,Cases per 100K,% Hispanic,Long Beach,24.7,52.98,Highest % Hispanic,Lowest % Hispanic,6112,12537,6424,2.05,2021-02-19
+Incidence,Cases per 100K,% Hispanic,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,7306,9942,2636,1.36,2021-04-20
+Incidence,Cases per 100K,% Hispanic,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,7990,9762,1772,1.22,2021-04-19
+Incidence,Cases per 100K,% Limited English,Baltimore,1.15,2.38,Highest Limited English,Lowest  Limited English,7227,8136,909,1.13,2021-04-19
+Incidence,Cases per 100K,% Limited English,Boston,5.99,14.27,Highest Limited English,Lowest  Limited English,5972,9293,3321,1.56,2021-03-02
+Incidence,Cases per 100K,% Limited English,Charlotte,2.39,6.29,Highest Limited English,Lowest  Limited English,10389,10409,20,1,2021-03-23
+Incidence,Cases per 100K,% Limited English,Chicago,2.03,11.48,Highest Limited English,Lowest  Limited English,8271,10911,2641,1.32,2021-04-19
+Incidence,Cases per 100K,% Limited English,Dallas,4.41,15.11,Highest Limited English,Lowest  Limited English,13047,11191,-1856,0.86,2021-03-22
+Incidence,Cases per 100K,% Limited English,Detroit,0.22,1.86,Highest Limited English,Lowest  Limited English,3817,4491,674,1.18,2021-03-10
+Incidence,Cases per 100K,% Limited English,Las Vegas (Metro),1.73,8.85,Highest Limited English,Lowest  Limited English,7482,12363,4881,1.65,2021-03-28
+Incidence,Cases per 100K,% Limited English,Long Beach,2.45,9.47,Highest Limited English,Lowest  Limited English,6112,12726,6613,2.08,2021-02-19
+Incidence,Cases per 100K,% Limited English,New York City,4.85,18,Highest Limited English,Lowest  Limited English,7080,9823,2743,1.39,2021-04-20
+Incidence,Cases per 100K,% Limited English,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,8000,10174,2173,1.27,2021-04-19
+Incidence,Cases per 100K,% NH Asian/PI,Baltimore,1.37,4.62,Highest % NH Asian/PI,Lowest % NH Asian/PI,7474,6608,-866,0.88,2021-04-19
+Incidence,Cases per 100K,% NH Asian/PI,Boston,4.28,17.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,7988,6861,-1127,0.86,2021-03-02
+Incidence,Cases per 100K,% NH Asian/PI,Charlotte,3.06,7.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,10964,8734,-2230,0.8,2021-03-23
+Incidence,Cases per 100K,% NH Asian/PI,Chicago,0.53,13.42,Highest % NH Asian/PI,Lowest % NH Asian/PI,9436,8341,-1095,0.88,2021-04-19
+Incidence,Cases per 100K,% NH Asian/PI,Dallas,0.88,5.33,Highest % NH Asian/PI,Lowest % NH Asian/PI,13019,9788,-3231,0.75,2021-03-22
+Incidence,Cases per 100K,% NH Asian/PI,Detroit,0.16,1.19,Highest % NH Asian/PI,Lowest % NH Asian/PI,4810,3909,-901,0.81,2021-03-10
+Incidence,Cases per 100K,% NH Asian/PI,Las Vegas (Metro),3.52,12.6,Highest % NH Asian/PI,Lowest % NH Asian/PI,7375,9823,2448,1.33,2021-03-28
+Incidence,Cases per 100K,% NH Asian/PI,Long Beach,9.97,15.71,Highest % NH Asian/PI,Lowest % NH Asian/PI,7102,12122,5021,1.71,2021-02-19
+Incidence,Cases per 100K,% NH Asian/PI,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,9197,8450,-747,0.92,2021-04-20
+Incidence,Cases per 100K,% NH Asian/PI,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,8526,9088,562,1.07,2021-04-19
+Incidence,Cases per 100K,% NH Black,Baltimore,29.22,77.56,Highest % NH Black,Lowest % NH Black,7646,7731,85,1.01,2021-04-19
+Incidence,Cases per 100K,% NH Black,Boston,4.43,23.49,Highest % NH Black,Lowest % NH Black,7148,10059,2911,1.41,2021-03-02
+Incidence,Cases per 100K,% NH Black,Charlotte,15.05,45.42,Highest % NH Black,Lowest % NH Black,7481,10429,2948,1.39,2021-03-23
+Incidence,Cases per 100K,% NH Black,Chicago,4.19,50.75,Highest % NH Black,Lowest % NH Black,9781,8039,-1743,0.82,2021-04-19
+Incidence,Cases per 100K,% NH Black,Dallas,9.03,33.67,Highest % NH Black,Lowest % NH Black,10593,12503,1909,1.18,2021-03-22
+Incidence,Cases per 100K,% NH Black,Detroit,61.7,91.32,Highest % NH Black,Lowest % NH Black,4339,3870,-469,0.89,2021-03-10
+Incidence,Cases per 100K,% NH Black,Las Vegas (Metro),4.85,13.17,Highest % NH Black,Lowest % NH Black,7222,11187,3965,1.55,2021-03-28
+Incidence,Cases per 100K,% NH Black,Long Beach,8.14,14.62,Highest % NH Black,Lowest % NH Black,6112,11924,5812,1.95,2021-02-19
+Incidence,Cases per 100K,% NH Black,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,8270,8494,223,1.03,2021-04-20
+Incidence,Cases per 100K,% NH Black,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,8718,8523,-196,0.98,2021-04-19
+Incidence,Cases per 100K,% NH Native American,Baltimore,0.09,0.38,Highest % NH Native American,Lowest % NH Native American,7193,8169,976,1.14,2021-04-19
+Incidence,Cases per 100K,% NH Native American,Boston,0,0.23,Highest % NH Native American,Lowest % NH Native American,7102,8136,1034,1.15,2021-03-02
+Incidence,Cases per 100K,% NH Native American,Charlotte,0.11,0.46,Highest % NH Native American,Lowest % NH Native American,9897,10308,411,1.04,2021-03-23
+Incidence,Cases per 100K,% NH Native American,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,9316,8048,-1268,0.86,2021-04-19
+Incidence,Cases per 100K,% NH Native American,Dallas,0.04,0.21,Highest % NH Native American,Lowest % NH Native American,12606,11339,-1267,0.9,2021-03-22
+Incidence,Cases per 100K,% NH Native American,Detroit,0.16,0.4,Highest % NH Native American,Lowest % NH Native American,4051,4133,82,1.02,2021-03-10
+Incidence,Cases per 100K,% NH Native American,Las Vegas (Metro),0.14,0.64,Highest % NH Native American,Lowest % NH Native American,9193,8957,-236,0.97,2021-03-28
+Incidence,Cases per 100K,% NH Native American,Long Beach,0.11,0.36,Highest % NH Native American,Lowest % NH Native American,8010,10273,2263,1.28,2021-02-19
+Incidence,Cases per 100K,% NH Native American,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,7467,8969,1502,1.2,2021-04-20
+Incidence,Cases per 100K,% NH Native American,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,9103,9005,-97,0.99,2021-04-19
+Incidence,Cases per 100K,% NH White,Baltimore,15.2,55.63,Highest % NH White,Lowest % NH White,7851,7646,-204,0.97,2021-04-19
+Incidence,Cases per 100K,% NH White,Boston,33.88,73.99,Highest % NH White,Lowest % NH White,10713,6291,-4423,0.59,2021-03-02
+Incidence,Cases per 100K,% NH White,Charlotte,25.13,70.08,Highest % NH White,Lowest % NH White,10670,8339,-2331,0.78,2021-03-23
+Incidence,Cases per 100K,% NH White,Chicago,8.52,62.45,Highest % NH White,Lowest % NH White,9845,9290,-555,0.94,2021-04-19
+Incidence,Cases per 100K,% NH White,Dallas,10.07,57.11,Highest % NH White,Lowest % NH White,10915,10041,-874,0.92,2021-03-22
+Incidence,Cases per 100K,% NH White,Detroit,4.04,21.34,Highest % NH White,Lowest % NH White,3870,4149,279,1.07,2021-03-10
+Incidence,Cases per 100K,% NH White,Las Vegas (Metro),33.05,64.45,Highest % NH White,Lowest % NH White,12341,6947,-5393,0.56,2021-03-28
+Incidence,Cases per 100K,% NH White,Long Beach,9.42,52.52,Highest % NH White,Lowest % NH White,12537,6112,-6424,0.49,2021-02-19
+Incidence,Cases per 100K,% NH White,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,9340,7492,-1848,0.8,2021-04-20
+Incidence,Cases per 100K,% NH White,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,8799,8133,-666,0.92,2021-04-19
+Incidence,Cases per 100K,% Not Insured,Baltimore,4.74,7.76,Lowest % Insured,Highest % Insured,7772,8097,325,1.04,2021-04-19
+Incidence,Cases per 100K,% Not Insured,Boston,1.75,4.3,Lowest % Insured,Highest % Insured,5677,9948,4270,1.75,2021-03-02
+Incidence,Cases per 100K,% Not Insured,Charlotte,6.99,15.24,Lowest % Insured,Highest % Insured,8895,10400,1506,1.17,2021-03-23
+Incidence,Cases per 100K,% Not Insured,Chicago,4.25,12.08,Lowest % Insured,Highest % Insured,8931,10814,1883,1.21,2021-04-19
+Incidence,Cases per 100K,% Not Insured,Dallas,11.9,28.62,Lowest % Insured,Highest % Insured,11532,13085,1554,1.13,2021-03-22
+Incidence,Cases per 100K,% Not Insured,Detroit,6.96,8.98,Lowest % Insured,Highest % Insured,4104,4581,477,1.12,2021-03-10
+Incidence,Cases per 100K,% Not Insured,Las Vegas (Metro),6.04,14.71,Lowest % Insured,Highest % Insured,8403,12284,3881,1.46,2021-03-28
+Incidence,Cases per 100K,% Not Insured,Long Beach,3.48,10.32,Lowest % Insured,Highest % Insured,6479,12035,5556,1.86,2021-02-19
+Incidence,Cases per 100K,% Not Insured,New York City,4.43,8.32,Lowest % Insured,Highest % Insured,7060,9654,2594,1.37,2021-04-20
+Incidence,Cases per 100K,% Not Insured,Philadelphia,5.06,9.62,Lowest % Insured,Highest % Insured,7441,9540,2099,1.28,2021-04-19
+Incidence,Cases per 100K,% Overcrowding,Baltimore,1.41,2.28,Highest Overcrowding,Lowest Overcrowding,6916,8338,1422,1.21,2021-04-19
+Incidence,Cases per 100K,% Overcrowding,Boston,2.05,3.29,Highest Overcrowding,Lowest Overcrowding,6077,9562,3485,1.57,2021-03-02
+Incidence,Cases per 100K,% Overcrowding,Charlotte,1.28,3.51,Highest Overcrowding,Lowest Overcrowding,9215,10354,1140,1.12,2021-03-23
+Incidence,Cases per 100K,% Overcrowding,Chicago,2.36,4.71,Highest Overcrowding,Lowest Overcrowding,8271,10690,2419,1.29,2021-04-19
+Incidence,Cases per 100K,% Overcrowding,Dallas,2.56,10.12,Highest Overcrowding,Lowest Overcrowding,12700,11107,-1593,0.87,2021-03-22
+Incidence,Cases per 100K,% Overcrowding,Detroit,1.82,3.03,Highest Overcrowding,Lowest Overcrowding,3684,4265,581,1.16,2021-03-10
+Incidence,Cases per 100K,% Overcrowding,Las Vegas (Metro),1.41,5.88,Highest Overcrowding,Lowest Overcrowding,7998,11180,3182,1.4,2021-03-28
+Incidence,Cases per 100K,% Overcrowding,Long Beach,3.08,17.73,Highest Overcrowding,Lowest Overcrowding,6112,12537,6424,2.05,2021-02-19
+Incidence,Cases per 100K,% Overcrowding,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,7854,9644,1790,1.23,2021-04-20
+Incidence,Cases per 100K,% Overcrowding,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,8501,9912,1411,1.17,2021-04-19
+Incidence,Cases per 100K,% Poverty,Baltimore,11.66,26.92,Highest Poverty,Lowest Poverty,6894,8361,1467,1.21,2021-04-19
+Incidence,Cases per 100K,% Poverty,Boston,11.1,25.06,Highest Poverty,Lowest Poverty,6241,7646,1405,1.23,2021-03-02
+Incidence,Cases per 100K,% Poverty,Charlotte,6.68,17.21,Highest Poverty,Lowest Poverty,7723,10233,2510,1.32,2021-03-23
+Incidence,Cases per 100K,% Poverty,Chicago,8.93,24.4,Highest Poverty,Lowest Poverty,9406,8524,-882,0.91,2021-04-19
+Incidence,Cases per 100K,% Poverty,Dallas,10.38,24.67,Highest Poverty,Lowest Poverty,10452,12281,1829,1.17,2021-03-22
+Incidence,Cases per 100K,% Poverty,Detroit,32.69,40.66,Highest Poverty,Lowest Poverty,3876,4438,562,1.15,2021-03-10
+Incidence,Cases per 100K,% Poverty,Las Vegas (Metro),6.43,16.69,Highest Poverty,Lowest Poverty,8650,12475,3826,1.44,2021-03-28
+Incidence,Cases per 100K,% Poverty,Long Beach,9.27,20.08,Highest Poverty,Lowest Poverty,6831,12668,5837,1.85,2021-02-19
+Incidence,Cases per 100K,% Poverty,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,7437,9039,1602,1.22,2021-04-20
+Incidence,Cases per 100K,% Poverty,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,7973,8922,950,1.12,2021-04-19
+Incidence,Cases per 100K,% Production Worker,Baltimore,2.4,3.79,Highest % Production Workers,Lowest % Production Workers,7146,8394,1247,1.17,2021-04-19
+Incidence,Cases per 100K,% Production Worker,Boston,0.78,2.24,Highest % Production Workers,Lowest % Production Workers,5677,10741,5064,1.89,2021-03-02
+Incidence,Cases per 100K,% Production Worker,Charlotte,1.76,5.29,Highest % Production Workers,Lowest % Production Workers,9964,10553,589,1.06,2021-03-23
+Incidence,Cases per 100K,% Production Worker,Chicago,1.84,6.17,Highest % Production Workers,Lowest % Production Workers,8304,11200,2896,1.35,2021-04-19
+Incidence,Cases per 100K,% Production Worker,Dallas,2.53,7,Highest % Production Workers,Lowest % Production Workers,11384,12790,1406,1.12,2021-03-22
+Incidence,Cases per 100K,% Production Worker,Detroit,8.78,12.61,Highest % Production Workers,Lowest % Production Workers,4326,4181,-145,0.97,2021-03-10
+Incidence,Cases per 100K,% Production Worker,Las Vegas (Metro),1.96,4.22,Highest % Production Workers,Lowest % Production Workers,8998,10363,1365,1.15,2021-03-28
+Incidence,Cases per 100K,% Production Worker,Long Beach,2.8,7.38,Highest % Production Workers,Lowest % Production Workers,7102,12537,5435,1.77,2021-02-19
+Incidence,Cases per 100K,% Production Worker,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,6448,9679,3230,1.5,2021-04-20
+Incidence,Cases per 100K,% Production Worker,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,7120,9513,2392,1.34,2021-04-19
+Incidence,Cases per 100K,% Service Worker,Baltimore,7.57,9.5,Highest % Service Worker,Lowest % Service Worker,7875,7824,-51,0.99,2021-04-19
+Incidence,Cases per 100K,% Service Worker,Boston,5.33,11.03,Highest % Service Worker,Lowest % Service Worker,6049,9142,3093,1.51,2021-03-02
+Incidence,Cases per 100K,% Service Worker,Charlotte,7.07,10.25,Highest % Service Worker,Lowest % Service Worker,10282,9776,-507,0.95,2021-03-23
+Incidence,Cases per 100K,% Service Worker,Chicago,5.76,11.1,Highest % Service Worker,Lowest % Service Worker,9025,9578,553,1.06,2021-04-19
+Incidence,Cases per 100K,% Service Worker,Dallas,6.16,10.67,Highest % Service Worker,Lowest % Service Worker,11239,11597,358,1.03,2021-03-22
+Incidence,Cases per 100K,% Service Worker,Detroit,9.28,12.3,Highest % Service Worker,Lowest % Service Worker,3725,4376,651,1.17,2021-03-10
+Incidence,Cases per 100K,% Service Worker,Las Vegas (Metro),11.57,19.15,Highest % Service Worker,Lowest % Service Worker,7067,10181,3114,1.44,2021-03-28
+Incidence,Cases per 100K,% Service Worker,Long Beach,6.86,10.88,Highest % Service Worker,Lowest % Service Worker,6831,12668,5837,1.85,2021-02-19
+Incidence,Cases per 100K,% Service Worker,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,6585,9400,2815,1.43,2021-04-20
+Incidence,Cases per 100K,% Service Worker,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,8424,8952,527,1.06,2021-04-19
+Incidence,Cases per 100K,% Using Public Transit,Baltimore,9.54,23.51,Most Public Transit Usage,Least Public Transit Usage,6591,8037,1446,1.22,2021-04-19
+Incidence,Cases per 100K,% Using Public Transit,Boston,22.89,37.33,Most Public Transit Usage,Least Public Transit Usage,6288,9820,3533,1.56,2021-03-02
+Incidence,Cases per 100K,% Using Public Transit,Charlotte,1.38,4.65,Most Public Transit Usage,Least Public Transit Usage,8739,11143,2404,1.28,2021-03-23
+Incidence,Cases per 100K,% Using Public Transit,Chicago,18.34,33.38,Most Public Transit Usage,Least Public Transit Usage,10239,8073,-2167,0.79,2021-04-19
+Incidence,Cases per 100K,% Using Public Transit,Dallas,1.6,5.89,Most Public Transit Usage,Least Public Transit Usage,11474,11898,424,1.04,2021-03-22
+Incidence,Cases per 100K,% Using Public Transit,Detroit,4.9,9.03,Most Public Transit Usage,Least Public Transit Usage,4243,3753,-490,0.88,2021-03-10
+Incidence,Cases per 100K,% Using Public Transit,Las Vegas (Metro),0.24,4.06,Most Public Transit Usage,Least Public Transit Usage,7685,11703,4018,1.52,2021-03-28
+Incidence,Cases per 100K,% Using Public Transit,Long Beach,2.53,6.75,Most Public Transit Usage,Least Public Transit Usage,6112,12035,5923,1.97,2021-02-19
+Incidence,Cases per 100K,% Using Public Transit,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,9520,7941,-1579,0.83,2021-04-20
+Incidence,Cases per 100K,% Using Public Transit,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,10199,8717,-1482,0.85,2021-04-19
+Incidence,Cases per 100K,COVID Local Risk Index,Baltimore,37.18,86.29,Highest Risk Areas,Lowest Risk Areas,6866,8280,1414,1.21,2021-04-19
+Incidence,Cases per 100K,COVID Local Risk Index,Boston,12.59,39.03,Highest Risk Areas,Lowest Risk Areas,6235,10359,4125,1.66,2021-03-02
+Incidence,Cases per 100K,COVID Local Risk Index,Charlotte,18.27,47.61,Highest Risk Areas,Lowest Risk Areas,8801,10686,1886,1.21,2021-03-23
+Incidence,Cases per 100K,COVID Local Risk Index,Chicago,13.6,72.24,Highest Risk Areas,Lowest Risk Areas,8553,8445,-108,0.99,2021-04-19
+Incidence,Cases per 100K,COVID Local Risk Index,Dallas,35.41,76.67,Highest Risk Areas,Lowest Risk Areas,10350,11255,905,1.09,2021-03-22
+Incidence,Cases per 100K,COVID Local Risk Index,Detroit,84.94,94.27,Highest Risk Areas,Lowest Risk Areas,4554,4122,-431,0.91,2021-03-10
+Incidence,Cases per 100K,COVID Local Risk Index,Las Vegas (Metro),25.93,55.78,Highest Risk Areas,Lowest Risk Areas,8169,12023,3854,1.47,2021-03-28
+Incidence,Cases per 100K,COVID Local Risk Index,New York City,32.69,67.9,Highest Risk Areas,Lowest Risk Areas,6254,9239,2984,1.48,2021-04-20
+Incidence,Cases per 100K,COVID Local Risk Index,Philadelphia,33.98,78.76,Highest Risk Areas,Lowest Risk Areas,7057,8721,1664,1.24,2021-04-19
+Incidence,Cases per 100K,ICE - Hispanic,Baltimore,0.12,0.45,Mostly White,Mostly Hispanic,7851,6917,-933,0.88,2021-04-19
+Incidence,Cases per 100K,ICE - Hispanic,Boston,0.09,0.64,Mostly White,Mostly Hispanic,10775,6291,-4485,0.58,2021-03-02
+Incidence,Cases per 100K,ICE - Hispanic,Charlotte,0.1,0.64,Mostly White,Mostly Hispanic,10525,9240,-1286,0.88,2021-03-23
+Incidence,Cases per 100K,ICE - Hispanic,Chicago,-0.02,0.53,Mostly White,Mostly Hispanic,11195,8972,-2223,0.8,2021-04-19
+Incidence,Cases per 100K,ICE - Hispanic,Dallas,-0.4,0.37,Mostly White,Mostly Hispanic,12068,10092,-1975,0.84,2021-03-22
+Incidence,Cases per 100K,ICE - Hispanic,Detroit,0.01,0.13,Mostly White,Mostly Hispanic,4710,3740,-970,0.79,2021-03-10
+Incidence,Cases per 100K,ICE - Hispanic,Las Vegas (Metro),-0.05,0.47,Mostly White,Mostly Hispanic,12524,7030,-5495,0.56,2021-03-28
+Incidence,Cases per 100K,ICE - Hispanic,Long Beach,-0.45,0.28,Mostly White,Mostly Hispanic,12537,6112,-6424,0.49,2021-02-19
+Incidence,Cases per 100K,ICE - Hispanic,New York City,-0.18,0.42,Mostly White,Mostly Hispanic,9765,7556,-2209,0.77,2021-04-20
+Incidence,Cases per 100K,ICE - Hispanic,Philadelphia,0.03,0.61,Mostly White,Mostly Hispanic,9111,8179,-932,0.9,2021-04-19
+Incidence,Cases per 100K,ICE - Income,Baltimore,-0.18,0.21,High-income,Low-income,7923,6717,-1205,0.85,2021-04-19
+Incidence,Cases per 100K,ICE - Income,Boston,0.01,0.36,High-income,Low-income,8483,5828,-2656,0.69,2021-03-02
+Incidence,Cases per 100K,ICE - Income,Charlotte,-0.01,0.29,High-income,Low-income,10468,8812,-1656,0.84,2021-03-23
+Incidence,Cases per 100K,ICE - Income,Chicago,-0.13,0.32,High-income,Low-income,8642,8411,-231,0.97,2021-04-19
+Incidence,Cases per 100K,ICE - Income,Dallas,-0.16,0.28,High-income,Low-income,12347,10896,-1451,0.88,2021-03-22
+Incidence,Cases per 100K,ICE - Income,Detroit,-0.42,-0.3,High-income,Low-income,3892,3878,-14,1,2021-03-10
+Incidence,Cases per 100K,ICE - Income,Las Vegas (Metro),-0.08,0.28,High-income,Low-income,10563,8706,-1857,0.82,2021-03-28
+Incidence,Cases per 100K,ICE - Income,Long Beach,-0.01,0.3,High-income,Low-income,12111,6112,-5999,0.5,2021-02-19
+Incidence,Cases per 100K,ICE - Income,New York City,-0.01,0.32,High-income,Low-income,9253,6667,-2586,0.72,2021-04-20
+Incidence,Cases per 100K,ICE - Income,Philadelphia,-0.26,0.17,High-income,Low-income,8558,7358,-1199,0.86,2021-04-19
+Incidence,Cases per 100K,ICE - Income + Black,Baltimore,-0.21,0.21,High-income + Mostly White,Low-income + Mostly Black,7945,7373,-572,0.93,2021-04-19
+Incidence,Cases per 100K,ICE - Income + Black,Boston,0.12,0.46,High-income + Mostly White,Low-income + Mostly Black,9764,6049,-3715,0.62,2021-03-02
+Incidence,Cases per 100K,ICE - Income + Black,Charlotte,-0.02,0.32,High-income + Mostly White,Low-income + Mostly Black,10502,7481,-3021,0.71,2021-03-23
+Incidence,Cases per 100K,ICE - Income + Black,Chicago,-0.12,0.37,High-income + Mostly White,Low-income + Mostly Black,8302,8629,327,1.04,2021-04-19
+Incidence,Cases per 100K,ICE - Income + Black,Dallas,-0.06,0.29,High-income + Mostly White,Low-income + Mostly Black,12328,10803,-1525,0.88,2021-03-22
+Incidence,Cases per 100K,ICE - Income + Black,Detroit,-0.44,-0.25,High-income + Mostly White,Low-income + Mostly Black,3635,4223,587,1.16,2021-03-10
+Incidence,Cases per 100K,ICE - Income + Black,Las Vegas (Metro),0.05,0.28,High-income + Mostly White,Low-income + Mostly Black,11597,8034,-3562,0.69,2021-03-28
+Incidence,Cases per 100K,ICE - Income + Black,Long Beach,0.04,0.32,High-income + Mostly White,Low-income + Mostly Black,12862,6112,-6750,0.48,2021-02-19
+Incidence,Cases per 100K,ICE - Income + Black,New York City,-0.01,0.33,High-income + Mostly White,Low-income + Mostly Black,8903,6742,-2161,0.76,2021-04-20
+Incidence,Cases per 100K,ICE - Income + Black,Philadelphia,-0.23,0.19,High-income + Mostly White,Low-income + Mostly Black,8653,7929,-724,0.92,2021-04-19
+Incidence,Cases per 100K,ICE - Income + People of Color,Baltimore,-0.24,0.18,High-income + Mostly White,Low-income + Mostly Minority,7945,7373,-572,0.93,2021-04-19
+Incidence,Cases per 100K,ICE - Income + People of Color,Boston,-0.07,0.38,High-income + Mostly White,Low-income + Mostly Minority,9392,6344,-3048,0.68,2021-03-02
+Incidence,Cases per 100K,ICE - Income + People of Color,Charlotte,-0.07,0.29,High-income + Mostly White,Low-income + Mostly Minority,10502,7481,-3021,0.71,2021-03-23
+Incidence,Cases per 100K,ICE - Income + People of Color,Chicago,-0.21,0.3,High-income + Mostly White,Low-income + Mostly Minority,9072,8660,-413,0.95,2021-04-19
+Incidence,Cases per 100K,ICE - Income + People of Color,Dallas,-0.22,0.21,High-income + Mostly White,Low-income + Mostly Minority,12347,10922,-1425,0.88,2021-03-22
+Incidence,Cases per 100K,ICE - Income + People of Color,Detroit,-0.45,-0.3,High-income + Mostly White,Low-income + Mostly Minority,3700,3938,238,1.06,2021-03-10
+Incidence,Cases per 100K,ICE - Income + People of Color,Las Vegas (Metro),-0.06,0.24,High-income + Mostly White,Low-income + Mostly Minority,11753,7738,-4014,0.66,2021-03-28
+Incidence,Cases per 100K,ICE - Income + People of Color,Long Beach,-0.12,0.24,High-income + Mostly White,Low-income + Mostly Minority,13366,6112,-7254,0.46,2021-02-19
+Incidence,Cases per 100K,ICE - Income + People of Color,New York City,-0.14,0.24,High-income + Mostly White,Low-income + Mostly Minority,9178,7069,-2109,0.77,2021-04-20
+Incidence,Cases per 100K,ICE - Income + People of Color,Philadelphia,-0.31,0.15,High-income + Mostly White,Low-income + Mostly Minority,8515,8266,-249,0.97,2021-04-19
+Incidence,Cases per 100K,ICE - NH Black,Baltimore,-0.62,0.26,Mostly White,Mostly Black,7731,7646,-85,0.99,2021-04-19
+Incidence,Cases per 100K,ICE - NH Black,Boston,0.12,0.7,Mostly White,Mostly Black,10276,6291,-3986,0.61,2021-03-02
+Incidence,Cases per 100K,ICE - NH Black,Charlotte,-0.21,0.56,Mostly White,Mostly Black,10670,7481,-3189,0.7,2021-03-23
+Incidence,Cases per 100K,ICE - NH Black,Chicago,-0.36,0.55,Mostly White,Mostly Black,8461,9026,565,1.07,2021-04-19
+Incidence,Cases per 100K,ICE - NH Black,Dallas,-0.2,0.45,Mostly White,Mostly Black,10202,10041,-161,0.98,2021-03-22
+Incidence,Cases per 100K,ICE - NH Black,Detroit,-0.87,-0.36,Mostly White,Mostly Black,3870,4339,469,1.12,2021-03-10
+Incidence,Cases per 100K,ICE - NH Black,Las Vegas (Metro),0.19,0.58,Mostly White,Mostly Black,12060,6947,-5113,0.58,2021-03-28
+Incidence,Cases per 100K,ICE - NH Black,Long Beach,-0.04,0.44,Mostly White,Mostly Black,12820,6112,-6708,0.48,2021-02-19
+Incidence,Cases per 100K,ICE - NH Black,New York City,-0.21,0.52,Mostly White,Mostly Black,8789,7769,-1019,0.88,2021-04-20
+Incidence,Cases per 100K,ICE - NH Black,Philadelphia,-0.59,0.55,Mostly White,Mostly Black,8447,8708,261,1.03,2021-04-19
+Incidence,Cases per 100K,ICE - Occupation + Black,Baltimore,-0.28,0.26,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,8246,7209,-1037,0.87,2021-04-19
+Incidence,Cases per 100K,ICE - Occupation + Black,Boston,0.15,0.58,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,10276,5995,-4281,0.58,2021-03-02
+Incidence,Cases per 100K,ICE - Occupation + Black,Charlotte,-0.06,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,10670,10324,-346,0.97,2021-03-23
+Incidence,Cases per 100K,ICE - Occupation + Black,Chicago,-0.07,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,8648,8607,-41,1,2021-04-19
+Incidence,Cases per 100K,ICE - Occupation + Black,Dallas,-0.05,0.42,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,11692,11472,-220,0.98,2021-03-22
+Incidence,Cases per 100K,ICE - Occupation + Black,Detroit,-0.52,-0.1,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,4007,4342,336,1.08,2021-03-10
+Incidence,Cases per 100K,ICE - Occupation + Black,Las Vegas (Metro),0.07,0.26,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,12754,7483,-5271,0.59,2021-03-28
+Incidence,Cases per 100K,ICE - Occupation + Black,Long Beach,0.04,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,13366,6112,-7254,0.46,2021-02-19
+Incidence,Cases per 100K,ICE - Occupation + Black,New York City,-0.06,0.39,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,9192,6413,-2778,0.7,2021-04-20
+Incidence,Cases per 100K,ICE - Occupation + Black,Philadelphia,-0.28,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,8654,7057,-1596,0.82,2021-04-19
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Baltimore,0.46,0.81,Most Socially Vulnerable,Least Socially Vulnerable,6857,7945,1088,1.16,2021-04-19
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Boston,0.45,0.8,Most Socially Vulnerable,Least Socially Vulnerable,6049,10386,4337,1.72,2021-03-02
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Charlotte,0.23,0.52,Most Socially Vulnerable,Least Socially Vulnerable,8338,10415,2077,1.25,2021-03-23
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Chicago,0.31,0.8,Most Socially Vulnerable,Least Socially Vulnerable,8665,10174,1509,1.17,2021-04-19
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Dallas,0.25,0.78,Most Socially Vulnerable,Least Socially Vulnerable,10292,11347,1055,1.1,2021-03-22
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Detroit,0.8,0.87,Most Socially Vulnerable,Least Socially Vulnerable,3576,4521,945,1.26,2021-03-10
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Las Vegas (Metro),0.31,0.66,Most Socially Vulnerable,Least Socially Vulnerable,8913,11869,2956,1.33,2021-03-28
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Long Beach,0.22,0.75,Most Socially Vulnerable,Least Socially Vulnerable,6112,12537,6424,2.05,2021-02-19
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),New York City,0.42,0.77,Most Socially Vulnerable,Least Socially Vulnerable,6834,9229,2395,1.35,2021-04-20
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Philadelphia,0.52,0.86,Most Socially Vulnerable,Least Socially Vulnerable,7447,9243,1796,1.24,2021-04-19
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Baltimore,0.49,0.67,Most Socially Vulnerable,Least Socially Vulnerable,7077,8093,1016,1.14,2021-04-19
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Boston,0.62,0.86,Most Socially Vulnerable,Least Socially Vulnerable,6951,6428,-523,0.92,2021-03-02
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Charlotte,0.32,0.54,Most Socially Vulnerable,Least Socially Vulnerable,8315,11266,2950,1.35,2021-03-23
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Chicago,0.51,0.76,Most Socially Vulnerable,Least Socially Vulnerable,9898,7958,-1940,0.8,2021-04-19
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Dallas,0.45,0.7,Most Socially Vulnerable,Least Socially Vulnerable,9771,12601,2830,1.29,2021-03-22
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Detroit,0.54,0.7,Most Socially Vulnerable,Least Socially Vulnerable,4309,4444,135,1.03,2021-03-10
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Las Vegas (Metro),0.29,0.63,Most Socially Vulnerable,Least Socially Vulnerable,9114,11076,1962,1.22,2021-03-28
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Long Beach,0.4,0.74,Most Socially Vulnerable,Least Socially Vulnerable,6112,12035,5923,1.97,2021-02-19
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,New York City,0.5,0.82,Most Socially Vulnerable,Least Socially Vulnerable,9560,7477,-2083,0.78,2021-04-20
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Philadelphia,0.54,0.73,Most Socially Vulnerable,Least Socially Vulnerable,9579,8310,-1268,0.87,2021-04-19
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Baltimore,0.46,0.81,Most Socially Vulnerable,Least Socially Vulnerable,7747,7908,161,1.02,2021-04-19
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Boston,0.09,0.48,Most Socially Vulnerable,Least Socially Vulnerable,6037,10457,4420,1.73,2021-03-02
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Charlotte,0.19,0.4,Most Socially Vulnerable,Least Socially Vulnerable,10401,10541,141,1.01,2021-03-23
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Chicago,0.11,0.58,Most Socially Vulnerable,Least Socially Vulnerable,8430,8909,479,1.06,2021-04-19
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Dallas,0.18,0.56,Most Socially Vulnerable,Least Socially Vulnerable,13525,11067,-2458,0.82,2021-03-22
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Detroit,0.65,0.86,Most Socially Vulnerable,Least Socially Vulnerable,4153,4030,-123,0.97,2021-03-10
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Las Vegas (Metro),0.3,0.65,Most Socially Vulnerable,Least Socially Vulnerable,9213,10319,1106,1.12,2021-03-28
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Long Beach,0.25,0.58,Most Socially Vulnerable,Least Socially Vulnerable,6131,12537,6405,2.04,2021-02-19
+Incidence,Cases per 100K,SVI - Household Composition & Disability,New York City,0.23,0.58,Most Socially Vulnerable,Least Socially Vulnerable,5963,9898,3935,1.66,2021-04-20
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Philadelphia,0.3,0.75,Most Socially Vulnerable,Least Socially Vulnerable,6935,8956,2021,1.29,2021-04-19
+Incidence,Cases per 100K,SVI - Minority Status & Language,Baltimore,0.48,0.62,Most Socially Vulnerable,Least Socially Vulnerable,6816,8124,1308,1.19,2021-04-19
+Incidence,Cases per 100K,SVI - Minority Status & Language,Boston,0.51,0.86,Most Socially Vulnerable,Least Socially Vulnerable,6140,10433,4293,1.7,2021-03-02
+Incidence,Cases per 100K,SVI - Minority Status & Language,Charlotte,0.47,0.82,Most Socially Vulnerable,Least Socially Vulnerable,10324,10072,-252,0.98,2021-03-23
+Incidence,Cases per 100K,SVI - Minority Status & Language,Chicago,0.55,0.79,Most Socially Vulnerable,Least Socially Vulnerable,8390,11007,2617,1.31,2021-04-19
+Incidence,Cases per 100K,SVI - Minority Status & Language,Dallas,0.38,0.81,Most Socially Vulnerable,Least Socially Vulnerable,10847,11705,859,1.08,2021-03-22
+Incidence,Cases per 100K,SVI - Minority Status & Language,Detroit,0.59,0.72,Most Socially Vulnerable,Least Socially Vulnerable,4113,4639,526,1.13,2021-03-10
+Incidence,Cases per 100K,SVI - Minority Status & Language,Las Vegas (Metro),0.32,0.7,Most Socially Vulnerable,Least Socially Vulnerable,7283,12551,5268,1.72,2021-03-28
+Incidence,Cases per 100K,SVI - Minority Status & Language,Long Beach,0.22,0.76,Most Socially Vulnerable,Least Socially Vulnerable,6112,12537,6424,2.05,2021-02-19
+Incidence,Cases per 100K,SVI - Minority Status & Language,New York City,0.57,0.83,Most Socially Vulnerable,Least Socially Vulnerable,6898,9723,2824,1.41,2021-04-20
+Incidence,Cases per 100K,SVI - Minority Status & Language,Philadelphia,0.7,0.89,Most Socially Vulnerable,Least Socially Vulnerable,7497,9516,2020,1.27,2021-04-19
+Incidence,Cases per 100K,SVI - Socioeconomic,Baltimore,0.52,0.88,Most Socially Vulnerable,Least Socially Vulnerable,6731,7834,1103,1.16,2021-04-19
+Incidence,Cases per 100K,SVI - Socioeconomic,Boston,0.34,0.79,Most Socially Vulnerable,Least Socially Vulnerable,6049,9985,3936,1.65,2021-03-02
+Incidence,Cases per 100K,SVI - Socioeconomic,Charlotte,0.19,0.59,Most Socially Vulnerable,Least Socially Vulnerable,8312,10400,2089,1.25,2021-03-23
+Incidence,Cases per 100K,SVI - Socioeconomic,Chicago,0.27,0.8,Most Socially Vulnerable,Least Socially Vulnerable,8590,10069,1480,1.17,2021-04-19
+Incidence,Cases per 100K,SVI - Socioeconomic,Dallas,0.24,0.78,Most Socially Vulnerable,Least Socially Vulnerable,10292,11319,1028,1.1,2021-03-22
+Incidence,Cases per 100K,SVI - Socioeconomic,Detroit,0.85,0.93,Most Socially Vulnerable,Least Socially Vulnerable,4100,4243,144,1.04,2021-03-10
+Incidence,Cases per 100K,SVI - Socioeconomic,Las Vegas (Metro),0.28,0.69,Most Socially Vulnerable,Least Socially Vulnerable,9011,11262,2251,1.25,2021-03-28
+Incidence,Cases per 100K,SVI - Socioeconomic,Long Beach,0.28,0.74,Most Socially Vulnerable,Least Socially Vulnerable,6112,12537,6424,2.05,2021-02-19
+Incidence,Cases per 100K,SVI - Socioeconomic,New York City,0.34,0.75,Most Socially Vulnerable,Least Socially Vulnerable,6472,9387,2915,1.45,2021-04-20
+Incidence,Cases per 100K,SVI - Socioeconomic,Philadelphia,0.49,0.88,Most Socially Vulnerable,Least Socially Vulnerable,7238,8992,1754,1.24,2021-04-19
+Mortality,Deaths per 100K,% Complete College,Charlotte,30.44,64.59,Highest College Education,Lowest College Education,77,66,-11,0.85,2021-03-23
+Mortality,Deaths per 100K,% Complete College,Chicago,20.73,73.9,Highest College Education,Lowest College Education,227,64,-163,0.28,2021-04-19
+Mortality,Deaths per 100K,% Complete College,Detroit,9.41,23.72,Highest College Education,Lowest College Education,245,331,86,1.35,2021-03-10
+Mortality,Deaths per 100K,% Complete College,New York City,25.92,51.33,Highest College Education,Lowest College Education,390,164,-226,0.42,2021-04-20
+Mortality,Deaths per 100K,% Complete College,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,159,128,-31,0.8,2021-04-19
+Mortality,Deaths per 100K,% Complete High School,Charlotte,84.87,95.08,Highest High School Education,Lowest High School Education,87,65,-22,0.75,2021-03-23
+Mortality,Deaths per 100K,% Complete High School,Chicago,83.26,96.38,Highest High School Education,Lowest High School Education,225,65,-160,0.29,2021-04-19
+Mortality,Deaths per 100K,% Complete High School,Detroit,78.94,86.36,Highest High School Education,Lowest High School Education,193,323,130,1.68,2021-03-10
+Mortality,Deaths per 100K,% Complete High School,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,365,177,-189,0.48,2021-04-20
+Mortality,Deaths per 100K,% Complete High School,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,158,152,-6,0.96,2021-04-19
+Mortality,Deaths per 100K,% Foreign Born,Charlotte,10.3,18.76,Highest Foreign Born,Lowest  Foreign Born,82,80,-2,0.98,2021-03-23
+Mortality,Deaths per 100K,% Foreign Born,Chicago,12.05,29,Highest Foreign Born,Lowest  Foreign Born,209,189,-20,0.91,2021-04-19
+Mortality,Deaths per 100K,% Foreign Born,Detroit,1.31,9.71,Highest Foreign Born,Lowest  Foreign Born,298,142,-156,0.48,2021-03-10
+Mortality,Deaths per 100K,% Foreign Born,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,224,360,136,1.61,2021-04-20
+Mortality,Deaths per 100K,% Foreign Born,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,201,231,30,1.15,2021-04-19
+Mortality,Deaths per 100K,% Healthcare Worker,Charlotte,5.82,8,Highest % Healthcare Worker,Lowest % Healthcare Worker,59,99,40,1.67,2021-03-23
+Mortality,Deaths per 100K,% Healthcare Worker,Chicago,7.22,10.95,Highest % Healthcare Worker,Lowest % Healthcare Worker,144,179,35,1.24,2021-04-19
+Mortality,Deaths per 100K,% Healthcare Worker,Detroit,9.34,12.04,Highest % Healthcare Worker,Lowest % Healthcare Worker,203,245,43,1.21,2021-03-10
+Mortality,Deaths per 100K,% Healthcare Worker,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,186,399,213,2.14,2021-04-20
+Mortality,Deaths per 100K,% Healthcare Worker,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,198,293,95,1.48,2021-04-19
+Mortality,Deaths per 100K,% Hispanic,Charlotte,6.66,17.94,Highest % Hispanic,Lowest % Hispanic,89,87,-2,0.98,2021-03-23
+Mortality,Deaths per 100K,% Hispanic,Chicago,5.77,38.37,Highest % Hispanic,Lowest % Hispanic,154,190,36,1.23,2021-04-19
+Mortality,Deaths per 100K,% Hispanic,Detroit,0.95,4.12,Highest % Hispanic,Lowest % Hispanic,317,199,-119,0.63,2021-03-10
+Mortality,Deaths per 100K,% Hispanic,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,214,348,135,1.63,2021-04-20
+Mortality,Deaths per 100K,% Hispanic,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,220,169,-52,0.77,2021-04-19
+Mortality,Deaths per 100K,% Limited English,Charlotte,2.39,6.29,Highest Limited English,Lowest  Limited English,62,85,23,1.37,2021-03-23
+Mortality,Deaths per 100K,% Limited English,Chicago,2.03,11.48,Highest Limited English,Lowest  Limited English,186,210,24,1.13,2021-04-19
+Mortality,Deaths per 100K,% Limited English,Detroit,0.22,1.86,Highest Limited English,Lowest  Limited English,340,147,-192,0.43,2021-03-10
+Mortality,Deaths per 100K,% Limited English,New York City,4.85,18,Highest Limited English,Lowest  Limited English,210,376,165,1.79,2021-04-20
+Mortality,Deaths per 100K,% Limited English,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,201,243,42,1.21,2021-04-19
+Mortality,Deaths per 100K,% NH Asian/PI,Charlotte,3.06,7.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,66,64,-3,0.96,2021-03-23
+Mortality,Deaths per 100K,% NH Asian/PI,Chicago,0.53,13.42,Highest % NH Asian/PI,Lowest % NH Asian/PI,233,99,-134,0.43,2021-04-19
+Mortality,Deaths per 100K,% NH Asian/PI,Detroit,0.16,1.19,Highest % NH Asian/PI,Lowest % NH Asian/PI,238,266,28,1.12,2021-03-10
+Mortality,Deaths per 100K,% NH Asian/PI,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,364,292,-72,0.8,2021-04-20
+Mortality,Deaths per 100K,% NH Asian/PI,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,212,229,17,1.08,2021-04-19
+Mortality,Deaths per 100K,% NH Black,Charlotte,15.05,45.42,Highest % NH Black,Lowest % NH Black,92,89,-3,0.97,2021-03-23
+Mortality,Deaths per 100K,% NH Black,Chicago,4.19,50.75,Highest % NH Black,Lowest % NH Black,147,217,70,1.48,2021-04-19
+Mortality,Deaths per 100K,% NH Black,Detroit,61.7,91.32,Highest % NH Black,Lowest % NH Black,142,303,161,2.13,2021-03-10
+Mortality,Deaths per 100K,% NH Black,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,254,366,111,1.44,2021-04-20
+Mortality,Deaths per 100K,% NH Black,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,175,271,97,1.55,2021-04-19
+Mortality,Deaths per 100K,% NH Native American,Charlotte,0.11,0.46,Highest % NH Native American,Lowest % NH Native American,67,78,10,1.15,2021-03-23
+Mortality,Deaths per 100K,% NH Native American,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,134,187,53,1.39,2021-04-19
+Mortality,Deaths per 100K,% NH Native American,Detroit,0.16,0.4,Highest % NH Native American,Lowest % NH Native American,197,215,17,1.09,2021-03-10
+Mortality,Deaths per 100K,% NH Native American,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,237,336,99,1.42,2021-04-20
+Mortality,Deaths per 100K,% NH Native American,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,267,221,-46,0.83,2021-04-19
+Mortality,Deaths per 100K,% NH White,Charlotte,25.13,70.08,Highest % NH White,Lowest % NH White,85,92,7,1.08,2021-03-23
+Mortality,Deaths per 100K,% NH White,Chicago,8.52,62.45,Highest % NH White,Lowest % NH White,239,116,-123,0.49,2021-04-19
+Mortality,Deaths per 100K,% NH White,Detroit,4.04,21.34,Highest % NH White,Lowest % NH White,303,172,-130,0.57,2021-03-10
+Mortality,Deaths per 100K,% NH White,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,378,198,-181,0.52,2021-04-20
+Mortality,Deaths per 100K,% NH White,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,261,156,-105,0.6,2021-04-19
+Mortality,Deaths per 100K,% Not Insured,Charlotte,6.99,15.24,Lowest % Insured,Highest % Insured,69,87,18,1.26,2021-03-23
+Mortality,Deaths per 100K,% Not Insured,Chicago,4.25,12.08,Lowest % Insured,Highest % Insured,87,225,139,2.6,2021-04-19
+Mortality,Deaths per 100K,% Not Insured,Detroit,6.96,8.98,Lowest % Insured,Highest % Insured,342,177,-165,0.52,2021-03-10
+Mortality,Deaths per 100K,% Not Insured,New York City,4.43,8.32,Lowest % Insured,Highest % Insured,205,371,166,1.81,2021-04-20
+Mortality,Deaths per 100K,% Not Insured,Philadelphia,5.06,9.62,Lowest % Insured,Highest % Insured,124,228,104,1.84,2021-04-19
+Mortality,Deaths per 100K,% Overcrowding,Charlotte,1.28,3.51,Highest Overcrowding,Lowest Overcrowding,107,98,-9,0.92,2021-03-23
+Mortality,Deaths per 100K,% Overcrowding,Chicago,2.36,4.71,Highest Overcrowding,Lowest Overcrowding,148,201,53,1.36,2021-04-19
+Mortality,Deaths per 100K,% Overcrowding,Detroit,1.82,3.03,Highest Overcrowding,Lowest Overcrowding,233,155,-78,0.67,2021-03-10
+Mortality,Deaths per 100K,% Overcrowding,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,260,355,94,1.36,2021-04-20
+Mortality,Deaths per 100K,% Overcrowding,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,258,253,-5,0.98,2021-04-19
+Mortality,Deaths per 100K,% Poverty,Charlotte,6.68,17.21,Highest Poverty,Lowest Poverty,69,88,18,1.26,2021-03-23
+Mortality,Deaths per 100K,% Poverty,Chicago,8.93,24.4,Highest Poverty,Lowest Poverty,133,225,91,1.68,2021-04-19
+Mortality,Deaths per 100K,% Poverty,Detroit,32.69,40.66,Highest Poverty,Lowest Poverty,314,199,-115,0.63,2021-03-10
+Mortality,Deaths per 100K,% Poverty,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,224,358,134,1.6,2021-04-20
+Mortality,Deaths per 100K,% Poverty,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,212,186,-26,0.88,2021-04-19
+Mortality,Deaths per 100K,% Production Worker,Charlotte,1.76,5.29,Highest % Production Workers,Lowest % Production Workers,46,91,45,2,2021-03-23
+Mortality,Deaths per 100K,% Production Worker,Chicago,1.84,6.17,Highest % Production Workers,Lowest % Production Workers,70,207,137,2.97,2021-04-19
+Mortality,Deaths per 100K,% Production Worker,Detroit,8.78,12.61,Highest % Production Workers,Lowest % Production Workers,359,187,-172,0.52,2021-03-10
+Mortality,Deaths per 100K,% Production Worker,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,198,337,139,1.71,2021-04-20
+Mortality,Deaths per 100K,% Production Worker,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,159,192,33,1.21,2021-04-19
+Mortality,Deaths per 100K,% Service Worker,Charlotte,7.07,10.25,Highest % Service Worker,Lowest % Service Worker,54,84,30,1.55,2021-03-23
+Mortality,Deaths per 100K,% Service Worker,Chicago,5.76,11.1,Highest % Service Worker,Lowest % Service Worker,96,215,120,2.25,2021-04-19
+Mortality,Deaths per 100K,% Service Worker,Detroit,9.28,12.3,Highest % Service Worker,Lowest % Service Worker,257,267,11,1.04,2021-03-10
+Mortality,Deaths per 100K,% Service Worker,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,175,351,176,2,2021-04-20
+Mortality,Deaths per 100K,% Service Worker,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,238,156,-82,0.65,2021-04-19
+Mortality,Deaths per 100K,% Using Public Transit,Charlotte,1.38,4.65,Most Public Transit Usage,Least Public Transit Usage,79,76,-3,0.96,2021-03-23
+Mortality,Deaths per 100K,% Using Public Transit,Chicago,18.34,33.38,Most Public Transit Usage,Least Public Transit Usage,166,184,18,1.11,2021-04-19
+Mortality,Deaths per 100K,% Using Public Transit,Detroit,4.9,9.03,Most Public Transit Usage,Least Public Transit Usage,158,305,147,1.93,2021-03-10
+Mortality,Deaths per 100K,% Using Public Transit,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,300,300,0,1,2021-04-20
+Mortality,Deaths per 100K,% Using Public Transit,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,247,259,12,1.05,2021-04-19
+Mortality,Deaths per 100K,COVID Local Risk Index,Charlotte,18.27,47.61,Highest Risk Areas,Lowest Risk Areas,40,79,39,1.96,2021-03-23
+Mortality,Deaths per 100K,COVID Local Risk Index,Chicago,13.6,72.24,Highest Risk Areas,Lowest Risk Areas,70,234,164,3.36,2021-04-19
+Mortality,Deaths per 100K,COVID Local Risk Index,Detroit,84.94,94.27,Highest Risk Areas,Lowest Risk Areas,274,319,45,1.16,2021-03-10
+Mortality,Deaths per 100K,COVID Local Risk Index,New York City,32.69,67.9,Highest Risk Areas,Lowest Risk Areas,147,412,265,2.8,2021-04-20
+Mortality,Deaths per 100K,COVID Local Risk Index,Philadelphia,33.98,78.76,Highest Risk Areas,Lowest Risk Areas,128,262,134,2.05,2021-04-19
+Mortality,Deaths per 100K,ICE - Hispanic,Charlotte,0.1,0.64,Mostly White,Mostly Hispanic,82,82,0,1,2021-03-23
+Mortality,Deaths per 100K,ICE - Hispanic,Chicago,-0.02,0.53,Mostly White,Mostly Hispanic,217,110,-107,0.51,2021-04-19
+Mortality,Deaths per 100K,ICE - Hispanic,Detroit,0.01,0.13,Mostly White,Mostly Hispanic,235,293,58,1.25,2021-03-10
+Mortality,Deaths per 100K,ICE - Hispanic,New York City,-0.18,0.42,Mostly White,Mostly Hispanic,368,201,-167,0.55,2021-04-20
+Mortality,Deaths per 100K,ICE - Hispanic,Philadelphia,0.03,0.61,Mostly White,Mostly Hispanic,230,156,-74,0.68,2021-04-19
+Mortality,Deaths per 100K,ICE - Income,Charlotte,-0.01,0.29,High-income,Low-income,86,75,-11,0.87,2021-03-23
+Mortality,Deaths per 100K,ICE - Income,Chicago,-0.13,0.32,High-income,Low-income,238,76,-163,0.32,2021-04-19
+Mortality,Deaths per 100K,ICE - Income,Detroit,-0.42,-0.3,High-income,Low-income,267,310,43,1.16,2021-03-10
+Mortality,Deaths per 100K,ICE - Income,New York City,-0.01,0.32,High-income,Low-income,394,177,-217,0.45,2021-04-20
+Mortality,Deaths per 100K,ICE - Income,Philadelphia,-0.26,0.17,High-income,Low-income,192,133,-58,0.7,2021-04-19
+Mortality,Deaths per 100K,ICE - Income + Black,Charlotte,-0.02,0.32,High-income + Mostly White,Low-income + Mostly Black,86,92,6,1.07,2021-03-23
+Mortality,Deaths per 100K,ICE - Income + Black,Chicago,-0.12,0.37,High-income + Mostly White,Low-income + Mostly Black,220,108,-111,0.49,2021-04-19
+Mortality,Deaths per 100K,ICE - Income + Black,Detroit,-0.44,-0.25,High-income + Mostly White,Low-income + Mostly Black,263,153,-110,0.58,2021-03-10
+Mortality,Deaths per 100K,ICE - Income + Black,New York City,-0.01,0.33,High-income + Mostly White,Low-income + Mostly Black,380,175,-206,0.46,2021-04-20
+Mortality,Deaths per 100K,ICE - Income + Black,Philadelphia,-0.23,0.19,High-income + Mostly White,Low-income + Mostly Black,277,150,-126,0.54,2021-04-19
+Mortality,Deaths per 100K,ICE - Income + People of Color,Charlotte,-0.07,0.29,High-income + Mostly White,Low-income + Mostly Minority,86,92,6,1.07,2021-03-23
+Mortality,Deaths per 100K,ICE - Income + People of Color,Chicago,-0.21,0.3,High-income + Mostly White,Low-income + Mostly Minority,231,109,-122,0.47,2021-04-19
+Mortality,Deaths per 100K,ICE - Income + People of Color,Detroit,-0.45,-0.3,High-income + Mostly White,Low-income + Mostly Minority,257,171,-86,0.66,2021-03-10
+Mortality,Deaths per 100K,ICE - Income + People of Color,New York City,-0.14,0.24,High-income + Mostly White,Low-income + Mostly Minority,389,184,-206,0.47,2021-04-20
+Mortality,Deaths per 100K,ICE - Income + People of Color,Philadelphia,-0.31,0.15,High-income + Mostly White,Low-income + Mostly Minority,212,177,-36,0.83,2021-04-19
+Mortality,Deaths per 100K,ICE - NH Black,Charlotte,-0.21,0.56,Mostly White,Mostly Black,85,92,7,1.08,2021-03-23
+Mortality,Deaths per 100K,ICE - NH Black,Chicago,-0.36,0.55,Mostly White,Mostly Black,226,114,-111,0.51,2021-04-19
+Mortality,Deaths per 100K,ICE - NH Black,Detroit,-0.87,-0.36,Mostly White,Mostly Black,303,142,-161,0.47,2021-03-10
+Mortality,Deaths per 100K,ICE - NH Black,New York City,-0.21,0.52,Mostly White,Mostly Black,380,207,-173,0.55,2021-04-20
+Mortality,Deaths per 100K,ICE - NH Black,Philadelphia,-0.59,0.55,Mostly White,Mostly Black,272,176,-96,0.65,2021-04-19
+Mortality,Deaths per 100K,ICE - Occupation + Black,Charlotte,-0.06,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,85,73,-12,0.86,2021-03-23
+Mortality,Deaths per 100K,ICE - Occupation + Black,Chicago,-0.07,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,233,85,-148,0.37,2021-04-19
+Mortality,Deaths per 100K,ICE - Occupation + Black,Detroit,-0.52,-0.1,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,293,200,-94,0.68,2021-03-10
+Mortality,Deaths per 100K,ICE - Occupation + Black,New York City,-0.06,0.39,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,382,163,-219,0.43,2021-04-20
+Mortality,Deaths per 100K,ICE - Occupation + Black,Philadelphia,-0.28,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,256,128,-128,0.5,2021-04-19
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Charlotte,0.23,0.52,Most Socially Vulnerable,Least Socially Vulnerable,74,88,14,1.19,2021-03-23
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Chicago,0.31,0.8,Most Socially Vulnerable,Least Socially Vulnerable,111,237,126,2.13,2021-04-19
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Detroit,0.8,0.87,Most Socially Vulnerable,Least Socially Vulnerable,272,209,-63,0.77,2021-03-10
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),New York City,0.42,0.77,Most Socially Vulnerable,Least Socially Vulnerable,178,386,209,2.18,2021-04-20
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Philadelphia,0.52,0.86,Most Socially Vulnerable,Least Socially Vulnerable,119,216,97,1.82,2021-04-19
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Charlotte,0.32,0.54,Most Socially Vulnerable,Least Socially Vulnerable,73,73,-1,0.99,2021-03-23
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Chicago,0.51,0.76,Most Socially Vulnerable,Least Socially Vulnerable,197,154,-43,0.78,2021-04-19
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Detroit,0.54,0.7,Most Socially Vulnerable,Least Socially Vulnerable,231,293,61,1.27,2021-03-10
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,New York City,0.5,0.82,Most Socially Vulnerable,Least Socially Vulnerable,296,267,-29,0.9,2021-04-20
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Philadelphia,0.54,0.73,Most Socially Vulnerable,Least Socially Vulnerable,222,199,-24,0.89,2021-04-19
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,Charlotte,0.19,0.4,Most Socially Vulnerable,Least Socially Vulnerable,48,96,47,1.98,2021-03-23
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,Chicago,0.11,0.58,Most Socially Vulnerable,Least Socially Vulnerable,68,235,167,3.45,2021-04-19
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,Detroit,0.65,0.86,Most Socially Vulnerable,Least Socially Vulnerable,230,298,68,1.3,2021-03-10
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,New York City,0.23,0.58,Most Socially Vulnerable,Least Socially Vulnerable,165,404,240,2.45,2021-04-20
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,Philadelphia,0.3,0.75,Most Socially Vulnerable,Least Socially Vulnerable,108,238,130,2.2,2021-04-19
+Mortality,Deaths per 100K,SVI - Minority Status & Language,Charlotte,0.47,0.82,Most Socially Vulnerable,Least Socially Vulnerable,73,90,17,1.23,2021-03-23
+Mortality,Deaths per 100K,SVI - Minority Status & Language,Chicago,0.55,0.79,Most Socially Vulnerable,Least Socially Vulnerable,109,212,103,1.95,2021-04-19
+Mortality,Deaths per 100K,SVI - Minority Status & Language,Detroit,0.59,0.72,Most Socially Vulnerable,Least Socially Vulnerable,355,160,-196,0.45,2021-03-10
+Mortality,Deaths per 100K,SVI - Minority Status & Language,New York City,0.57,0.83,Most Socially Vulnerable,Least Socially Vulnerable,182,377,195,2.07,2021-04-20
+Mortality,Deaths per 100K,SVI - Minority Status & Language,Philadelphia,0.7,0.89,Most Socially Vulnerable,Least Socially Vulnerable,165,184,19,1.12,2021-04-19
+Mortality,Deaths per 100K,SVI - Socioeconomic,Charlotte,0.19,0.59,Most Socially Vulnerable,Least Socially Vulnerable,63,87,24,1.39,2021-03-23
+Mortality,Deaths per 100K,SVI - Socioeconomic,Chicago,0.27,0.8,Most Socially Vulnerable,Least Socially Vulnerable,109,237,127,2.17,2021-04-19
+Mortality,Deaths per 100K,SVI - Socioeconomic,Detroit,0.85,0.93,Most Socially Vulnerable,Least Socially Vulnerable,317,202,-115,0.64,2021-03-10
+Mortality,Deaths per 100K,SVI - Socioeconomic,New York City,0.34,0.75,Most Socially Vulnerable,Least Socially Vulnerable,165,373,208,2.26,2021-04-20
+Mortality,Deaths per 100K,SVI - Socioeconomic,Philadelphia,0.49,0.88,Most Socially Vulnerable,Least Socially Vulnerable,144,166,22,1.15,2021-04-19
+Positivity,% Positive,% Complete College,Boston,36.73,79.52,Highest College Education,Lowest College Education,16.15,7.67,-8.47,0.48,2021-03-02
+Positivity,% Positive,% Complete College,Chicago,20.73,73.9,Highest College Education,Lowest College Education,10.49,4.56,-5.92,0.44,2021-04-19
+Positivity,% Positive,% Complete College,New York City,25.92,51.33,Highest College Education,Lowest College Education,16.3,7.79,-8.52,0.48,2021-04-20
+Positivity,% Positive,% Complete College,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,10.35,4.71,-5.63,0.46,2021-04-19
+Positivity,% Positive,% Complete High School,Boston,83.45,95.68,Highest High School Education,Lowest High School Education,14.58,7.67,-6.9,0.53,2021-03-02
+Positivity,% Positive,% Complete High School,Chicago,83.26,96.38,Highest High School Education,Lowest High School Education,10.4,4.81,-5.59,0.46,2021-04-19
+Positivity,% Positive,% Complete High School,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,15.72,9.34,-6.38,0.59,2021-04-20
+Positivity,% Positive,% Complete High School,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,10.21,5.23,-4.97,0.51,2021-04-19
+Positivity,% Positive,% Foreign Born,Boston,19.87,34.2,Highest Foreign Born,Lowest  Foreign Born,9.99,13.33,3.34,1.33,2021-03-02
+Positivity,% Positive,% Foreign Born,Chicago,12.05,29,Highest Foreign Born,Lowest  Foreign Born,6.45,8.99,2.54,1.39,2021-04-19
+Positivity,% Positive,% Foreign Born,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,11.09,15.69,4.6,1.41,2021-04-20
+Positivity,% Positive,% Foreign Born,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,7.01,8.81,1.81,1.26,2021-04-19
+Positivity,% Positive,% Healthcare Worker,Boston,8.41,12.26,Highest % Healthcare Worker,Lowest % Healthcare Worker,11.3,11.04,-0.26,0.98,2021-03-02
+Positivity,% Positive,% Healthcare Worker,Chicago,7.22,10.95,Highest % Healthcare Worker,Lowest % Healthcare Worker,8.44,6.16,-2.28,0.73,2021-04-19
+Positivity,% Positive,% Healthcare Worker,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,9.43,15.7,6.27,1.66,2021-04-20
+Positivity,% Positive,% Healthcare Worker,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,7.76,7.48,-0.28,0.96,2021-04-19
+Positivity,% Positive,% Hispanic,Boston,7.67,21.14,Highest % Hispanic,Lowest % Hispanic,8.16,13.99,5.83,1.72,2021-03-02
+Positivity,% Positive,% Hispanic,Chicago,5.77,38.37,Highest % Hispanic,Lowest % Hispanic,5.36,13.44,8.09,2.51,2021-04-19
+Positivity,% Positive,% Hispanic,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,11.25,15.72,4.47,1.4,2021-04-20
+Positivity,% Positive,% Hispanic,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,6.94,10.08,3.13,1.45,2021-04-19
+Positivity,% Positive,% Limited English,Boston,5.99,14.27,Highest Limited English,Lowest  Limited English,8.28,12.18,3.9,1.47,2021-03-02
+Positivity,% Positive,% Limited English,Chicago,2.03,11.48,Highest Limited English,Lowest  Limited English,6.25,9.55,3.3,1.53,2021-04-19
+Positivity,% Positive,% Limited English,New York City,4.85,18,Highest Limited English,Lowest  Limited English,10.73,15.76,5.03,1.47,2021-04-20
+Positivity,% Positive,% Limited English,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,7.05,10.6,3.55,1.5,2021-04-19
+Positivity,% Positive,% NH Asian/PI,Boston,4.28,17.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,11.41,7.94,-3.47,0.7,2021-03-02
+Positivity,% Positive,% NH Asian/PI,Chicago,0.53,13.42,Highest % NH Asian/PI,Lowest % NH Asian/PI,9.13,5.01,-4.12,0.55,2021-04-19
+Positivity,% Positive,% NH Asian/PI,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,14.89,13.88,-1.01,0.93,2021-04-20
+Positivity,% Positive,% NH Asian/PI,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,8.35,7.7,-0.66,0.92,2021-04-19
+Positivity,% Positive,% NH Black,Boston,4.43,23.49,Highest % NH Black,Lowest % NH Black,9.91,15.52,5.61,1.57,2021-03-02
+Positivity,% Positive,% NH Black,Chicago,4.19,50.75,Highest % NH Black,Lowest % NH Black,7.47,6.77,-0.7,0.91,2021-04-19
+Positivity,% Positive,% NH Black,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,12.83,14.23,1.4,1.11,2021-04-20
+Positivity,% Positive,% NH Black,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,6.97,7.86,0.9,1.13,2021-04-19
+Positivity,% Positive,% NH Native American,Boston,0,0.23,Highest % NH Native American,Lowest % NH Native American,11.28,10.55,-0.73,0.94,2021-03-02
+Positivity,% Positive,% NH Native American,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,6.21,9.15,2.94,1.47,2021-04-19
+Positivity,% Positive,% NH Native American,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,11.28,14.63,3.35,1.3,2021-04-20
+Positivity,% Positive,% NH Native American,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,7.51,7.91,0.4,1.05,2021-04-19
+Positivity,% Positive,% NH White,Boston,33.88,73.99,Highest % NH White,Lowest % NH White,15.59,9.76,-5.84,0.63,2021-03-02
+Positivity,% Positive,% NH White,Chicago,8.52,62.45,Highest % NH White,Lowest % NH White,9.46,5.71,-3.75,0.6,2021-04-19
+Positivity,% Positive,% NH White,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,15.52,10.78,-4.75,0.69,2021-04-20
+Positivity,% Positive,% NH White,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,8.84,6.7,-2.14,0.76,2021-04-19
+Positivity,% Positive,% Not Insured,Boston,1.75,4.3,Lowest % Insured,Highest % Insured,8.26,13.18,4.92,1.6,2021-03-02
+Positivity,% Positive,% Not Insured,Chicago,4.25,12.08,Lowest % Insured,Highest % Insured,5.14,9.46,4.32,1.84,2021-04-19
+Positivity,% Positive,% Not Insured,New York City,4.43,8.32,Lowest % Insured,Highest % Insured,9.94,15.61,5.67,1.57,2021-04-20
+Positivity,% Positive,% Not Insured,Philadelphia,5.06,9.62,Lowest % Insured,Highest % Insured,5.7,9.98,4.28,1.75,2021-04-19
+Positivity,% Positive,% Overcrowding,Boston,2.05,3.29,Highest Overcrowding,Lowest Overcrowding,8.24,14.19,5.95,1.72,2021-03-02
+Positivity,% Positive,% Overcrowding,Chicago,2.36,4.71,Highest Overcrowding,Lowest Overcrowding,6.27,8.76,2.49,1.4,2021-04-19
+Positivity,% Positive,% Overcrowding,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,12.03,15.62,3.59,1.3,2021-04-20
+Positivity,% Positive,% Overcrowding,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,6.65,9.82,3.17,1.48,2021-04-19
+Positivity,% Positive,% Poverty,Boston,11.1,25.06,Highest Poverty,Lowest Poverty,8.87,8.47,-0.4,0.96,2021-03-02
+Positivity,% Positive,% Poverty,Chicago,8.93,24.4,Highest Poverty,Lowest Poverty,9.69,7,-2.69,0.72,2021-04-19
+Positivity,% Positive,% Poverty,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,11.6,14.52,2.92,1.25,2021-04-20
+Positivity,% Positive,% Poverty,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,6.29,8.74,2.45,1.39,2021-04-19
+Positivity,% Positive,% Production Worker,Boston,0.78,2.24,Highest % Production Workers,Lowest % Production Workers,8.26,15.28,7.02,1.85,2021-03-02
+Positivity,% Positive,% Production Worker,Chicago,1.84,6.17,Highest % Production Workers,Lowest % Production Workers,4.54,13.4,8.86,2.95,2021-04-19
+Positivity,% Positive,% Production Worker,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,9.24,15.92,6.68,1.72,2021-04-20
+Positivity,% Positive,% Production Worker,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,4.96,10.46,5.51,2.11,2021-04-19
+Positivity,% Positive,% Service Worker,Boston,5.33,11.03,Highest % Service Worker,Lowest % Service Worker,9.97,11.95,1.97,1.2,2021-03-02
+Positivity,% Positive,% Service Worker,Chicago,5.76,11.1,Highest % Service Worker,Lowest % Service Worker,5.2,8.08,2.88,1.55,2021-04-19
+Positivity,% Positive,% Service Worker,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,9.32,15.04,5.72,1.61,2021-04-20
+Positivity,% Positive,% Service Worker,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,6.21,8.48,2.27,1.37,2021-04-19
+Positivity,% Positive,% Using Public Transit,Boston,22.89,37.33,Most Public Transit Usage,Least Public Transit Usage,8.32,13.68,5.36,1.64,2021-03-02
+Positivity,% Positive,% Using Public Transit,Chicago,18.34,33.38,Most Public Transit Usage,Least Public Transit Usage,11.35,5.58,-5.77,0.49,2021-04-19
+Positivity,% Positive,% Using Public Transit,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,15.29,12.47,-2.82,0.82,2021-04-20
+Positivity,% Positive,% Using Public Transit,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,9.12,8.24,-0.88,0.9,2021-04-19
+Positivity,% Positive,COVID Local Risk Index,Boston,12.59,39.03,Highest Risk Areas,Lowest Risk Areas,9.69,15.14,5.46,1.56,2021-03-02
+Positivity,% Positive,COVID Local Risk Index,Chicago,13.6,72.24,Highest Risk Areas,Lowest Risk Areas,4.6,7.6,3,1.65,2021-04-19
+Positivity,% Positive,COVID Local Risk Index,New York City,32.69,67.9,Highest Risk Areas,Lowest Risk Areas,8.56,15.15,6.59,1.77,2021-04-20
+Positivity,% Positive,COVID Local Risk Index,Philadelphia,33.98,78.76,Highest Risk Areas,Lowest Risk Areas,4.81,8.52,3.7,1.77,2021-04-19
+Positivity,% Positive,ICE - Hispanic,Boston,0.09,0.64,Mostly White,Mostly Hispanic,15.38,9.76,-5.62,0.63,2021-03-02
+Positivity,% Positive,ICE - Hispanic,Chicago,-0.02,0.53,Mostly White,Mostly Hispanic,10.67,5.46,-5.21,0.51,2021-04-19
+Positivity,% Positive,ICE - Hispanic,New York City,-0.18,0.42,Mostly White,Mostly Hispanic,15.7,10.98,-4.73,0.7,2021-04-20
+Positivity,% Positive,ICE - Hispanic,Philadelphia,0.03,0.61,Mostly White,Mostly Hispanic,9.41,6.63,-2.78,0.7,2021-04-19
+Positivity,% Positive,ICE - Income,Boston,0.01,0.36,High-income,Low-income,11.23,8.13,-3.1,0.72,2021-03-02
+Positivity,% Positive,ICE - Income,Chicago,-0.13,0.32,High-income,Low-income,7.63,5,-2.62,0.66,2021-04-19
+Positivity,% Positive,ICE - Income,New York City,-0.01,0.32,High-income,Low-income,14.91,9.82,-5.09,0.66,2021-04-20
+Positivity,% Positive,ICE - Income,Philadelphia,-0.26,0.17,High-income,Low-income,8.34,5.15,-3.18,0.62,2021-04-19
+Positivity,% Positive,ICE - Income + Black,Boston,0.12,0.46,High-income + Mostly White,Low-income + Mostly Black,13.93,9.97,-3.95,0.72,2021-03-02
+Positivity,% Positive,ICE - Income + Black,Chicago,-0.12,0.37,High-income + Mostly White,Low-income + Mostly Black,7.23,5.29,-1.94,0.73,2021-04-19
+Positivity,% Positive,ICE - Income + Black,New York City,-0.01,0.33,High-income + Mostly White,Low-income + Mostly Black,14.82,9.36,-5.46,0.63,2021-04-20
+Positivity,% Positive,ICE - Income + Black,Philadelphia,-0.23,0.19,High-income + Mostly White,Low-income + Mostly Black,8,6.12,-1.88,0.76,2021-04-19
+Positivity,% Positive,ICE - Income + People of Color,Boston,-0.07,0.38,High-income + Mostly White,Low-income + Mostly Minority,12.86,9.99,-2.87,0.78,2021-03-02
+Positivity,% Positive,ICE - Income + People of Color,Chicago,-0.21,0.3,High-income + Mostly White,Low-income + Mostly Minority,8.37,5.36,-3.02,0.64,2021-04-19
+Positivity,% Positive,ICE - Income + People of Color,New York City,-0.14,0.24,High-income + Mostly White,Low-income + Mostly Minority,14.91,9.97,-4.94,0.67,2021-04-20
+Positivity,% Positive,ICE - Income + People of Color,Philadelphia,-0.31,0.15,High-income + Mostly White,Low-income + Mostly Minority,8.07,6.71,-1.36,0.83,2021-04-19
+Positivity,% Positive,ICE - NH Black,Boston,0.12,0.7,Mostly White,Mostly Black,15.19,9.76,-5.43,0.64,2021-03-02
+Positivity,% Positive,ICE - NH Black,Chicago,-0.36,0.55,Mostly White,Mostly Black,7.31,5.48,-1.83,0.75,2021-04-19
+Positivity,% Positive,ICE - NH Black,New York City,-0.21,0.52,Mostly White,Mostly Black,14.7,11.37,-3.33,0.77,2021-04-20
+Positivity,% Positive,ICE - NH Black,Philadelphia,-0.59,0.55,Mostly White,Mostly Black,8,7.19,-0.8,0.9,2021-04-19
+Positivity,% Positive,ICE - Occupation + Black,Boston,0.15,0.58,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,15.19,9.74,-5.45,0.64,2021-03-02
+Positivity,% Positive,ICE - Occupation + Black,Chicago,-0.07,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,7.83,4.8,-3.03,0.61,2021-04-19
+Positivity,% Positive,ICE - Occupation + Black,New York City,-0.06,0.39,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,15.44,8.83,-6.62,0.57,2021-04-20
+Positivity,% Positive,ICE - Occupation + Black,Philadelphia,-0.28,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,8.47,4.81,-3.65,0.57,2021-04-19
+Positivity,% Positive,Social Vulnerability Index (SVI),Boston,0.45,0.8,Most Socially Vulnerable,Least Socially Vulnerable,9.97,14.38,4.4,1.44,2021-03-02
+Positivity,% Positive,Social Vulnerability Index (SVI),Chicago,0.31,0.8,Most Socially Vulnerable,Least Socially Vulnerable,5.37,9.45,4.08,1.76,2021-04-19
+Positivity,% Positive,Social Vulnerability Index (SVI),New York City,0.42,0.77,Most Socially Vulnerable,Least Socially Vulnerable,9.84,14.9,5.06,1.51,2021-04-20
+Positivity,% Positive,Social Vulnerability Index (SVI),Philadelphia,0.52,0.86,Most Socially Vulnerable,Least Socially Vulnerable,5.62,9.75,4.13,1.74,2021-04-19
+Positivity,% Positive,SVI -  Housing Type & Transportation,Boston,0.62,0.86,Most Socially Vulnerable,Least Socially Vulnerable,10.51,6.67,-3.84,0.63,2021-03-02
+Positivity,% Positive,SVI -  Housing Type & Transportation,Chicago,0.51,0.76,Most Socially Vulnerable,Least Socially Vulnerable,11.78,5.2,-6.57,0.44,2021-04-19
+Positivity,% Positive,SVI -  Housing Type & Transportation,New York City,0.5,0.82,Most Socially Vulnerable,Least Socially Vulnerable,15.89,11.53,-4.36,0.73,2021-04-20
+Positivity,% Positive,SVI -  Housing Type & Transportation,Philadelphia,0.54,0.73,Most Socially Vulnerable,Least Socially Vulnerable,8.42,6.38,-2.03,0.76,2021-04-19
+Positivity,% Positive,SVI - Household Composition & Disability,Boston,0.09,0.48,Most Socially Vulnerable,Least Socially Vulnerable,7.76,15.83,8.07,2.04,2021-03-02
+Positivity,% Positive,SVI - Household Composition & Disability,Chicago,0.11,0.58,Most Socially Vulnerable,Least Socially Vulnerable,4.58,8,3.42,1.75,2021-04-19
+Positivity,% Positive,SVI - Household Composition & Disability,New York City,0.23,0.58,Most Socially Vulnerable,Least Socially Vulnerable,8.65,15.59,6.94,1.8,2021-04-20
+Positivity,% Positive,SVI - Household Composition & Disability,Philadelphia,0.3,0.75,Most Socially Vulnerable,Least Socially Vulnerable,4.72,9.56,4.84,2.03,2021-04-19
+Positivity,% Positive,SVI - Minority Status & Language,Boston,0.51,0.86,Most Socially Vulnerable,Least Socially Vulnerable,9.88,15.28,5.39,1.55,2021-03-02
+Positivity,% Positive,SVI - Minority Status & Language,Chicago,0.55,0.79,Most Socially Vulnerable,Least Socially Vulnerable,5.25,9.56,4.32,1.82,2021-04-19
+Positivity,% Positive,SVI - Minority Status & Language,New York City,0.57,0.83,Most Socially Vulnerable,Least Socially Vulnerable,9.64,15.7,6.05,1.63,2021-04-20
+Positivity,% Positive,SVI - Minority Status & Language,Philadelphia,0.7,0.89,Most Socially Vulnerable,Least Socially Vulnerable,6.05,10.49,4.44,1.73,2021-04-19
+Positivity,% Positive,SVI - Socioeconomic,Boston,0.34,0.79,Most Socially Vulnerable,Least Socially Vulnerable,9.97,13.69,3.71,1.37,2021-03-02
+Positivity,% Positive,SVI - Socioeconomic,Chicago,0.27,0.8,Most Socially Vulnerable,Least Socially Vulnerable,5.31,9.47,4.17,1.78,2021-04-19
+Positivity,% Positive,SVI - Socioeconomic,New York City,0.34,0.75,Most Socially Vulnerable,Least Socially Vulnerable,9.15,15.26,6.11,1.67,2021-04-20
+Positivity,% Positive,SVI - Socioeconomic,Philadelphia,0.49,0.88,Most Socially Vulnerable,Least Socially Vulnerable,5.09,9.77,4.68,1.92,2021-04-19
+Testing,Tests per 100K,% Complete College,Boston,36.73,79.52,Highest College Education,Lowest College Education,67466,85339,17873,1.26,2021-03-02
+Testing,Tests per 100K,% Complete College,Chicago,20.73,73.9,Highest College Education,Lowest College Education,102350,186946,84596,1.83,2021-04-19
+Testing,Tests per 100K,% Complete College,New York City,25.92,51.33,Highest College Education,Lowest College Education,61341,72891,11550,1.19,2021-04-20
+Testing,Tests per 100K,% Complete College,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,88372,153341,64969,1.74,2021-04-19
+Testing,Tests per 100K,% Complete High School,Boston,83.45,95.68,Highest High School Education,Lowest High School Education,76453,85339,8886,1.12,2021-03-02
+Testing,Tests per 100K,% Complete High School,Chicago,83.26,96.38,Highest High School Education,Lowest High School Education,107379,184212,76833,1.72,2021-04-19
+Testing,Tests per 100K,% Complete High School,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,61525,72685,11160,1.18,2021-04-20
+Testing,Tests per 100K,% Complete High School,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,93165,145718,52553,1.56,2021-04-19
+Testing,Tests per 100K,% Foreign Born,Boston,19.87,34.2,Highest Foreign Born,Lowest  Foreign Born,75534,73483,-2051,0.97,2021-03-02
+Testing,Tests per 100K,% Foreign Born,Chicago,12.05,29,Highest Foreign Born,Lowest  Foreign Born,137551,124710,-12841,0.91,2021-04-19
+Testing,Tests per 100K,% Foreign Born,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,69681,60134,-9547,0.86,2021-04-20
+Testing,Tests per 100K,% Foreign Born,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,120324,119810,-514,1,2021-04-19
+Testing,Tests per 100K,% Healthcare Worker,Boston,8.41,12.26,Highest % Healthcare Worker,Lowest % Healthcare Worker,73754,76582,2828,1.04,2021-03-02
+Testing,Tests per 100K,% Healthcare Worker,Chicago,7.22,10.95,Highest % Healthcare Worker,Lowest % Healthcare Worker,151627,141854,-9772,0.94,2021-04-19
+Testing,Tests per 100K,% Healthcare Worker,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,70453,59956,-10496,0.85,2021-04-20
+Testing,Tests per 100K,% Healthcare Worker,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,116093,129641,13548,1.12,2021-04-19
+Testing,Tests per 100K,% Hispanic,Boston,7.67,21.14,Highest % Hispanic,Lowest % Hispanic,79289,75965,-3324,0.96,2021-03-02
+Testing,Tests per 100K,% Hispanic,Chicago,5.77,38.37,Highest % Hispanic,Lowest % Hispanic,165006,106655,-58352,0.65,2021-04-19
+Testing,Tests per 100K,% Hispanic,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,67647,63288,-4359,0.94,2021-04-20
+Testing,Tests per 100K,% Hispanic,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,121494,101068,-20426,0.83,2021-04-19
+Testing,Tests per 100K,% Limited English,Boston,5.99,14.27,Highest Limited English,Lowest  Limited English,80742,85337,4595,1.06,2021-03-02
+Testing,Tests per 100K,% Limited English,Chicago,2.03,11.48,Highest Limited English,Lowest  Limited English,141237,118935,-22302,0.84,2021-04-19
+Testing,Tests per 100K,% Limited English,New York City,4.85,18,Highest Limited English,Lowest  Limited English,68462,62244,-6218,0.91,2021-04-20
+Testing,Tests per 100K,% Limited English,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,118444,97130,-21313,0.82,2021-04-19
+Testing,Tests per 100K,% NH Asian/PI,Boston,4.28,17.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,73645,97968,24323,1.33,2021-03-02
+Testing,Tests per 100K,% NH Asian/PI,Chicago,0.53,13.42,Highest % NH Asian/PI,Lowest % NH Asian/PI,105673,175723,70050,1.66,2021-04-19
+Testing,Tests per 100K,% NH Asian/PI,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,61542,62730,1188,1.02,2021-04-20
+Testing,Tests per 100K,% NH Asian/PI,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,106258,147460,41202,1.39,2021-04-19
+Testing,Tests per 100K,% NH Black,Boston,4.43,23.49,Highest % NH Black,Lowest % NH Black,78730,65909,-12821,0.84,2021-03-02
+Testing,Tests per 100K,% NH Black,Chicago,4.19,50.75,Highest % NH Black,Lowest % NH Black,145971,132138,-13833,0.91,2021-04-19
+Testing,Tests per 100K,% NH Black,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,65708,59795,-5913,0.91,2021-04-20
+Testing,Tests per 100K,% NH Black,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,138904,110301,-28603,0.79,2021-04-19
+Testing,Tests per 100K,% NH Native American,Boston,0,0.23,Highest % NH Native American,Lowest % NH Native American,73653,86304,12651,1.17,2021-03-02
+Testing,Tests per 100K,% NH Native American,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,169557,137050,-32508,0.81,2021-04-19
+Testing,Tests per 100K,% NH Native American,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,68680,61841,-6839,0.9,2021-04-20
+Testing,Tests per 100K,% NH Native American,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,128218,134866,6647,1.05,2021-04-19
+Testing,Tests per 100K,% NH White,Boston,33.88,73.99,Highest % NH White,Lowest % NH White,70377,77334,6958,1.1,2021-03-02
+Testing,Tests per 100K,% NH White,Chicago,8.52,62.45,Highest % NH White,Lowest % NH White,106017,174044,68026,1.64,2021-04-19
+Testing,Tests per 100K,% NH White,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,60118,71509,11392,1.19,2021-04-20
+Testing,Tests per 100K,% NH White,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,102266,134774,32508,1.32,2021-04-19
+Testing,Tests per 100K,% Not Insured,Boston,1.75,4.3,Lowest % Insured,Highest % Insured,76195,78408,2213,1.03,2021-03-02
+Testing,Tests per 100K,% Not Insured,Chicago,4.25,12.08,Lowest % Insured,Highest % Insured,181475,121523,-59952,0.67,2021-04-19
+Testing,Tests per 100K,% Not Insured,New York City,4.43,8.32,Lowest % Insured,Highest % Insured,72531,61886,-10645,0.85,2021-04-20
+Testing,Tests per 100K,% Not Insured,Philadelphia,5.06,9.62,Lowest % Insured,Highest % Insured,144838,98064,-46774,0.68,2021-04-19
+Testing,Tests per 100K,% Overcrowding,Boston,2.05,3.29,Highest Overcrowding,Lowest Overcrowding,82472,71931,-10541,0.87,2021-03-02
+Testing,Tests per 100K,% Overcrowding,Chicago,2.36,4.71,Highest Overcrowding,Lowest Overcrowding,142558,139971,-2588,0.98,2021-04-19
+Testing,Tests per 100K,% Overcrowding,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,66477,61853,-4624,0.93,2021-04-20
+Testing,Tests per 100K,% Overcrowding,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,137807,118579,-19228,0.86,2021-04-19
+Testing,Tests per 100K,% Poverty,Boston,11.1,25.06,Highest Poverty,Lowest Poverty,79783,100401,20618,1.26,2021-03-02
+Testing,Tests per 100K,% Poverty,Chicago,8.93,24.4,Highest Poverty,Lowest Poverty,145295,138469,-6825,0.95,2021-04-19
+Testing,Tests per 100K,% Poverty,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,66419,62217,-4201,0.94,2021-04-20
+Testing,Tests per 100K,% Poverty,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,138409,120837,-17572,0.87,2021-04-19
+Testing,Tests per 100K,% Production Worker,Boston,0.78,2.24,Highest % Production Workers,Lowest % Production Workers,76195,72846,-3349,0.96,2021-03-02
+Testing,Tests per 100K,% Production Worker,Chicago,1.84,6.17,Highest % Production Workers,Lowest % Production Workers,185931,102626,-83305,0.55,2021-04-19
+Testing,Tests per 100K,% Production Worker,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,71740,60929,-10811,0.85,2021-04-20
+Testing,Tests per 100K,% Production Worker,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,150885,91479,-59406,0.61,2021-04-19
+Testing,Tests per 100K,% Service Worker,Boston,5.33,11.03,Highest % Service Worker,Lowest % Service Worker,70987,91635,20649,1.29,2021-03-02
+Testing,Tests per 100K,% Service Worker,Chicago,5.76,11.1,Highest % Service Worker,Lowest % Service Worker,182933,126897,-56036,0.69,2021-04-19
+Testing,Tests per 100K,% Service Worker,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,72102,62497,-9606,0.87,2021-04-20
+Testing,Tests per 100K,% Service Worker,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,144902,126129,-18772,0.87,2021-04-19
+Testing,Tests per 100K,% Using Public Transit,Boston,22.89,37.33,Most Public Transit Usage,Least Public Transit Usage,84158,76057,-8102,0.9,2021-03-02
+Testing,Tests per 100K,% Using Public Transit,Chicago,18.34,33.38,Most Public Transit Usage,Least Public Transit Usage,129160,151170,22010,1.17,2021-04-19
+Testing,Tests per 100K,% Using Public Transit,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,62394,64309,1915,1.03,2021-04-20
+Testing,Tests per 100K,% Using Public Transit,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,119440,107913,-11527,0.9,2021-04-19
+Testing,Tests per 100K,COVID Local Risk Index,Boston,12.59,39.03,Highest Risk Areas,Lowest Risk Areas,80774,70963,-9811,0.88,2021-03-02
+Testing,Tests per 100K,COVID Local Risk Index,Chicago,13.6,72.24,Highest Risk Areas,Lowest Risk Areas,189825,121227,-68598,0.64,2021-04-19
+Testing,Tests per 100K,COVID Local Risk Index,New York City,32.69,67.9,Highest Risk Areas,Lowest Risk Areas,73743,60863,-12880,0.83,2021-04-20
+Testing,Tests per 100K,COVID Local Risk Index,Philadelphia,33.98,78.76,Highest Risk Areas,Lowest Risk Areas,151273,105341,-45932,0.7,2021-04-19
+Testing,Tests per 100K,ICE - Hispanic,Boston,0.09,0.64,Mostly White,Mostly Hispanic,71781,77334,5553,1.08,2021-03-02
+Testing,Tests per 100K,ICE - Hispanic,Chicago,-0.02,0.53,Mostly White,Mostly Hispanic,105994,176907,70913,1.67,2021-04-19
+Testing,Tests per 100K,ICE - Hispanic,New York City,-0.18,0.42,Mostly White,Mostly Hispanic,62256,71110,8854,1.14,2021-04-20
+Testing,Tests per 100K,ICE - Hispanic,Philadelphia,0.03,0.61,Mostly White,Mostly Hispanic,98622,138147,39525,1.4,2021-04-19
+Testing,Tests per 100K,ICE - Income,Boston,0.01,0.36,High-income,Low-income,89077,80421,-8656,0.9,2021-03-02
+Testing,Tests per 100K,ICE - Income,Chicago,-0.13,0.32,High-income,Low-income,125808,173508,47699,1.38,2021-04-19
+Testing,Tests per 100K,ICE - Income,New York City,-0.01,0.32,High-income,Low-income,61959,70360,8401,1.14,2021-04-20
+Testing,Tests per 100K,ICE - Income,Philadelphia,-0.26,0.17,High-income,Low-income,121547,148974,27428,1.23,2021-04-19
+Testing,Tests per 100K,ICE - Income + Black,Boston,0.12,0.46,High-income + Mostly White,Low-income + Mostly Black,72983,70987,-1997,0.97,2021-03-02
+Testing,Tests per 100K,ICE - Income + Black,Chicago,-0.12,0.37,High-income + Mostly White,Low-income + Mostly Black,128567,169384,40817,1.32,2021-04-19
+Testing,Tests per 100K,ICE - Income + Black,New York City,-0.01,0.33,High-income + Mostly White,Low-income + Mostly Black,60052,73248,13197,1.22,2021-04-20
+Testing,Tests per 100K,ICE - Income + Black,Philadelphia,-0.23,0.19,High-income + Mostly White,Low-income + Mostly Black,110264,141754,31490,1.29,2021-04-19
+Testing,Tests per 100K,ICE - Income + People of Color,Boston,-0.07,0.38,High-income + Mostly White,Low-income + Mostly Minority,76818,75534,-1283,0.98,2021-03-02
+Testing,Tests per 100K,ICE - Income + People of Color,Chicago,-0.21,0.3,High-income + Mostly White,Low-income + Mostly Minority,117389,166559,49169,1.42,2021-04-19
+Testing,Tests per 100K,ICE - Income + People of Color,New York City,-0.14,0.24,High-income + Mostly White,Low-income + Mostly Minority,61474,72670,11196,1.18,2021-04-20
+Testing,Tests per 100K,ICE - Income + People of Color,Philadelphia,-0.31,0.15,High-income + Mostly White,Low-income + Mostly Minority,123607,135637,12030,1.1,2021-04-19
+Testing,Tests per 100K,ICE - NH Black,Boston,0.12,0.7,Mostly White,Mostly Black,69734,77334,7600,1.11,2021-03-02
+Testing,Tests per 100K,ICE - NH Black,Chicago,-0.36,0.55,Mostly White,Mostly Black,127236,177424,50188,1.39,2021-04-19
+Testing,Tests per 100K,ICE - NH Black,New York City,-0.21,0.52,Mostly White,Mostly Black,59730,70539,10809,1.18,2021-04-20
+Testing,Tests per 100K,ICE - NH Black,Philadelphia,-0.59,0.55,Mostly White,Mostly Black,107849,135222,27373,1.25,2021-04-19
+Testing,Tests per 100K,ICE - Occupation + Black,Boston,0.15,0.58,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,69734,72787,3052,1.04,2021-03-02
+Testing,Tests per 100K,ICE - Occupation + Black,Chicago,-0.07,0.44,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,120101,184435,64334,1.54,2021-04-19
+Testing,Tests per 100K,ICE - Occupation + Black,New York City,-0.06,0.39,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,59446,73552,14105,1.24,2021-04-20
+Testing,Tests per 100K,ICE - Occupation + Black,Philadelphia,-0.28,0.36,Mostly Non-Service Workers + Mostly White,Mostly Service Workers + Mostly Black,104586,151273,46687,1.45,2021-04-19
+Testing,Tests per 100K,Social Vulnerability Index (SVI),Boston,0.45,0.8,Most Socially Vulnerable,Least Socially Vulnerable,70987,75278,4292,1.06,2021-03-02
+Testing,Tests per 100K,Social Vulnerability Index (SVI),Chicago,0.31,0.8,Most Socially Vulnerable,Least Socially Vulnerable,166545,116068,-50477,0.7,2021-04-19
+Testing,Tests per 100K,Social Vulnerability Index (SVI),New York City,0.42,0.77,Most Socially Vulnerable,Least Socially Vulnerable,71258,61822,-9436,0.87,2021-04-20
+Testing,Tests per 100K,Social Vulnerability Index (SVI),Philadelphia,0.52,0.86,Most Socially Vulnerable,Least Socially Vulnerable,143501,96961,-46540,0.68,2021-04-19
+Testing,Tests per 100K,SVI -  Housing Type & Transportation,Boston,0.62,0.86,Most Socially Vulnerable,Least Socially Vulnerable,75056,102189,27133,1.36,2021-03-02
+Testing,Tests per 100K,SVI -  Housing Type & Transportation,Chicago,0.51,0.76,Most Socially Vulnerable,Least Socially Vulnerable,109487,164324,54837,1.5,2021-04-19
+Testing,Tests per 100K,SVI -  Housing Type & Transportation,New York City,0.5,0.82,Most Socially Vulnerable,Least Socially Vulnerable,59934,66814,6880,1.11,2021-04-20
+Testing,Tests per 100K,SVI -  Housing Type & Transportation,Philadelphia,0.54,0.73,Most Socially Vulnerable,Least Socially Vulnerable,116992,156034,39042,1.33,2021-04-19
+Testing,Tests per 100K,SVI - Household Composition & Disability,Boston,0.09,0.48,Most Socially Vulnerable,Least Socially Vulnerable,94621,66910,-27711,0.71,2021-03-02
+Testing,Tests per 100K,SVI - Household Composition & Disability,Chicago,0.11,0.58,Most Socially Vulnerable,Least Socially Vulnerable,187463,120690,-66773,0.64,2021-04-19
+Testing,Tests per 100K,SVI - Household Composition & Disability,New York City,0.23,0.58,Most Socially Vulnerable,Least Socially Vulnerable,70901,63432,-7469,0.89,2021-04-20
+Testing,Tests per 100K,SVI - Household Composition & Disability,Philadelphia,0.3,0.75,Most Socially Vulnerable,Least Socially Vulnerable,151656,96778,-54878,0.64,2021-04-19
+Testing,Tests per 100K,SVI - Minority Status & Language,Boston,0.51,0.86,Most Socially Vulnerable,Least Socially Vulnerable,73108,70579,-2529,0.97,2021-03-02
+Testing,Tests per 100K,SVI - Minority Status & Language,Chicago,0.55,0.79,Most Socially Vulnerable,Least Socially Vulnerable,165690,122405,-43285,0.74,2021-04-19
+Testing,Tests per 100K,SVI - Minority Status & Language,New York City,0.57,0.83,Most Socially Vulnerable,Least Socially Vulnerable,72969,61987,-10982,0.85,2021-04-20
+Testing,Tests per 100K,SVI - Minority Status & Language,Philadelphia,0.7,0.89,Most Socially Vulnerable,Least Socially Vulnerable,134981,91982,-42999,0.68,2021-04-19
+Testing,Tests per 100K,SVI - Socioeconomic,Boston,0.34,0.79,Most Socially Vulnerable,Least Socially Vulnerable,70987,81345,10358,1.15,2021-03-02
+Testing,Tests per 100K,SVI - Socioeconomic,Chicago,0.27,0.8,Most Socially Vulnerable,Least Socially Vulnerable,166972,114761,-52211,0.69,2021-04-19
+Testing,Tests per 100K,SVI - Socioeconomic,New York City,0.34,0.75,Most Socially Vulnerable,Least Socially Vulnerable,72228,61478,-10750,0.85,2021-04-20
+Testing,Tests per 100K,SVI - Socioeconomic,Philadelphia,0.49,0.88,Most Socially Vulnerable,Least Socially Vulnerable,148373,94336,-54038,0.64,2021-04-19
