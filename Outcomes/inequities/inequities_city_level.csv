@@ -1,27 +1,27 @@
 outcome,outcome_label,exposure,top_lab,bot_lab,bot_value,top_value,rate_diff,rr
-Incidence,Cases per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,7364,5134,-2230,0.7
-Incidence,Cases per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,3455,9528,6073,2.76
+Incidence,Cases per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,7365,5135,-2230,0.7
+Incidence,Cases per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,3455,9529,6074,2.76
 Incidence,Cases per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,4174,4149,-25,0.99
 Incidence,Cases per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,3633,9482,5849,2.61
 Incidence,Cases per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,7292,4669,-2623,0.64
 Incidence,Cases per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,6301,2796,-3505,0.44
-Incidence,Cases per 100K,% NH White,Highest % NH White,Lowest % NH White,5399,3406,-1994,0.63
-Incidence,Cases per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,8536,5645,-2890,0.66
-Incidence,Cases per 100K,% Poverty,Highest Poverty,Lowest Poverty,3514,8948,5434,2.55
-Incidence,Cases per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,3775,7417,3642,1.96
+Incidence,Cases per 100K,% NH White,Highest % NH White,Lowest % NH White,5400,3406,-1994,0.63
+Incidence,Cases per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,8536,5646,-2890,0.66
+Incidence,Cases per 100K,% Poverty,Highest Poverty,Lowest Poverty,3515,8949,5434,2.55
+Incidence,Cases per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,3776,7417,3641,1.96
 Incidence,Cases per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,4901,6841,1940,1.4
-Incidence,Cases per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),6511,6082,-429,0.93
-Incidence,Cases per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),3836,9764,5928,2.55
-Incidence,Cases per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,5442,5360,-82,0.98
-Incidence,Cases per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),4072,4815,743,1.18
-Incidence,Cases per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),3945,9682,5737,2.45
-Incidence,Cases per 100K,Population,Largest Population,Smallest Population,7562,5942,-1619,0.79
+Incidence,Cases per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),6511,6083,-429,0.93
+Incidence,Cases per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),3836,9765,5929,2.55
+Incidence,Cases per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,5442,5360,-81,0.99
+Incidence,Cases per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),4073,4815,742,1.18
+Incidence,Cases per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),3945,9683,5738,2.45
+Incidence,Cases per 100K,Population,Largest Population,Smallest Population,7562,5943,-1620,0.79
 Incidence,Cases per 100K,Population Density,Highest Population Density,Lowest Population Density,3372,6133,2761,1.82
 Mortality,Deaths per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,144,110,-34,0.77
-Mortality,Deaths per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,48,212,164,4.42
+Mortality,Deaths per 100K,% Healthcare Worker,Highest % Healthcare Worker,Lowest % Healthcare Worker,48,212,164,4.43
 Mortality,Deaths per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,74,63,-11,0.86
-Mortality,Deaths per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,59,189,130,3.21
-Mortality,Deaths per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,143,105,-38,0.74
+Mortality,Deaths per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,59,189,130,3.2
+Mortality,Deaths per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,143,105,-37,0.74
 Mortality,Deaths per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,122,44,-78,0.36
 Mortality,Deaths per 100K,% NH White,Highest % NH White,Lowest % NH White,103,45,-58,0.44
 Mortality,Deaths per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,167,117,-50,0.7
@@ -31,7 +31,7 @@ Mortality,Deaths per 100K,% Service Worker,Highest % Service Worker,Lowest % Ser
 Mortality,Deaths per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),119,147,28,1.24
 Mortality,Deaths per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),60,220,160,3.65
 Mortality,Deaths per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,81,116,35,1.43
-Mortality,Deaths per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),69,86,18,1.26
+Mortality,Deaths per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),69,86,18,1.25
 Mortality,Deaths per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),63,222,159,3.5
 Mortality,Deaths per 100K,Population,Largest Population,Smallest Population,147,134,-13,0.91
 Mortality,Deaths per 100K,Population Density,Highest Population Density,Lowest Population Density,49,139,91,2.87
