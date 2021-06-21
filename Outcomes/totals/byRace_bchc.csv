@@ -43,34 +43,34 @@ Charlotte,FALSE,deaths_rate_cum,Mortality,Hispanic,86.858,Deaths per 100K,2021-0
 Charlotte,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,39.75,Deaths per 100K,2021-05-26,LHD,county
 Charlotte,FALSE,deaths_rate_cum,Mortality,NH Black,110.729,Deaths per 100K,2021-05-26,LHD,county
 Charlotte,FALSE,deaths_rate_cum,Mortality,NH White,86.89,Deaths per 100K,2021-05-26,LHD,county
-Chicago,FALSE,tests_rate_cum,Testing,Hispanic,33928.871,Tests per 100K,2021-06-18,LHD,city
-Chicago,FALSE,tests_rate_cum,Testing,NH Asian/PI,30393.489,Tests per 100K,2021-06-18,LHD,city
-Chicago,FALSE,tests_rate_cum,Testing,NH Black,32842.798,Tests per 100K,2021-06-18,LHD,city
-Chicago,FALSE,tests_rate_cum,Testing,NH White,36181.405,Tests per 100K,2021-06-18,LHD,city
-Chicago,FALSE,positivity_rate_cum,Positivity,Hispanic,35.4814930328805,% Positive,2021-06-18,LHD,city
-Chicago,FALSE,positivity_rate_cum,Positivity,NH Asian/PI,14.9834525414308,% Positive,2021-06-18,LHD,city
-Chicago,FALSE,positivity_rate_cum,Positivity,NH Black,20.4220419953257,% Positive,2021-06-18,LHD,city
-Chicago,FALSE,positivity_rate_cum,Positivity,NH White,17.0587405326023,% Positive,2021-06-18,LHD,city
-Chicago,FALSE,cases_rate_cum,Incidence,Hispanic,12038.47,Cases per 100K,2021-06-18,LHD,city
-Chicago,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4553.994,Cases per 100K,2021-06-18,LHD,city
-Chicago,FALSE,cases_rate_cum,Incidence,NH Black,6707.17,Cases per 100K,2021-06-18,LHD,city
-Chicago,FALSE,cases_rate_cum,Incidence,NH White,6172.092,Cases per 100K,2021-06-18,LHD,city
+Chicago,FALSE,tests_rate_cum,Testing,Hispanic,33928.871,Tests per 100K,2021-06-20,LHD,city
+Chicago,FALSE,tests_rate_cum,Testing,NH Asian/PI,30393.489,Tests per 100K,2021-06-20,LHD,city
+Chicago,FALSE,tests_rate_cum,Testing,NH Black,32842.798,Tests per 100K,2021-06-20,LHD,city
+Chicago,FALSE,tests_rate_cum,Testing,NH White,36181.405,Tests per 100K,2021-06-20,LHD,city
+Chicago,FALSE,positivity_rate_cum,Positivity,Hispanic,35.4945821804681,% Positive,2021-06-20,LHD,city
+Chicago,FALSE,positivity_rate_cum,Positivity,NH Asian/PI,15.0233920166257,% Positive,2021-06-20,LHD,city
+Chicago,FALSE,positivity_rate_cum,Positivity,NH Black,20.4371107479941,% Positive,2021-06-20,LHD,city
+Chicago,FALSE,positivity_rate_cum,Positivity,NH White,17.0705117725528,% Positive,2021-06-20,LHD,city
+Chicago,FALSE,cases_rate_cum,Incidence,Hispanic,12042.911,Cases per 100K,2021-06-20,LHD,city
+Chicago,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4566.133,Cases per 100K,2021-06-20,LHD,city
+Chicago,FALSE,cases_rate_cum,Incidence,NH Black,6712.119,Cases per 100K,2021-06-20,LHD,city
+Chicago,FALSE,cases_rate_cum,Incidence,NH White,6176.351,Cases per 100K,2021-06-20,LHD,city
 Chicago,TRUE,hospital_rate_cum,Hospitalization,Hispanic,770.734486765312,Hospitalizations per 100K,2021-06-04,CDC,county
 Chicago,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,309.799569230362,Hospitalizations per 100K,2021-06-04,CDC,county
 Chicago,TRUE,hospital_rate_cum,Hospitalization,NH Black,890.724055466905,Hospitalizations per 100K,2021-06-04,CDC,county
 Chicago,TRUE,hospital_rate_cum,Hospitalization,NH White,300.304845485607,Hospitalizations per 100K,2021-06-04,CDC,county
-Chicago,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1022.915,Hospitalizations per 100K,2021-06-18,LHD,city
-Chicago,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,480.372,Hospitalizations per 100K,2021-06-18,LHD,city
-Chicago,FALSE,hospital_rate_cum,Hospitalization,NH Black,1549.065,Hospitalizations per 100K,2021-06-18,LHD,city
-Chicago,FALSE,hospital_rate_cum,Hospitalization,NH White,575.688,Hospitalizations per 100K,2021-06-18,LHD,city
+Chicago,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1024.057,Hospitalizations per 100K,2021-06-20,LHD,city
+Chicago,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,479.794,Hospitalizations per 100K,2021-06-20,LHD,city
+Chicago,FALSE,hospital_rate_cum,Hospitalization,NH Black,1550.302,Hospitalizations per 100K,2021-06-20,LHD,city
+Chicago,FALSE,hospital_rate_cum,Hospitalization,NH White,575.352,Hospitalizations per 100K,2021-06-20,LHD,city
 Chicago,TRUE,deaths_rate_cum,Mortality,Hispanic,323.446686642884,Deaths per 100K,2021-06-04,CDC,county
 Chicago,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,145.744966288289,Deaths per 100K,2021-06-04,CDC,county
 Chicago,TRUE,deaths_rate_cum,Mortality,NH Black,274.17855593532,Deaths per 100K,2021-06-04,CDC,county
 Chicago,TRUE,deaths_rate_cum,Mortality,NH White,138.804205056998,Deaths per 100K,2021-06-04,CDC,county
-Chicago,FALSE,deaths_rate_cum,Mortality,Hispanic,233.842,Deaths per 100K,2021-06-18,LHD,city
-Chicago,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,148.563,Deaths per 100K,2021-06-18,LHD,city
-Chicago,FALSE,deaths_rate_cum,Mortality,NH Black,272.84,Deaths per 100K,2021-06-18,LHD,city
-Chicago,FALSE,deaths_rate_cum,Mortality,NH White,136.946,Deaths per 100K,2021-06-18,LHD,city
+Chicago,FALSE,deaths_rate_cum,Mortality,Hispanic,233.969,Deaths per 100K,2021-06-20,LHD,city
+Chicago,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,148.563,Deaths per 100K,2021-06-20,LHD,city
+Chicago,FALSE,deaths_rate_cum,Mortality,NH Black,272.964,Deaths per 100K,2021-06-20,LHD,city
+Chicago,FALSE,deaths_rate_cum,Mortality,NH White,137.058,Deaths per 100K,2021-06-20,LHD,city
 Cleveland,TRUE,cases_rate_cum,Incidence,Hispanic,7920.82312456076,Cases per 100K,2021-06-04,CDC,county
 Cleveland,TRUE,cases_rate_cum,Incidence,NH Asian/PI,3328.88992640302,Cases per 100K,2021-06-04,CDC,county
 Cleveland,TRUE,cases_rate_cum,Incidence,NH Black,7535.0036674176,Cases per 100K,2021-06-04,CDC,county
@@ -131,26 +131,26 @@ Dallas,FALSE,deaths_rate_cum,Mortality,Hispanic,134.71,Deaths per 100K,2021-05-2
 Dallas,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,93.383,Deaths per 100K,2021-05-28,LHD,county
 Dallas,FALSE,deaths_rate_cum,Mortality,NH Black,135.818,Deaths per 100K,2021-05-28,LHD,county
 Dallas,FALSE,deaths_rate_cum,Mortality,NH White,147.732,Deaths per 100K,2021-05-28,LHD,county
-Denver,FALSE,cases_rate_cum,Incidence,Hispanic,11486.842,Cases per 100K,2021-04-22,LHD,county
-Denver,FALSE,cases_rate_cum,Incidence,NH Asian/PI,5520.297,Cases per 100K,2021-04-22,LHD,county
-Denver,FALSE,cases_rate_cum,Incidence,NH Black,5698.442,Cases per 100K,2021-04-22,LHD,county
-Denver,FALSE,cases_rate_cum,Incidence,NH White,5223.061,Cases per 100K,2021-04-22,LHD,county
-Denver,FALSE,hospital_rate_cum,Hospitalization,Hispanic,844.194869098148,Hospitalizations per 100K,2021-06-04,CDC,city
-Denver,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,380.952380952381,Hospitalizations per 100K,2021-06-04,CDC,city
-Denver,FALSE,hospital_rate_cum,Hospitalization,NH Black,690.060651070677,Hospitalizations per 100K,2021-06-04,CDC,city
-Denver,FALSE,hospital_rate_cum,Hospitalization,NH White,274.741787800162,Hospitalizations per 100K,2021-06-04,CDC,city
+Denver,FALSE,cases_rate_cum,Incidence,Hispanic,12000.74,Cases per 100K,2021-05-30,LHD,county
+Denver,FALSE,cases_rate_cum,Incidence,NH Asian/PI,5685.531,Cases per 100K,2021-05-30,LHD,county
+Denver,FALSE,cases_rate_cum,Incidence,NH Black,6189.247,Cases per 100K,2021-05-30,LHD,county
+Denver,FALSE,cases_rate_cum,Incidence,NH White,5449.104,Cases per 100K,2021-05-30,LHD,county
 Denver,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1049.96854762766,Hospitalizations per 100K,2021-06-04,CDC,city
 Denver,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,408.855936681166,Hospitalizations per 100K,2021-06-04,CDC,city
 Denver,TRUE,hospital_rate_cum,Hospitalization,NH Black,636.165446644056,Hospitalizations per 100K,2021-06-04,CDC,city
 Denver,TRUE,hospital_rate_cum,Hospitalization,NH White,257.613952884119,Hospitalizations per 100K,2021-06-04,CDC,city
-Denver,FALSE,deaths_rate_cum,Mortality,Hispanic,141.794688802915,Deaths per 100K,2021-06-04,CDC,city
-Denver,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,78.2312925170068,Deaths per 100K,2021-06-04,CDC,city
-Denver,FALSE,deaths_rate_cum,Mortality,NH Black,160.911003837109,Deaths per 100K,2021-06-04,CDC,city
-Denver,FALSE,deaths_rate_cum,Mortality,NH White,107.442321755943,Deaths per 100K,2021-06-04,CDC,city
+Denver,FALSE,hospital_rate_cum,Hospitalization,Hispanic,975.173,Hospitalizations per 100K,2021-05-30,LHD,county
+Denver,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,600.849,Hospitalizations per 100K,2021-05-30,LHD,county
+Denver,FALSE,hospital_rate_cum,Hospitalization,NH Black,916.276,Hospitalizations per 100K,2021-05-30,LHD,county
+Denver,FALSE,hospital_rate_cum,Hospitalization,NH White,369.936,Hospitalizations per 100K,2021-05-30,LHD,county
 Denver,TRUE,deaths_rate_cum,Mortality,Hispanic,229.940249879116,Deaths per 100K,2021-06-04,CDC,city
 Denver,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,86.7929588005547,Deaths per 100K,2021-06-04,CDC,city
 Denver,TRUE,deaths_rate_cum,Mortality,NH Black,151.205215872028,Deaths per 100K,2021-06-04,CDC,city
 Denver,TRUE,deaths_rate_cum,Mortality,NH White,101.965520809803,Deaths per 100K,2021-06-04,CDC,city
+Denver,FALSE,deaths_rate_cum,Mortality,Hispanic,96.711,Deaths per 100K,2021-05-30,LHD,county
+Denver,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,86.372,Deaths per 100K,2021-05-30,LHD,county
+Denver,FALSE,deaths_rate_cum,Mortality,NH Black,124.295,Deaths per 100K,2021-05-30,LHD,county
+Denver,FALSE,deaths_rate_cum,Mortality,NH White,83.458,Deaths per 100K,2021-05-30,LHD,county
 Kansas City,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1300,Hospitalizations per 100K,2021-05-22,LHD,city
 Kansas City,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,912.3,Hospitalizations per 100K,2021-05-22,LHD,city
 Kansas City,TRUE,hospital_rate_cum,Hospitalization,NH White,872.6,Hospitalizations per 100K,2021-05-22,LHD,city
@@ -190,14 +190,22 @@ Long Beach,FALSE,deaths_rate_cum,Mortality,Hispanic,191.938,Deaths per 100K,2021
 Long Beach,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,249.614,Deaths per 100K,2021-05-03,LHD,city
 Long Beach,FALSE,deaths_rate_cum,Mortality,NH Black,228.707,Deaths per 100K,2021-05-03,LHD,city
 Long Beach,FALSE,deaths_rate_cum,Mortality,NH White,184.136,Deaths per 100K,2021-05-03,LHD,city
-Los Angeles,FALSE,cases_rate_cum,Incidence,Hispanic,26348.9124267458,Cases per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,cases_rate_cum,Incidence,NH Asian/PI,7302.01253274096,Cases per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,cases_rate_cum,Incidence,NH Black,10710.039973493,Cases per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,cases_rate_cum,Incidence,NH White,8310.9481958159,Cases per 100K,2021-06-04,CDC,county
+Los Angeles,FALSE,tests_rate_cum,Testing,Hispanic,38981.134,Tests per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,tests_rate_cum,Testing,NH Asian/PI,28231.012,Tests per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,tests_rate_cum,Testing,NH Black,31133.613,Tests per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,tests_rate_cum,Testing,NH White,34625.422,Tests per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,positivity_rate_cum,Positivity,Hispanic,33.2706739624353,% Positive,2021-06-16,LHD,county
+Los Angeles,FALSE,positivity_rate_cum,Positivity,NH Asian/PI,14.6044428021213,% Positive,2021-06-16,LHD,county
+Los Angeles,FALSE,positivity_rate_cum,Positivity,NH Black,19.193281550715,% Positive,2021-06-16,LHD,county
+Los Angeles,FALSE,positivity_rate_cum,Positivity,NH White,14.3116378480528,% Positive,2021-06-16,LHD,county
 Los Angeles,TRUE,cases_rate_cum,Incidence,Hispanic,26149.9140853699,Cases per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,cases_rate_cum,Incidence,NH Asian/PI,6869.93711853739,Cases per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,cases_rate_cum,Incidence,NH Black,10272.9952808638,Cases per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,cases_rate_cum,Incidence,NH White,8004.73798247775,Cases per 100K,2021-06-04,CDC,county
+Los Angeles,FALSE,cases_rate_cum,Incidence,Hispanic,12969.286,Cases per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4122.982,Cases per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,cases_rate_cum,Incidence,NH Black,5975.562,Cases per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,cases_rate_cum,Incidence,NH White,4955.465,Cases per 100K,2021-06-16,LHD,county
 Los Angeles,FALSE,hospital_rate_cum,Hospitalization,Hispanic,2052.61400623109,Hospitalizations per 100K,2021-06-04,CDC,county
 Los Angeles,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,959.517257385365,Hospitalizations per 100K,2021-06-04,CDC,county
 Los Angeles,FALSE,hospital_rate_cum,Hospitalization,NH Black,1579.3976792575,Hospitalizations per 100K,2021-06-04,CDC,county
@@ -206,14 +214,14 @@ Los Angeles,TRUE,hospital_rate_cum,Hospitalization,Hispanic,2354.34700812761,Hos
 Los Angeles,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,710.430767326575,Hospitalizations per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,hospital_rate_cum,Hospitalization,NH Black,1336.81515262569,Hospitalizations per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,hospital_rate_cum,Hospitalization,NH White,755.541280910712,Hospitalizations per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,deaths_rate_cum,Mortality,Hispanic,529.294526594797,Deaths per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,450.780809654852,Deaths per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,deaths_rate_cum,Mortality,NH Black,512.101658693264,Deaths per 100K,2021-06-04,CDC,county
-Los Angeles,FALSE,deaths_rate_cum,Mortality,NH White,430.895580071003,Deaths per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,deaths_rate_cum,Mortality,Hispanic,693.829034205654,Deaths per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,313.066422874334,Deaths per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,deaths_rate_cum,Mortality,NH Black,423.343958086584,Deaths per 100K,2021-06-04,CDC,county
 Los Angeles,TRUE,deaths_rate_cum,Mortality,NH White,258.350696606174,Deaths per 100K,2021-06-04,CDC,county
+Los Angeles,FALSE,deaths_rate_cum,Mortality,Hispanic,254.315,Deaths per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,217.796,Deaths per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,deaths_rate_cum,Mortality,NH Black,241.822,Deaths per 100K,2021-06-16,LHD,county
+Los Angeles,FALSE,deaths_rate_cum,Mortality,NH White,201.91,Deaths per 100K,2021-06-16,LHD,county
 Miami,FALSE,hospital_rate_cum,Hospitalization,Hispanic,370.18306116953,Hospitalizations per 100K,2021-06-04,CDC,county
 Miami,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,132.606808756871,Hospitalizations per 100K,2021-06-04,CDC,county
 Miami,FALSE,hospital_rate_cum,Hospitalization,NH Black,348.812120921535,Hospitalizations per 100K,2021-06-04,CDC,county
@@ -246,30 +254,30 @@ Minneapolis,TRUE,deaths_rate_cum,Mortality,Hispanic,219.334373771011,Deaths per 
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,129.799024639879,Deaths per 100K,2021-06-04,CDC,county
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH Black,242.505743945414,Deaths per 100K,2021-06-04,CDC,county
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH White,117.416499797097,Deaths per 100K,2021-06-04,CDC,county
-New York City,FALSE,cases_rate_cum,Incidence,NH Asian/PI,6269.19,Cases per 100K,2021-06-20,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,NH Black,7048.415,Cases per 100K,2021-06-20,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,Hispanic,8896.736,Cases per 100K,2021-06-20,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,NH White,6475.701,Cases per 100K,2021-06-20,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH Asian/PI,5672.72,Cases per 100K,2021-06-20,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH Black,6851.15,Cases per 100K,2021-06-20,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,Hispanic,9011.93,Cases per 100K,2021-06-20,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH White,6364.03,Cases per 100K,2021-06-20,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,878.557,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH Black,1534.277,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1372.166,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH White,940.923,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,737.94,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH Black,1341.24,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1425.45,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH White,721.42,Hospitalizations per 100K,2021-06-20,LHD,city
-New York City,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,218.678,Deaths per 100K,2021-06-20,LHD,city
-New York City,FALSE,deaths_rate_cum,Mortality,NH Black,391.893,Deaths per 100K,2021-06-20,LHD,city
-New York City,FALSE,deaths_rate_cum,Mortality,Hispanic,339.338,Deaths per 100K,2021-06-20,LHD,city
-New York City,FALSE,deaths_rate_cum,Mortality,NH White,288.917,Deaths per 100K,2021-06-20,LHD,city
-New York City,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,191.27,Deaths per 100K,2021-06-20,LHD,city
-New York City,TRUE,deaths_rate_cum,Mortality,NH Black,333,Deaths per 100K,2021-06-20,LHD,city
-New York City,TRUE,deaths_rate_cum,Mortality,Hispanic,367.17,Deaths per 100K,2021-06-20,LHD,city
-New York City,TRUE,deaths_rate_cum,Mortality,NH White,198.77,Deaths per 100K,2021-06-20,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH Asian/PI,6269.788,Cases per 100K,2021-06-21,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH Black,7050.573,Cases per 100K,2021-06-21,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,Hispanic,8898.975,Cases per 100K,2021-06-21,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH White,6478.059,Cases per 100K,2021-06-21,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH Asian/PI,5673.51,Cases per 100K,2021-06-21,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH Black,6853.29,Cases per 100K,2021-06-21,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,Hispanic,9014.24,Cases per 100K,2021-06-21,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH White,6366.42,Cases per 100K,2021-06-21,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,878.471,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH Black,1534.439,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1372.777,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH White,941.365,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,737.86,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH Black,1341.4,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1426.09,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH White,721.75,Hospitalizations per 100K,2021-06-21,LHD,city
+New York City,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,218.678,Deaths per 100K,2021-06-21,LHD,city
+New York City,FALSE,deaths_rate_cum,Mortality,NH Black,391.947,Deaths per 100K,2021-06-21,LHD,city
+New York City,FALSE,deaths_rate_cum,Mortality,Hispanic,339.379,Deaths per 100K,2021-06-21,LHD,city
+New York City,FALSE,deaths_rate_cum,Mortality,NH White,288.991,Deaths per 100K,2021-06-21,LHD,city
+New York City,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,191.27,Deaths per 100K,2021-06-21,LHD,city
+New York City,TRUE,deaths_rate_cum,Mortality,NH Black,333.05,Deaths per 100K,2021-06-21,LHD,city
+New York City,TRUE,deaths_rate_cum,Mortality,Hispanic,367.22,Deaths per 100K,2021-06-21,LHD,city
+New York City,TRUE,deaths_rate_cum,Mortality,NH White,198.82,Deaths per 100K,2021-06-21,LHD,city
 Oakland,FALSE,cases_rate_cum,Incidence,Hispanic,9480.37152698664,Cases per 100K,2021-06-04,CDC,county
 Oakland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,1734.07318492117,Cases per 100K,2021-06-04,CDC,county
 Oakland,FALSE,cases_rate_cum,Incidence,NH Black,3684.52640126152,Cases per 100K,2021-06-04,CDC,county
@@ -294,18 +302,18 @@ Oakland,TRUE,deaths_rate_cum,Mortality,Hispanic,116.332950594078,Deaths per 100K
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,40.846787750221,Deaths per 100K,2021-06-04,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Black,94.6993140201242,Deaths per 100K,2021-06-04,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH White,41.0711257109957,Deaths per 100K,2021-06-04,CDC,county
-Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,7234.169,Cases per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,6904.697,Cases per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,8885.056,Cases per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,8253.526,Cases per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1037.273,Hospitalizations per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,658.594,Hospitalizations per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Black,1396.879,Hospitalizations per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH White,685.115,Hospitalizations per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,159.149,Deaths per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,145.769,Deaths per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,265.075,Deaths per 100K,2021-06-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,224.453,Deaths per 100K,2021-06-17,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,7234.169,Cases per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,6902.941,Cases per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,8890.019,Cases per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,8256.648,Cases per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1038.135,Hospitalizations per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,658.594,Hospitalizations per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Black,1397.189,Hospitalizations per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH White,684.932,Hospitalizations per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,159.58,Deaths per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,145.769,Deaths per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,265.23,Deaths per 100K,2021-06-21,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,224.453,Deaths per 100K,2021-06-21,LHD,city
 Phoenix,FALSE,cases_rate_cum,Incidence,Hispanic,11056.4252531311,Cases per 100K,2021-06-04,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4450.3324256029,Cases per 100K,2021-06-04,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Black,7988.47344947569,Cases per 100K,2021-06-04,CDC,county
@@ -330,30 +338,30 @@ Phoenix,TRUE,deaths_rate_cum,Mortality,Hispanic,381.442103346171,Deaths per 100K
 Phoenix,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,106.945304506478,Deaths per 100K,2021-06-04,CDC,county
 Phoenix,TRUE,deaths_rate_cum,Mortality,NH Black,199.454138334964,Deaths per 100K,2021-06-04,CDC,county
 Phoenix,TRUE,deaths_rate_cum,Mortality,NH White,130.982291016247,Deaths per 100K,2021-06-04,CDC,county
-Portland,FALSE,tests_rate_cum,Testing,Hispanic,49383.55,Tests per 100K,2021-04-27,LHD,county
-Portland,FALSE,tests_rate_cum,Testing,NH Asian/PI,55523.456,Tests per 100K,2021-04-27,LHD,county
-Portland,FALSE,tests_rate_cum,Testing,NH Black,76443.445,Tests per 100K,2021-04-27,LHD,county
-Portland,FALSE,tests_rate_cum,Testing,NH White,66086.86,Tests per 100K,2021-04-27,LHD,county
-Portland,FALSE,positivity_rate_cum,Positivity,Hispanic,17.5042883713301,% Positive,2021-04-27,LHD,county
-Portland,FALSE,positivity_rate_cum,Positivity,NH Asian/PI,8.48544442190342,% Positive,2021-04-27,LHD,county
-Portland,FALSE,positivity_rate_cum,Positivity,NH Black,8.7480084132786,% Positive,2021-04-27,LHD,county
-Portland,FALSE,positivity_rate_cum,Positivity,NH White,3.64931546150021,% Positive,2021-04-27,LHD,county
-Portland,FALSE,cases_rate_cum,Incidence,Hispanic,9056.28308435807,Cases per 100K,2021-06-04,CDC,county
-Portland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,3919.48544191122,Cases per 100K,2021-06-04,CDC,county
-Portland,FALSE,cases_rate_cum,Incidence,NH Black,6340.48816925544,Cases per 100K,2021-06-04,CDC,county
-Portland,FALSE,cases_rate_cum,Incidence,NH White,2310.74931094161,Cases per 100K,2021-06-04,CDC,county
+Portland,FALSE,tests_rate_cum,Testing,Hispanic,54493.117,Tests per 100K,2021-06-01,LHD,county
+Portland,FALSE,tests_rate_cum,Testing,NH Asian/PI,61131.239,Tests per 100K,2021-06-01,LHD,county
+Portland,FALSE,tests_rate_cum,Testing,NH Black,86899.492,Tests per 100K,2021-06-01,LHD,county
+Portland,FALSE,tests_rate_cum,Testing,NH White,72692.158,Tests per 100K,2021-06-01,LHD,county
+Portland,FALSE,positivity_rate_cum,Positivity,Hispanic,16.8742246841927,% Positive,2021-06-01,LHD,county
+Portland,FALSE,positivity_rate_cum,Positivity,NH Asian/PI,8.2409437178265,% Positive,2021-06-01,LHD,county
+Portland,FALSE,positivity_rate_cum,Positivity,NH Black,8.90296458810139,% Positive,2021-06-01,LHD,county
+Portland,FALSE,positivity_rate_cum,Positivity,NH White,3.65920076275628,% Positive,2021-06-01,LHD,county
 Portland,TRUE,cases_rate_cum,Incidence,Hispanic,9063.93474526806,Cases per 100K,2021-06-04,CDC,county
 Portland,TRUE,cases_rate_cum,Incidence,NH Asian/PI,3719.87717985616,Cases per 100K,2021-06-04,CDC,county
 Portland,TRUE,cases_rate_cum,Incidence,NH Black,6255.61150449318,Cases per 100K,2021-06-04,CDC,county
 Portland,TRUE,cases_rate_cum,Incidence,NH White,2204.04007273492,Cases per 100K,2021-06-04,CDC,county
-Portland,FALSE,hospital_rate_cum,Hospitalization,Hispanic,370.942,Hospitalizations per 100K,2021-04-27,LHD,county
-Portland,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,390.405,Hospitalizations per 100K,2021-04-27,LHD,county
-Portland,FALSE,hospital_rate_cum,Hospitalization,NH Black,491.884,Hospitalizations per 100K,2021-04-27,LHD,county
-Portland,FALSE,hospital_rate_cum,Hospitalization,NH White,199.372,Hospitalizations per 100K,2021-04-27,LHD,county
-Portland,FALSE,deaths_rate_cum,Mortality,Hispanic,33.235,Deaths per 100K,2021-04-27,LHD,county
-Portland,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,65.588,Deaths per 100K,2021-04-27,LHD,county
-Portland,FALSE,deaths_rate_cum,Mortality,NH Black,81.981,Deaths per 100K,2021-04-27,LHD,county
-Portland,FALSE,deaths_rate_cum,Mortality,NH White,57.957,Deaths per 100K,2021-04-27,LHD,county
+Portland,FALSE,cases_rate_cum,Incidence,Hispanic,9195.291,Cases per 100K,2021-06-01,LHD,county
+Portland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,5037.791,Cases per 100K,2021-06-01,LHD,county
+Portland,FALSE,cases_rate_cum,Incidence,NH Black,7736.631,Cases per 100K,2021-06-01,LHD,county
+Portland,FALSE,cases_rate_cum,Incidence,NH White,2659.952,Cases per 100K,2021-06-01,LHD,county
+Portland,FALSE,hospital_rate_cum,Hospitalization,Hispanic,399.889,Hospitalizations per 100K,2021-06-01,LHD,county
+Portland,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,407.583,Hospitalizations per 100K,2021-06-01,LHD,county
+Portland,FALSE,hospital_rate_cum,Hospitalization,NH Black,576.207,Hospitalizations per 100K,2021-06-01,LHD,county
+Portland,FALSE,hospital_rate_cum,Hospitalization,NH White,220.236,Hospitalizations per 100K,2021-06-01,LHD,county
+Portland,FALSE,deaths_rate_cum,Mortality,Hispanic,32.163,Deaths per 100K,2021-06-01,LHD,county
+Portland,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,70.273,Deaths per 100K,2021-06-01,LHD,county
+Portland,FALSE,deaths_rate_cum,Mortality,NH Black,98.377,Deaths per 100K,2021-06-01,LHD,county
+Portland,FALSE,deaths_rate_cum,Mortality,NH White,61.345,Deaths per 100K,2021-06-01,LHD,county
 San Diego,FALSE,cases_rate_cum,Incidence,Hispanic,11465.1067118233,Cases per 100K,2021-06-04,CDC,county
 San Diego,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4139.47521301317,Cases per 100K,2021-06-04,CDC,county
 San Diego,FALSE,cases_rate_cum,Incidence,NH Black,5198.16947038119,Cases per 100K,2021-06-04,CDC,county
@@ -406,10 +414,10 @@ San Jose,TRUE,cases_rate_cum,Incidence,Hispanic,12333.3212416169,Cases per 100K,
 San Jose,TRUE,cases_rate_cum,Incidence,NH Asian/PI,1360.13293797758,Cases per 100K,2021-06-04,CDC,county
 San Jose,TRUE,cases_rate_cum,Incidence,NH Black,2809.65793044796,Cases per 100K,2021-06-04,CDC,county
 San Jose,TRUE,cases_rate_cum,Incidence,NH White,1655.61387402999,Cases per 100K,2021-06-04,CDC,county
-San Jose,FALSE,cases_rate_cum,Incidence,Hispanic,12240.263,Cases per 100K,2021-06-20,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH Asian/PI,3000.344,Cases per 100K,2021-06-20,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH Black,5097.329,Cases per 100K,2021-06-20,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH White,2671.808,Cases per 100K,2021-06-20,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,Hispanic,12240.263,Cases per 100K,2021-06-21,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH Asian/PI,3000.344,Cases per 100K,2021-06-21,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH Black,5097.329,Cases per 100K,2021-06-21,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH White,2671.808,Cases per 100K,2021-06-21,LHD,county
 San Jose,FALSE,hospital_rate_cum,Hospitalization,Hispanic,602.739385193387,Hospitalizations per 100K,2021-06-04,CDC,county
 San Jose,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,103.561969043948,Hospitalizations per 100K,2021-06-04,CDC,county
 San Jose,FALSE,hospital_rate_cum,Hospitalization,NH Black,208.342471161016,Hospitalizations per 100K,2021-06-04,CDC,county
@@ -422,10 +430,10 @@ San Jose,TRUE,deaths_rate_cum,Mortality,Hispanic,185.282269857095,Deaths per 100
 San Jose,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,42.1974089839049,Deaths per 100K,2021-06-04,CDC,county
 San Jose,TRUE,deaths_rate_cum,Mortality,NH Black,96.0542900331609,Deaths per 100K,2021-06-04,CDC,county
 San Jose,TRUE,deaths_rate_cum,Mortality,NH White,48.1864818928805,Deaths per 100K,2021-06-04,CDC,county
-San Jose,FALSE,deaths_rate_cum,Mortality,Hispanic,124.853,Deaths per 100K,2021-06-20,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,73.563,Deaths per 100K,2021-06-20,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH Black,141.408,Deaths per 100K,2021-06-20,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH White,110.544,Deaths per 100K,2021-06-20,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,Hispanic,124.853,Deaths per 100K,2021-06-21,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,73.563,Deaths per 100K,2021-06-21,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH Black,141.408,Deaths per 100K,2021-06-21,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH White,110.544,Deaths per 100K,2021-06-21,LHD,county
 Seattle,FALSE,deaths_rate_cum,Mortality,Hispanic,61.0846111695008,Deaths per 100K,2021-06-04,CDC,county
 Seattle,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,57.7784197602196,Deaths per 100K,2021-06-04,CDC,county
 Seattle,FALSE,deaths_rate_cum,Mortality,NH Black,62.5449125701967,Deaths per 100K,2021-06-04,CDC,county
