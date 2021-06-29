@@ -1,6 +1,6 @@
 # totals/
 
-This folder the COVID-19 outcomes data presented on the dashboard including: cumulative rates by ZCTA and by Race/Ethnicity. Please see below for details about each file.
+This folder contains the COVID-19 outcomes data presented on the dashboard including: cumulative rates by ZCTA and by Race/Ethnicity. Please see below for details about each file.
 
 
 ## byRace_bchc.csv
