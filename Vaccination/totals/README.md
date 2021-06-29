@@ -4,7 +4,7 @@ This folder contains the vaccination data presented on the dashboard including: 
 
 ## byRace_vacc_bchc.csv
 
-This file contains cumulative vaccination outcomes by race/ethnicity group for each city where data was available. This dataset contains both crude and age-adjusted data. We age-adjust using the US 2000 standard population, where data was available. The columns include:
+This file contains cumulative vaccination outcomes by race/ethnicity group for each city where data was available. This dataset contains both crude and age-adjusted data, where data was available. We age-adjust using the US 2000 standard population, where data was available. The columns include:
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
