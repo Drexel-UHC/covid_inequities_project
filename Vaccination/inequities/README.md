@@ -2,7 +2,7 @@
 
 ## inequities_vacc_city_level.csv
 
-This table contains the inequities in COVID-19 outcomes by city-level characteristics. The columns in the table are described below.
+This table contains the inequities in COVID-19 vaccination rates by city-level characteristics. The columns in the table are described below.
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
