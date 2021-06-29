@@ -1,13 +1,13 @@
 # totals/
 
-This folder the data presented on the dashboard including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities. Please see below for details about each file.
+This folder contains the vaccination data presented on the dashboard including: vaccination rates by ZCTA and by Race/Ethnicity. Please see below for details about each file.
 
 ## byRace_vacc_bchc.csv
 
 This file contains cumulative vaccination outcomes by race/ethnicity group for each city where data was available. This dataset contains both crude and age-adjusted data. We age-adjust using the US 2000 standard population, where data was available. The columns include:
 
-| Column         | Description                                                                                                                                                                                                                                                                                                                                     |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Columns       | Description                                                                                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | city           | City for which data is presented                                                                                                                                                                                                                                                                                                                |
 | adjusted       | Logical value. If true then the data is age-adjusted and if false the data is unadjusted.                                                                                                                                                                                                                                                       |
 | type           | Shorthand code for COVID-19 outcome type.                                                                                                                                                                                                                                                                                                       |
@@ -23,8 +23,8 @@ This file contains cumulative vaccination outcomes by race/ethnicity group for e
 
 This file contains cumulative rates of confirmed cases, tests, testing positivity, hospitalizations, and deaths for each city by ZCTA where data was available. The columns include:
 
-| Column          | Description                                                                                                                                                                                                                                                                                                                                     |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Columns       | Description                                                                                                                                                                                   |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | city            | City for which data is presented                                                                                                                                                                                                                                                                                                                |
 | zcta            | ZCTA code                                                                                                                                                                                                                                                                                                                                       |
 | cases_per_100k  | Cumulative confirmed cases per 100,000 person by ZCTA. If blank, then this outcome is not available for ZCTAs in this particular city.                                                                                                                                                                                                          |
