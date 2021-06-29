@@ -21,7 +21,7 @@ This file contains cumulative vaccination outcomes by race/ethnicity group for e
 
 ## byZCTA_bchc.csv
 
-This file contains cumulative rates of confirmed cases, tests, testing positivity, hospitalizations, and deaths for each city by ZCTA where data was available. The columns include:
+This file contains cumulative vaccination rates for each city by ZCTA where data was available. The columns include:
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
