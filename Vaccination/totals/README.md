@@ -1,6 +1,6 @@
 # totals/
 
-This folder contains the vaccination data presented on the dashboard including: vaccination rates by ZCTA and by Race/Ethnicity. Please see below for details about each file.
+This folder contains the cumulative  vaccination data presented on the dashboard including: vaccination rates by ZCTA and by Race/Ethnicity. Please see below for details about each file.
 
 ## byRace_vacc_bchc.csv
 
