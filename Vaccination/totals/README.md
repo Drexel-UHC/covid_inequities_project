@@ -4,7 +4,7 @@ This folder contains the cumulative  vaccination data presented on the dashboard
 
 ## byRace_vacc_bchc.csv
 
-his file contains the cumulative vaccination outcomes, including % Fully Vaccinated, % Partially Vaccinated, % with at least one dose and Total Doses, by race/ethnicity group for each city where data was available. The columns include:
+This file contains the cumulative vaccination outcomes, including % Fully Vaccinated, % Partially Vaccinated, % with at least one dose and Total Doses, by race/ethnicity group for each city where data was available. The columns include:
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
