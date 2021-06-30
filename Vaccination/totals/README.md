@@ -19,7 +19,7 @@ This file contains cumulative vaccination outcomes by race/ethnicity group for e
 | source         | Data was collected from one of three sources: LHD (Local Health Department's publicly available data), JHU (Johns Hopkins University's COVID-19 data repository), CDC (Centers for Disease Control and Prevention, COVID-19 Surveillance data) or State (State Health Department's publicly available data).                                                                                               |
 | geo_level      | This column incidates whether the data collected was at the county or city level. Note, all city-county consolidates (Baltimore, New York City, Philadelphia, San Francisco, Washington, Denver) have been labeled as city.                                                                                                                     |     |
 
-## byZCTA_bchc.csv
+## byZCTA_vacc_bchc.csv
 
 This file contains cumulative vaccination rates for each city by ZCTA where data was available. The columns include:
 
