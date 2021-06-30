@@ -12,7 +12,11 @@ Diez Roux, A., Kolker, J., Barber, S., Bilal, U., Mullachery, P., Schnake-Mahl, 
 
 ## Outcomes/
 
-This folder includes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities.
+This folder includes COVID-19 outcomes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities.
+
+## Vaccinations/
+
+This folder includes COVID-19 vaccination data presented on the dashboard, including: cumulative vaccination rates (by city, by ZCTA, by Race/Ethnicity) and inequities.
 
 ## Crosswalks/
 
