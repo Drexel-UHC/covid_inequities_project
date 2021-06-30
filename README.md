@@ -14,6 +14,10 @@ Diez Roux, A., Kolker, J., Barber, S., Bilal, U., Mullachery, P., Schnake-Mahl, 
 
 This folder includes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities.
 
+## Vaccinations/
+
+This folder includes COVID-19 Vaccination data presented on the dashboard, including: cumulative vaccination rates (by city, by ZCTA, by Race/Ethnicity) and inequities.
+
 ## Crosswalks/
 
 This folder contains Geographic Relationship Files (aka crosswalks) which define the geographic relationship between BCHC cities and various geographic units.
