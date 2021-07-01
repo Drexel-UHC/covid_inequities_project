@@ -4,11 +4,11 @@ This folder includes vaccination data presented on the dashboard, including: cum
 
 ### inequities/
 
-This folder contains neighborhood and city level inequities.
+This folder contains neighborhood and city-level vaccination inequities.
 
 ### totals/
 
-This folder contains cumulative COVID-19 data for BCHC cities by race/ethnicity or by ZCTA.
+This folder contains cumulative COVID-19 vaccination data for BCHC cities by race/ethnicity or by ZCTA.
 
 ### codebook_vacc.xlsx
 
