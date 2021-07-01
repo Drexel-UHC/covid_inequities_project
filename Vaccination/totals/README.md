@@ -4,13 +4,13 @@ This folder contains the cumulative  vaccination data presented on the dashboard
 
 ## byRace_vacc_bchc.csv
 
-This file contains the cumulative vaccination outcomes, including % Fully Vaccinated, % Partially Vaccinated, % with at least one dose and Total Doses, by race/ethnicity group for each city where data was available. The columns include:
+This file contains the cumulative vaccination outcomes  by race/ethnicity group for each city where data was available. Vaccination outcomes include % Fully Vaccinated, % Partially Vaccinated, % with at least one dose and Total Doses. The columns in this dataset include:
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | city           | City for which data is presented                                                                                                                                                                                                                                                                                                                |
 | adjusted       | Logical value. If true then the data is age-adjusted and if false the data is unadjusted.                                                                                                                                                                                                                                                       |
-| type           | Shorthand code for COVID-19 vaccination outcome type.                                                                                                                                                                                                                                                                                                       |
+| type           | Shorthand code for COVID-19 vaccination outcome type. Vaccination outcomes include % Fully Vaccinated, % Partially Vaccinated, % with at least one dose and Total Doses.                                                                                                                                                                                                                                                                                                      |
 | type_label     | COVID-19 vaccination outcome type.                                                                                                                                                                                                                                                                                                                          |
 | race_ethnicity | Race and Ethnicity. Due to data availability we limited our dataset and analysis to Hispanic, Non-Hispanic white, Non-Hispanic Black and Non-Hispanic Asian/Pacific Islander.                                                                                                                                                                   |
 | value          | Cumulative rate of the COVID-19 vaccination outcome indicated by the type/type_label column.                                                                                                                                                                                                                                                                |
@@ -21,7 +21,7 @@ This file contains the cumulative vaccination outcomes, including % Fully Vaccin
 
 ## byZCTA_vacc_bchc.csv
 
-This file contains the cumulative vaccination outcomes, including % Fully Vaccinated, % Partially Vaccinated, % Either Partial or Full, by ZCTA where data was available.  Please note that we capped all percentages to 100%. The columns include: 
+This file contains the cumulative vaccination outcomes by ZCTA where data was available.  Please note that we capped all percentages to 100%. Vaccination outcomes include % Fully Vaccinated, % Partially Vaccinated and % with at least one dose.  The columns in this dataset include: 
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
