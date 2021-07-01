@@ -21,7 +21,7 @@ This file contains the cumulative vaccination outcomes  by race/ethnicity group 
 
 ## byZCTA_vacc_bchc.csv
 
-This file contains the cumulative vaccination outcomes by ZCTA where data was available.  Please note that we capped all percentages to 100%. Vaccination outcomes include % Fully Vaccinated, % Partially Vaccinated and % with at least one dose.  The columns in this dataset include: 
+This file contains the cumulative vaccination outcomes by ZCTA where data was available. Vaccination outcomes include % Fully Vaccinated, % Partially Vaccinated and % with at least one dose. Please note that we capped all percentages to 100%.  The columns in this dataset include: 
 
 | Columns       | Description                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
