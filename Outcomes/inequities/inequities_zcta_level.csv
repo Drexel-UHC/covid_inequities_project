@@ -111,7 +111,7 @@ Hospitalization,Hospitalization per 100K,Philadelphia,0.24,0.73,Most Socially Vu
 Hospitalization,Hospitalization per 100K,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,621.850289283927,944.561795354746,322.711506070819,1.51895369614193,2021-06-30,LHD,city
 Hospitalization,Hospitalizations per 100K,New York City,0.26,0.75,Most Socially Vulnerable,Least Socially Vulnerable,6.68400249918505,9.71980616184046,3.03580366265541,1.45418948646796,2021-08-04,LHD,city
 Hospitalization,Hospitalization per 100K,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,545.979582657159,967.308809147434,421.329226490275,1.77169410702093,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,36.98,54.77,Highest College Education,Lowest College Education,11673.8417843981,4074.64204429928,-7599.19974009886,0.349040369019302,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,36.98,54.77,Highest College Education,Lowest College Education,11673.8417843981,4074.64204429928,-7599.19974009886,0.349040369019302,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,49.77,73.23,Highest College Education,Lowest College Education,6909.42088569378,3192.03975032179,-3717.38113537199,0.461983689100635,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,12.15,46.7,Highest College Education,Lowest College Education,10144.6481120093,4938.27042750823,-5206.37768450106,0.486785778371384,2021-07-11,LHD,city
 Incidence,Cases per 100K,Long Beach,16.95,42.96,Highest College Education,Lowest College Education,13526.526727551,6772.96840029293,-6753.55832725811,0.500717481783231,2021-07-16,LHD,city
@@ -127,7 +127,7 @@ Incidence,Cases per 100K,Indianapolis,18.94,46.38,Highest College Education,Lowe
 Incidence,Cases per 100K,Cleveland,11.09,25.92,Highest College Education,Lowest College Education,8157.977369324,8768.00251756165,610.025148237654,1.07477651881354,2021-08-04,LHD,city
 Incidence,Cases per 100K,Columbus,21.89,61.71,Highest College Education,Lowest College Education,9440.64278304152,10450.5963881309,1009.95360508939,1.10697932633397,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),15.23,31.83,Highest College Education,Lowest College Education,14646.9013963477,10253.9452723047,-4392.95612404298,0.700076077173675,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,11674.9492322262,3785.81012728813,-7889.13910493803,0.324267802110713,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,11674.9492322262,3785.81012728813,-7889.13910493803,0.324267802110713,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,87.81,95.35,Highest High School Education,Lowest High School Education,6871.64126253402,3051.68704331596,-3819.95421921805,0.444098713353178,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,69.41,92.76,Highest High School Education,Lowest High School Education,9893.5912070999,4907.12563543294,-4986.46557166695,0.495990336846692,2021-07-11,LHD,city
 Incidence,Cases per 100K,Long Beach,71.8,91.92,Highest High School Education,Lowest High School Education,13491.1923731279,6772.96840029293,-6718.22397283493,0.502028895072575,2021-07-16,LHD,city
@@ -148,7 +148,7 @@ Incidence,Cases per 100K,Long Beach,14.96,37.23,Highest Foreign Born,Lowest  For
 Incidence,Cases per 100K,Las Vegas (Metro),11.96,26.97,Highest Foreign Born,Lowest  Foreign Born,8949.36763980868,13408.5103403268,4459.14270051807,1.49826343938346,2021-06-30,LHD,city
 Incidence,Cases per 100K,Chicago,11.8,29.56,Highest Foreign Born,Lowest  Foreign Born,8879.41231590386,12859.5668336716,3980.1545177677,1.44824526400682,2021-07-31,LHD,city
 Incidence,Cases per 100K,Phoenix,11.32,23.46,Highest Foreign Born,Lowest  Foreign Born,10833.0877143389,15340.8413296697,4507.75361533079,1.41610976798095,2021-08-04,LHD,county
-Incidence,Cases per 100K,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,5434.64942409017,7496.33740383422,2061.68797974405,1.37935988485388,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,5434.64942409017,7496.33740383422,2061.68797974405,1.37935988485388,2021-08-03,LHD,city
 Incidence,Cases per 100K,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,9660.39203651732,12435.1830183448,2774.79098182751,1.28723378630375,2021-08-04,LHD,city
 Incidence,Cases per 100K,Kansas City,4,8.74,Highest Foreign Born,Lowest  Foreign Born,7442.02433509164,9516.86459304143,2074.84025794979,1.27880052046675,2021-08-04,LHD,city
 Incidence,Cases per 100K,Houston,17.26,33.31,Highest Foreign Born,Lowest  Foreign Born,6726.01509077476,8423.3955277151,1697.38043694034,1.25236048596864,2021-07-11,LHD,city
@@ -173,9 +173,9 @@ Incidence,Cases per 100K,Indianapolis,7.84,10.35,Highest % Healthcare Worker,Low
 Incidence,Cases per 100K,Kansas City,7.34,10.36,Highest % Healthcare Worker,Lowest % Healthcare Worker,6691.56593835838,8257.40306465697,1565.83712629859,1.23400159853804,2021-08-04,LHD,city
 Incidence,Cases per 100K,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,9567.40862802386,12250.2529103902,2682.84428236633,1.28041493644455,2021-08-04,LHD,city
 Incidence,Cases per 100K,San Francisco,5.88,9.07,Highest % Healthcare Worker,Lowest % Healthcare Worker,3733.4547258098,5364.09776184957,1630.64303603977,1.43676518286587,2021-08-03,LHD,city
-Incidence,Cases per 100K,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,4918.15988087014,9186.19075218808,4268.03087131794,1.8678105174903,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,4918.15988087014,9186.19075218808,4268.03087131794,1.8678105174903,2021-08-03,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),4.97,8.81,Highest % Healthcare Worker,Lowest % Healthcare Worker,13370.1759950054,10456.4770949128,-2913.69890009258,0.782074753452683,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,3841.6584667382,11587.3123767194,7745.65390998118,3.01622657949542,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,3841.6584667382,11587.3123767194,7745.65390998118,3.01622657949542,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,7.7,19.63,Highest % Hispanic,Lowest % Hispanic,2920.18272083009,7400.57610611443,4480.39338528434,2.53428528746679,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,22.58,61.46,Highest % Hispanic,Lowest % Hispanic,4924.12636326164,10058.8496822997,5134.72331903804,2.04276838980974,2021-07-11,LHD,city
 Incidence,Cases per 100K,Long Beach,26.25,54.77,Highest % Hispanic,Lowest % Hispanic,6772.96840029293,13526.526727551,6753.55832725811,1.99713418520689,2021-07-16,LHD,city
@@ -192,7 +192,7 @@ Incidence,Cases per 100K,Columbus,3.57,6.7,Highest % Hispanic,Lowest % Hispanic,
 Incidence,Cases per 100K,Indianapolis,5.34,12.77,Highest % Hispanic,Lowest % Hispanic,10367.7690693064,9575.01556403181,-792.753505274588,0.923536731964689,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),15.97,37.29,Highest % Hispanic,Lowest % Hispanic,9321.9189621697,13988.154402963,4666.23544079334,1.50056597356509,2021-06-30,LHD,city
 Incidence,Cases per 100K,San Francisco,5.24,14.42,Highest Limited English,Lowest  Limited English,3051.68704331596,6481.79771263019,3430.11066931422,2.12400472939291,2021-08-03,LHD,city
-Incidence,Cases per 100K,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,4936.36421030832,9882.81287275209,4946.44866244377,2.00204289061865,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,4936.36421030832,9882.81287275209,4946.44866244377,2.00204289061865,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,2.68,11.06,Highest Limited English,Lowest  Limited English,6772.96840029293,13313.6745529065,6540.70615261355,1.96570746621683,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,4.44,17.14,Highest Limited English,Lowest  Limited English,5642.63326711418,9611.0505025457,3968.41723543152,1.7032917163977,2021-07-11,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),1.59,8.85,Highest Limited English,Lowest  Limited English,8920.73303397726,13607.4354219611,4686.7023879838,1.52537189153998,2021-06-30,LHD,city
@@ -218,7 +218,7 @@ Incidence,Cases per 100K,Kansas City,0.47,3.62,Highest % NH Asian/PI,Lowest % NH
 Incidence,Cases per 100K,Las Vegas (Metro),3.52,12.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,11103.2485110687,11044.8332508278,-58.415260240894,0.994738903647643,2021-06-30,LHD,city
 Incidence,Cases per 100K,Charlotte,3.06,7.31,Highest % NH Asian/PI,Lowest % NH Asian/PI,12007.7692963521,9719.96716592927,-2287.80213042282,0.809473177410409,2021-06-23,LHD,city
 Incidence,Cases per 100K,Baltimore,1.49,4.98,Highest % NH Asian/PI,Lowest % NH Asian/PI,8767.37752898544,6982.90558418944,-1784.47194479601,0.796464571201999,2021-08-04,LHD,city
-Incidence,Cases per 100K,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,7138.08319365386,5670.7362068474,-1467.34698680646,0.794434031238104,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,7138.08319365386,5670.7362068474,-1467.34698680646,0.794434031238104,2021-08-03,LHD,city
 Incidence,Cases per 100K,Chicago,0.53,12.9,Highest % NH Asian/PI,Lowest % NH Asian/PI,10945.7938787833,8644.50139720817,-2301.29248157509,0.789755543813429,2021-07-31,LHD,city
 Incidence,Cases per 100K,Phoenix,2.28,5.11,Highest % NH Asian/PI,Lowest % NH Asian/PI,14718.3038044646,11316.1192537962,-3402.18455066834,0.768846696204467,2021-08-04,LHD,county
 Incidence,Cases per 100K,Houston,1.38,9.77,Highest % NH Asian/PI,Lowest % NH Asian/PI,9989.39460308889,6580.51979046001,-3408.87481262887,0.658750610214678,2021-07-11,LHD,city
@@ -235,7 +235,7 @@ Incidence,Cases per 100K,Columbus,6.24,39.11,Highest % NH Black,Lowest % NH Blac
 Incidence,Cases per 100K,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,10113.2857761717,9466.65424157546,-646.631534596223,0.936061182398328,2021-08-04,LHD,city
 Incidence,Cases per 100K,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,11790.5732304392,10963.4200893867,-827.153141052413,0.929846231825524,2021-08-04,LHD,city
 Incidence,Cases per 100K,Cleveland,22.35,74.85,Highest % NH Black,Lowest % NH Black,9653.67753252066,8664.88219115323,-988.795341367431,0.897573195496075,2021-08-04,LHD,city
-Incidence,Cases per 100K,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,8293.43359565513,7076.47593666265,-1216.95765899249,0.853262506420738,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,8293.43359565513,7076.47593666265,-1216.95765899249,0.853262506420738,2021-08-03,LHD,city
 Incidence,Cases per 100K,Indianapolis,11.89,41.24,Highest % NH Black,Lowest % NH Black,11704.3889301817,9476.61675153598,-2227.77217864573,0.809663520929226,2021-08-04,LHD,city
 Incidence,Cases per 100K,Chicago,4.16,52.42,Highest % NH Black,Lowest % NH Black,11569.8156834385,8824.48590034991,-2745.32978308857,0.762716204112192,2021-07-31,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),4.82,12.55,Highest % NH Black,Lowest % NH Black,9594.96378997729,12658.0775930602,3063.11380308287,1.31924183041551,2021-06-30,LHD,city
@@ -246,7 +246,7 @@ Incidence,Cases per 100K,Cleveland,0.05,0.26,Highest % NH Native American,Lowest
 Incidence,Cases per 100K,Indianapolis,0.05,0.25,Highest % NH Native American,Lowest % NH Native American,10846.3867738965,10032.7158111099,-813.670962786562,0.924982302424915,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,11868.2316273975,11069.1983750388,-799.033252358728,0.932674615945801,2021-06-30,LHD,city
 Incidence,Cases per 100K,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,10771.6426359611,10185.2523428338,-586.390293127372,0.945561664739071,2021-08-04,LHD,city
-Incidence,Cases per 100K,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,6419.90052995139,6178.40580111034,-241.494728841047,0.962383415799921,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,6419.90052995139,6178.40580111034,-241.494728841047,0.962383415799921,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,0.04,0.21,Highest % NH Native American,Lowest % NH Native American,7371.13196088477,7134.95501056498,-236.17695031979,0.967959201982399,2021-07-11,LHD,city
 Incidence,Cases per 100K,Columbus,0.04,0.24,Highest % NH Native American,Lowest % NH Native American,10509.7168640374,10237.8199180994,-271.896945938055,0.974128994200744,2021-08-04,LHD,city
 Incidence,Cases per 100K,Baltimore,0.08,0.38,Highest % NH Native American,Lowest % NH Native American,8361.22427485759,9208.06061625061,846.836341393018,1.10128138099817,2021-08-04,LHD,city
@@ -255,7 +255,7 @@ Incidence,Cases per 100K,Long Beach,0.11,0.35,Highest % NH Native American,Lowes
 Incidence,Cases per 100K,Phoenix,0.67,2.13,Highest % NH Native American,Lowest % NH Native American,11117.0639451121,13743.2332006573,2626.16925554513,1.23622867229254,2021-08-04,LHD,county
 Incidence,Cases per 100K,San Francisco,0.07,0.26,Highest % NH Native American,Lowest % NH Native American,4195.40448132795,6001.59689185044,1806.19241052249,1.43051687115298,2021-08-03,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,12004.6250212874,11104.1714309243,-900.453590363069,0.924991110612258,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,10594.9377240721,5032.96990007097,-5561.96782400115,0.475035345289087,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,10594.9377240721,5032.96990007097,-5561.96782400115,0.475035345289087,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,8.47,48.94,Highest % NH White,Lowest % NH White,13526.526727551,6772.96840029293,-6753.55832725811,0.500717481783231,2021-07-16,LHD,city
 Incidence,Cases per 100K,San Francisco,32.99,51.73,Highest % NH White,Lowest % NH White,5995.6340111358,3239.22288051854,-2756.41113061725,0.540263610904581,2021-08-03,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),33.11,65.23,Highest % NH White,Lowest % NH White,13564.0903369249,8264.73016712038,-5299.36016980452,0.609309578587934,2021-06-30,LHD,city
@@ -272,7 +272,7 @@ Incidence,Cases per 100K,Cleveland,16.7,53.48,Highest % NH White,Lowest % NH Whi
 Incidence,Cases per 100K,Indianapolis,41.98,73.56,Highest % NH White,Lowest % NH White,9581.64962174754,11239.478428352,1657.82880660443,1.17302123037787,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),33.11,65.23,Highest % NH White,Lowest % NH White,13651.2177038467,8949.80288360873,-4701.41482023798,0.655604729026247,2021-06-30,LHD,city
 Incidence,Cases per 100K,San Francisco,2.46,4.41,Highest  % Not Insured,Lowest % Not Insured,2846.78598319076,6591.56768324302,3744.78170005226,2.31544194827565,2021-08-03,LHD,city
-Incidence,Cases per 100K,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,4957.94904243741,10920.2838460229,5962.33480358551,2.20258089636482,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,4957.94904243741,10920.2838460229,5962.33480358551,2.20258089636482,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,3.87,10.35,Highest  % Not Insured,Lowest % Not Insured,6772.96840029293,13605.9807501081,6833.01234981518,2.00886523396738,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,11.87,27.55,Highest  % Not Insured,Lowest % Not Insured,5162.91444636432,9719.58416082071,4556.66971445638,1.88257703314552,2021-07-11,LHD,city
 Incidence,Cases per 100K,Phoenix,6.91,16.86,Highest  % Not Insured,Lowest % Not Insured,10244.8499182862,15267.932554804,5023.08263651781,1.49030319395427,2021-08-04,LHD,county
@@ -287,7 +287,7 @@ Incidence,Cases per 100K,Cleveland,5.7,7.81,Highest  % Not Insured,Lowest % Not 
 Incidence,Cases per 100K,Columbus,4.36,10.68,Highest  % Not Insured,Lowest % Not Insured,10168.6399360022,9964.27505751229,-204.364878489863,0.979902437319439,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,7.12,12.43,Highest  % Not Insured,Lowest % Not Insured,11338.408059861,9419.93386135659,-1918.47419850436,0.830798628134055,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),5.82,14.6,Highest  % Not Insured,Lowest % Not Insured,9889.88824830172,13801.970890873,3912.08264257128,1.3955638875134,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,4208.77620858948,10911.1717114656,6702.39550287611,2.59248084732981,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,4208.77620858948,10911.1717114656,6702.39550287611,2.59248084732981,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,3.99,18.37,Highest Overcrowding,Lowest Overcrowding,7364.97192248051,13526.526727551,6161.55480507053,1.83660261979591,2021-07-16,LHD,city
 Incidence,Cases per 100K,San Francisco,2.83,8.89,Highest Overcrowding,Lowest Overcrowding,3278.04498546548,5763.06469739221,2485.01971192673,1.75807980761248,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,2.94,8.23,Highest Overcrowding,Lowest Overcrowding,5567.04342653501,9525.84002876588,3958.79660223088,1.71111293714029,2021-07-11,LHD,city
@@ -303,7 +303,7 @@ Incidence,Cases per 100K,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Over
 Incidence,Cases per 100K,Cleveland,1.01,2.04,Highest Overcrowding,Lowest Overcrowding,8908.36745648812,9062.82777939549,154.460322907371,1.01733879116031,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,0.8,2.58,Highest Overcrowding,Lowest Overcrowding,10315.7012880655,10212.7819914703,-102.919296595233,0.990023044122623,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),1.21,5.65,Highest Overcrowding,Lowest Overcrowding,9542.17455825826,13542.7105493592,4000.53599110098,1.41924783147451,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,3878.84537175338,10565.0694651695,6686.22409341616,2.72376659871692,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,3878.84537175338,10565.0694651695,6686.22409341616,2.72376659871692,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,6.94,16,Highest Poverty,Lowest Poverty,2809.54077492366,6812.18361540256,4002.6428404789,2.42466088273364,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,9.94,20.22,Highest Poverty,Lowest Poverty,7364.97192248051,13797.6609422429,6432.68901976235,1.8734166385791,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,9.27,23.52,Highest Poverty,Lowest Poverty,5320.37786805373,9434.80554255008,4114.42767449635,1.77333373240301,2021-07-11,LHD,city
@@ -319,7 +319,7 @@ Incidence,Cases per 100K,Chicago,9.2,24.58,Highest Poverty,Lowest Poverty,10335.
 Incidence,Cases per 100K,Cleveland,22.25,38.34,Highest Poverty,Lowest Poverty,9307.15963008287,8830.54897560479,-476.610654478074,0.948790965942224,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,7.48,24.49,Highest Poverty,Lowest Poverty,10781.0606400176,9446.80355852911,-1334.25708148846,0.87624064773962,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),6.35,16.95,Highest Poverty,Lowest Poverty,10312.6388904742,13952.5348799462,3639.89598947196,1.35295485744528,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,4390.38918058252,10667.4080343801,6277.01885379755,2.42971809459605,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,4390.38918058252,10667.4080343801,6277.01885379755,2.42971809459605,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,2.88,7.74,Highest % Production Workers,Lowest % Production Workers,4726.62273273726,10108.8252073318,5382.20247459449,2.13869940101557,2021-07-11,LHD,city
 Incidence,Cases per 100K,San Francisco,1.16,2.58,Highest % Production Workers,Lowest % Production Workers,3063.41882807821,6337.9877216151,3274.56889353688,2.06892628050835,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,3.01,7.89,Highest % Production Workers,Lowest % Production Workers,7733.87231404349,13313.6745529065,5579.80223886299,1.72147586775269,2021-07-16,LHD,city
@@ -335,7 +335,7 @@ Incidence,Cases per 100K,Kansas City,3.46,7.93,Highest % Production Workers,Lowe
 Incidence,Cases per 100K,Indianapolis,3.6,8.61,Highest % Production Workers,Lowest % Production Workers,10217.0831958772,10230.2883959871,13.2052001099582,1.00129246281515,2021-08-04,LHD,city
 Incidence,Cases per 100K,Columbus,2.72,7.18,Highest % Production Workers,Lowest % Production Workers,9913.65509460597,9700.96592404946,-212.689170556505,0.978545837178436,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),1.95,4,Highest % Production Workers,Lowest % Production Workers,10439.4401323029,14114.7432317107,3675.30309940785,1.35205940671428,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,3928.82767409396,11077.3460701059,7148.51839601192,2.81950418521741,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,3928.82767409396,11077.3460701059,7148.51839601192,2.81950418521741,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,6.87,11.01,Highest % Service Worker,Lowest % Service Worker,7398.06865362445,13797.6609422429,6399.59228861842,1.86503553673879,2021-07-16,LHD,city
 Incidence,Cases per 100K,San Francisco,4.63,11.11,Highest % Service Worker,Lowest % Service Worker,3629.712261851,6674.65113256153,3044.93887071053,1.83889263143898,2021-08-03,LHD,city
 Incidence,Cases per 100K,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,8603.97329203761,12260.4203969656,3656.447104928,1.4249719264368,2021-08-04,LHD,city
@@ -352,7 +352,7 @@ Incidence,Cases per 100K,Cleveland,9.55,11.36,Highest % Service Worker,Lowest % 
 Incidence,Cases per 100K,Indianapolis,6.61,9.84,Highest % Service Worker,Lowest % Service Worker,10758.8242117131,10215.8517027747,-542.972508938383,0.949532356114969,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),11.68,19.49,Highest % Service Worker,Lowest % Service Worker,9655.39275324778,11864.089188788,2208.69643554025,1.22875262477514,2021-06-30,LHD,city
 Incidence,Cases per 100K,Long Beach,2.72,6.94,Most Public Transit Usage,Least Public Transit Usage,6772.96840029293,13605.9807501081,6833.01234981518,2.00886523396738,2021-07-16,LHD,city
-Incidence,Cases per 100K,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,5842.77381169756,8193.46965068224,2350.69583898468,1.40232531923082,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,5842.77381169756,8193.46965068224,2350.69583898468,1.40232531923082,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,29,36.2,Most Public Transit Usage,Least Public Transit Usage,3391.7337014009,4599.55812995016,1207.82442854927,1.3561082723123,2021-08-03,LHD,city
 Incidence,Cases per 100K,Baltimore,9.17,22.98,Most Public Transit Usage,Least Public Transit Usage,6932.0920789686,9065.45447880302,2133.36239983443,1.30775159584318,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.35,4.35,Most Public Transit Usage,Least Public Transit Usage,10175.8903766444,13093.1125029036,2917.22212625913,1.28667979098465,2021-06-30,LHD,city
@@ -367,7 +367,7 @@ Incidence,Cases per 100K,New York City,42.45,65.85,Most Public Transit Usage,Lea
 Incidence,Cases per 100K,Indianapolis,0.3,2.52,Most Public Transit Usage,Least Public Transit Usage,11690.9660908424,9515.82831448401,-2175.13777635838,0.813947131532425,2021-08-04,LHD,city
 Incidence,Cases per 100K,Chicago,18.26,33.38,Most Public Transit Usage,Least Public Transit Usage,12244.751811782,8884.72876740052,-3360.02304438144,0.72559484291479,2021-07-31,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.35,4.35,Most Public Transit Usage,Least Public Transit Usage,10681.1379086872,13184.2274206073,2503.08951192011,1.23434670849857,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,3859.35190254849,11702.5910476237,7843.23914507523,3.03226845934832,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,3859.35190254849,11702.5910476237,7843.23914507523,3.03226845934832,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,16.02,39.8,Highest Risk Areas,Lowest Risk Areas,3192.03975032179,6879.83140315057,3687.79165282878,2.15530881232197,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,20.56,62.88,Highest Risk Areas,Lowest Risk Areas,6772.96840029293,13313.6745529065,6540.70615261355,1.96570746621683,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,42.48,81.76,Highest Risk Areas,Lowest Risk Areas,6664.96894822619,10031.0190453053,3366.05009707909,1.50503612593348,2021-07-11,LHD,city
@@ -383,7 +383,7 @@ Incidence,Cases per 100K,Cleveland,74.06,91.79,Highest Risk Areas,Lowest Risk Ar
 Incidence,Cases per 100K,Indianapolis,32.03,63.41,Highest Risk Areas,Lowest Risk Areas,11384.543663655,9277.46674768719,-2107.07691596776,0.814917753559628,2021-08-04,LHD,city
 Incidence,Cases per 100K,Columbus,13.69,68.61,Highest Risk Areas,Lowest Risk Areas,11738.4731857359,9422.06203089303,-2316.41115484285,0.802665038443189,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),23.84,53.52,Highest Risk Areas,Lowest Risk Areas,10172.032758784,13255.1767426713,3083.14398388733,1.30310008402449,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,11587.3123767194,4336.8477473967,-7250.46462932267,0.374275552984148,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,11587.3123767194,4336.8477473967,-7250.46462932267,0.374275552984148,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.14,0.43,highest concentration of NH White,highest concentration of Hispanic,6994.46350098707,3167.0496852226,-3827.41381576447,0.452793796804524,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,-0.49,0.23,highest concentration of NH White,highest concentration of Hispanic,13526.526727551,6772.96840029293,-6753.55832725811,0.500717481783231,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,-0.47,0.23,highest concentration of NH White,highest concentration of Hispanic,9868.85848465917,5206.21603886415,-4662.64244579502,0.527539841305562,2021-07-11,LHD,city
@@ -399,7 +399,7 @@ Incidence,Cases per 100K,Columbus,0.48,0.73,highest concentration of NH White,hi
 Incidence,Cases per 100K,Cleveland,0.15,0.4,highest concentration of NH White,highest concentration of Hispanic,8664.88219115323,9387.28987678906,722.407685635837,1.08337189931716,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,0.34,0.66,highest concentration of NH White,highest concentration of Hispanic,9788.44741982094,11200.8888392127,1412.44141939179,1.14429677749831,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),-0.04,0.49,highest concentration of NH White,highest concentration of Hispanic,13763.9352161452,9111.93829566904,-4651.99692047616,0.662015488490578,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,10528.3614300735,4480.41597056908,-6047.94545950446,0.425556816255479,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,10528.3614300735,4480.41597056908,-6047.94545950446,0.425556816255479,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.21,0.59,highest concentration of High-income,highest concentration of Low-income,7105.59331157339,3051.68704331596,-4053.90626825743,0.429476738887583,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,-0.01,0.27,highest concentration of High-income,highest concentration of Low-income,13619.1200174625,7364.97192248051,-6254.14809498201,0.540781776872302,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,-0.14,0.27,highest concentration of High-income,highest concentration of Low-income,9482.23755435453,5498.66563025874,-3983.57192409578,0.579891148976076,2021-07-11,LHD,city
@@ -417,7 +417,7 @@ Incidence,Cases per 100K,Indianapolis,-0.19,0.18,highest concentration of High-i
 Incidence,Cases per 100K,Las Vegas (Metro),-0.08,0.28,highest concentration of High-income,highest concentration of Low-income,13467.3150819149,10637.4254102257,-2829.88967168911,0.789869795540067,2021-06-30,LHD,city
 Incidence,Cases per 100K,San Francisco,0.2,0.42,highest concentration of High-income NH White,highest concentration of Low-income NH Black,7083.35445372787,3051.68704331596,-4031.6674104119,0.430825121522742,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,0.04,0.26,highest concentration of High-income NH White,highest concentration of Low-income NH Black,13654.134774905,6772.96840029293,-6881.16637461201,0.496037904411273,2021-07-16,LHD,city
-Incidence,Cases per 100K,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,10235.6041099144,5093.35137558093,-5142.25273433349,0.497611212868951,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,10235.6041099144,5093.35137558093,-5142.25273433349,0.497611212868951,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,-0.01,0.3,highest concentration of High-income NH White,highest concentration of Low-income NH Black,8525.34354066245,5610.12879587616,-2915.21474478629,0.658053105909236,2021-07-11,LHD,city
 Incidence,Cases per 100K,Phoenix,0.08,0.31,highest concentration of High-income NH White,highest concentration of Low-income NH Black,14913.4062628885,10317.5097704078,-4595.89649248066,0.69182784861716,2021-08-04,LHD,county
 Incidence,Cases per 100K,Charlotte,-0.02,0.32,highest concentration of High-income NH White,highest concentration of Low-income NH Black,11784.7949304329,8203.32737211495,-3581.46755831791,0.696094197696288,2021-06-23,LHD,city
@@ -433,7 +433,7 @@ Incidence,Cases per 100K,Cleveland,-0.38,-0.01,highest concentration of High-inc
 Incidence,Cases per 100K,Las Vegas (Metro),0.05,0.28,highest concentration of High-income NH White,highest concentration of Low-income NH Black,13603.2986744338,9793.76995910309,-3809.52871533076,0.719955519135192,2021-06-30,LHD,city
 Incidence,Cases per 100K,San Francisco,0.05,0.36,highest concentration of High-income NH White,highest concentration of Low-income Minority,6857.5128162191,3051.68704331596,-3805.82577290314,0.44501368427606,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,-0.13,0.19,highest concentration of High-income NH White,highest concentration of Low-income Minority,14149.742191128,6772.96840029293,-7376.77379083505,0.47866373173496,2021-07-16,LHD,city
-Incidence,Cases per 100K,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,10477.4163209614,5089.25020989578,-5388.16611106565,0.485735228418296,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,10477.4163209614,5089.25020989578,-5388.16611106565,0.485735228418296,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,-0.23,0.21,highest concentration of High-income NH White,highest concentration of Low-income Minority,9595.30820485902,5268.04174234617,-4327.26646251285,0.549022671275787,2021-07-11,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,13693.6980162379,9237.4636863398,-4456.23432989805,0.674577727315595,2021-06-30,LHD,city
 Incidence,Cases per 100K,Phoenix,-0.11,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,15212.7104894156,10279.9238383999,-4932.78665101569,0.675745709191815,2021-08-04,LHD,county
@@ -448,7 +448,7 @@ Incidence,Cases per 100K,Indianapolis,-0.05,0.25,highest concentration of High-i
 Incidence,Cases per 100K,Cleveland,-0.39,-0.09,highest concentration of High-income NH White,highest concentration of Low-income Minority,8483.2003322879,9884.3302796913,1401.12994740341,1.16516525515383,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,13798.110939473,9711.68960345063,-4086.42133602236,0.703841971270711,2021-06-30,LHD,city
 Incidence,Cases per 100K,San Francisco,0.26,0.49,highest concentration of NH White,highest concentration of NH Black,7083.35445372787,3186.41328295304,-3896.94117077483,0.449845239817989,2021-08-03,LHD,city
-Incidence,Cases per 100K,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,10061.6011951468,4959.69856723696,-5101.90262790982,0.492933328507323,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,10061.6011951468,4959.69856723696,-5101.90262790982,0.492933328507323,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,-0.05,0.37,highest concentration of NH White,highest concentration of NH Black,13466.369992268,6772.96840029293,-6693.40159197506,0.502954278263688,2021-07-16,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.22,0.59,highest concentration of NH White,highest concentration of NH Black,13528.4847803453,8324.90242595374,-5203.58235439154,0.615361037183447,2021-06-30,LHD,city
 Incidence,Cases per 100K,Phoenix,0.11,0.68,highest concentration of NH White,highest concentration of NH Black,15474.9056557065,10405.8609585169,-5069.04469718953,0.672434533045422,2021-08-04,LHD,county
@@ -464,7 +464,7 @@ Incidence,Cases per 100K,Cleveland,-0.58,0.3,highest concentration of NH White,h
 Incidence,Cases per 100K,Indianapolis,-0.04,0.62,highest concentration of NH White,highest concentration of NH Black,9581.64962174754,11209.5025701861,1627.85294843858,1.16989276509797,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.22,0.59,highest concentration of NH White,highest concentration of NH Black,13610.1977676052,9060.55452938495,-4549.64323822028,0.665718065533973,2021-06-30,LHD,city
 Incidence,Cases per 100K,Long Beach,0.03,0.35,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,14149.742191128,6772.96840029293,-7376.77379083505,0.47866373173496,2021-07-16,LHD,city
-Incidence,Cases per 100K,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,10061.6011951468,5162.35107524819,-4899.25011989859,0.513074507240284,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,10061.6011951468,5162.35107524819,-4899.25011989859,0.513074507240284,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.27,0.44,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,6284.27795726923,3318.63395607674,-2965.64400119249,0.52808516406216,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,-0.01,0.29,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,8640.57381603716,5323.1678539558,-3317.40596208136,0.616066475131066,2021-07-11,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.07,0.27,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,13671.5730006303,9094.76813749852,-4576.80486313177,0.66523202100294,2021-06-30,LHD,city
@@ -479,7 +479,7 @@ Incidence,Cases per 100K,Columbus,0.04,0.43,highest concentration of NH White No
 Incidence,Cases per 100K,Cleveland,-0.39,0.14,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,8664.88219115323,9597.16057391066,932.278382757433,1.10759273608005,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,0.01,0.32,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,9829.27087317474,11185.7227542283,1356.45188105352,1.13800127176833,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.07,0.27,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,13782.4808218078,9534.10389086818,-4248.37693093961,0.691755280789691,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,3690.25721135616,11126.6496521721,7436.39244081597,3.0151420388616,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,3690.25721135616,11126.6496521721,7436.39244081597,3.0151420388616,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,3035.06521480884,6934.40562058773,3899.34040577889,2.28476330154391,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,0.18,0.9,Most Socially Vulnerable,Least Socially Vulnerable,6772.96840029293,13313.6745529065,6540.70615261355,1.96570746621683,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,5626.16828938043,9725.94092765951,4099.77263827907,1.72869712163028,2021-07-11,LHD,city
@@ -495,7 +495,7 @@ Incidence,Cases per 100K,Columbus,0.24,0.76,Most Socially Vulnerable,Least Socia
 Incidence,Cases per 100K,Cleveland,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,9377.03286982746,8650.4832319195,-726.549637907969,0.922518173073085,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,11185.5466424837,9383.9839131182,-1801.56272936553,0.83893833829068,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,10036.6962189443,13710.6451290201,3673.94891007584,1.36605161996846,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,4676.7700026325,9636.30860043667,4959.53859780417,2.06046236933022,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,4676.7700026325,9636.30860043667,4959.53859780417,2.06046236933022,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,2593.39016839685,5060.10105108773,2466.71088269089,1.95115301690826,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,0.27,0.79,Most Socially Vulnerable,Least Socially Vulnerable,6772.96840029293,13169.1951688147,6396.22676852177,1.94437569917573,2021-07-16,LHD,city
 Incidence,Cases per 100K,Kansas City,0.22,0.76,Most Socially Vulnerable,Least Socially Vulnerable,6117.88242602402,9556.29221746416,3438.40979144014,1.56202613126626,2021-08-04,LHD,city
@@ -511,7 +511,7 @@ Incidence,Cases per 100K,Baltimore,0.24,0.76,Most Socially Vulnerable,Least Soci
 Incidence,Cases per 100K,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,12547.1758920863,11422.0565976319,-1125.11929445444,0.910328881643871,2021-08-04,LHD,city
 Incidence,Cases per 100K,Chicago,0.23,0.76,Most Socially Vulnerable,Least Socially Vulnerable,10645.7613305947,8731.03758248281,-1914.72374811189,0.820142149663905,2021-07-31,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,10634.5252835656,13254.6258352817,2620.10055171609,1.24637682283432,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,4174.42826401884,10670.4479065952,6496.01964257634,2.55614595142723,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,4174.42826401884,10670.4479065952,6496.01964257634,2.55614595142723,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,3431.80546053981,6073.3191523652,2641.51369182539,1.7697154521719,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,0.27,0.82,Most Socially Vulnerable,Least Socially Vulnerable,8209.08111010891,13313.6745529065,5104.59344279757,1.62182275632672,2021-07-16,LHD,city
 Incidence,Cases per 100K,Houston,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,6652.36884750443,9160.75071017518,2508.38186267075,1.37706596254231,2021-07-11,LHD,city
@@ -527,7 +527,7 @@ Incidence,Cases per 100K,Indianapolis,0.24,0.72,Most Socially Vulnerable,Least S
 Incidence,Cases per 100K,Cleveland,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,9924.36094973558,8562.73596201371,-1361.62498772187,0.862799731426722,2021-08-04,LHD,city
 Incidence,Cases per 100K,Kansas City,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,8544.63473304265,7272.14646440277,-1272.48826863988,0.851077511397991,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,10922.9950099713,12923.8479410457,2000.85293107443,1.18317805045667,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,5081.72104648251,10648.8479244363,5567.12687795377,2.09551996794615,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,5081.72104648251,10648.8479244363,5567.12687795377,2.09551996794615,2021-08-03,LHD,city
 Incidence,Cases per 100K,Long Beach,0.27,0.79,Most Socially Vulnerable,Least Socially Vulnerable,6772.96840029293,13730.8578864825,6957.88948618956,2.0273028124402,2021-07-16,LHD,city
 Incidence,Cases per 100K,San Francisco,0.24,0.69,Most Socially Vulnerable,Least Socially Vulnerable,3236.48341565233,5857.28639607625,2620.80298042392,1.80976870381883,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,5421.35826598826,9670.39099304508,4249.03272705682,1.78375796591673,2021-07-11,LHD,city
@@ -543,7 +543,7 @@ Incidence,Cases per 100K,Cleveland,0.25,0.73,Most Socially Vulnerable,Least Soci
 Incidence,Cases per 100K,Columbus,0.29,0.74,Most Socially Vulnerable,Least Socially Vulnerable,10124.3849849912,10439.1080402126,314.723055221406,1.03108564675168,2021-08-04,LHD,city
 Incidence,Cases per 100K,Indianapolis,0.26,0.71,Most Socially Vulnerable,Least Socially Vulnerable,11376.9313495449,9948.47075650869,-1428.46059303619,0.874442365067683,2021-08-04,LHD,city
 Incidence,Cases per 100K,Las Vegas (Metro),0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,9341.78499196896,13777.4178244762,4435.63283250722,1.47481641210117,2021-06-30,LHD,city
-Incidence,Cases per 100K,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,3612.37250988716,11126.6496521721,7514.27714228496,3.08015012895768,2021-07-29,LHD,city
+Incidence,Cases per 100K,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,3612.37250988716,11126.6496521721,7514.27714228496,3.08015012895768,2021-08-03,LHD,city
 Incidence,Cases per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,3208.18563845293,6674.65113256153,3466.4654941086,2.0805065182513,2021-08-03,LHD,city
 Incidence,Cases per 100K,Houston,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,5270.67011474227,9809.82041465688,4539.1502999146,1.86120933412592,2021-07-11,LHD,city
 Incidence,Cases per 100K,Long Beach,0.27,0.78,Most Socially Vulnerable,Least Socially Vulnerable,7398.06865362445,13730.8578864825,6332.78923285805,1.85600574005967,2021-07-16,LHD,city
@@ -563,7 +563,7 @@ Mortality,Deaths per 100K,Chicago,20.08,71.54,Highest College Education,Lowest C
 Mortality,Deaths per 100K,Houston,12.15,46.7,Highest College Education,Lowest College Education,157.791750837448,48.8552282265286,-108.93652261092,0.309618392388951,2021-07-11,LHD,city
 Mortality,Deaths per 100K,San Francisco,49.77,73.23,Highest College Education,Lowest College Education,93.6396816022799,40.3334288621426,-53.3062527401373,0.430730094036977,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,25.92,51.33,Highest College Education,Lowest College Education,464.825901292052,229.380231565147,-235.445669726905,0.493475580701399,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,36.98,54.77,Highest College Education,Lowest College Education,137.524056995766,89.523307593787,-48.0007494019795,0.650964707916833,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,36.98,54.77,Highest College Education,Lowest College Education,137.524056995766,89.523307593787,-48.0007494019795,0.650964707916833,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,30.44,64.59,Highest College Education,Lowest College Education,89.5434799826382,70.0649973065172,-19.478482676121,0.78246900075921,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),15.23,31.83,Highest College Education,Lowest College Education,229.916222355581,187.000255091825,-42.9159672637563,0.813340847270081,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,173.113782799355,160.369048939708,-12.7447338596473,0.926379438693111,2021-08-04,LHD,city
@@ -571,7 +571,7 @@ Mortality,Deaths per 100K,Las Vegas (Metro),15.23,31.83,Highest College Educatio
 Mortality,Deaths per 100K,Houston,69.41,92.76,Highest High School Education,Lowest High School Education,155.076709548395,49.2188757100585,-105.857833838336,0.317384060142821,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Chicago,82.66,95.92,Highest High School Education,Lowest High School Education,245.61431159049,79.8995513187123,-165.714760271778,0.325304949867611,2021-07-31,LHD,city
 Mortality,Deaths per 100K,San Francisco,87.81,95.35,Highest High School Education,Lowest High School Education,89.9672348520993,40.3334288621426,-49.6338059899566,0.448312420943562,2021-08-03,LHD,city
-Mortality,Deaths per 100K,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,134.639329194985,64.8945369158081,-69.7447922791769,0.481987969665444,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,134.639329194985,64.8945369158081,-69.7447922791769,0.481987969665444,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,449.731573686807,225.712790401847,-224.01878328496,0.501883353555766,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Charlotte,84.87,95.08,Highest High School Education,Lowest High School Education,100.440769650038,64.671482359738,-35.7692872902997,0.643876810035114,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),82.73,94.21,Highest High School Education,Lowest High School Education,243.795834355918,185.23134941758,-58.564484938338,0.759780616871248,2021-06-30,LHD,city
@@ -581,13 +581,13 @@ Mortality,Deaths per 100K,San Francisco,25.25,39.06,Highest Foreign Born,Lowest 
 Mortality,Deaths per 100K,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,282.851410884418,464.004927191488,181.153516307069,1.64045470284429,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),11.96,26.97,Highest Foreign Born,Lowest  Foreign Born,161.300557717184,245.299679592694,83.9991218755106,1.52076150922423,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,17.26,33.31,Highest Foreign Born,Lowest  Foreign Born,88.670801406784,128.652626625756,39.9818252189716,1.4509018141784,2021-07-11,LHD,city
-Mortality,Deaths per 100K,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,82.4212120343109,112.265422820972,29.8442107866609,1.36209381116887,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,82.4212120343109,112.265422820972,29.8442107866609,1.36209381116887,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,253.407863135729,273.089139014014,19.6812758782847,1.07766639769873,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Chicago,11.8,29.56,Highest Foreign Born,Lowest  Foreign Born,228.514946093172,235.122357621844,6.60741152867246,1.02891457054183,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Charlotte,10.3,18.76,Highest Foreign Born,Lowest  Foreign Born,105.291984462,83.0285302840441,-22.2634541779556,0.788555090003165,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),11.96,26.97,Highest Foreign Born,Lowest  Foreign Born,158.760524651891,261.443623785175,102.683099133285,1.64677979213306,2021-06-30,LHD,city
 Mortality,Deaths per 100K,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,287.974398084001,493.463594369888,205.489196285886,1.71356758674758,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,74.9480310070879,110.230889069384,35.2828580622962,1.4707643094581,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,74.9480310070879,110.230889069384,35.2828580622962,1.4707643094581,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,5.82,8,Highest % Healthcare Worker,Lowest % Healthcare Worker,76.36411631469,112.175659296401,35.8115429817109,1.46895773446961,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,233.15579032693,340.231384392746,107.075594065816,1.45924484189595,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,5.88,9.07,Highest % Healthcare Worker,Lowest % Healthcare Worker,69.6409092121783,75.6389974480991,5.99808823592083,1.0861288042298,2021-08-03,LHD,city
@@ -596,7 +596,7 @@ Mortality,Deaths per 100K,Las Vegas (Metro),4.97,8.81,Highest % Healthcare Worke
 Mortality,Deaths per 100K,Houston,6.08,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,124.731595192025,84.250775158522,-40.480820033503,0.675456567590733,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),4.97,8.81,Highest % Healthcare Worker,Lowest % Healthcare Worker,278.380752689342,172.834217478727,-105.546535210615,0.620855485909261,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,22.58,61.46,Highest % Hispanic,Lowest % Hispanic,53.9990192931025,152.42264176814,98.4236224750373,2.82269277782253,2021-07-11,LHD,city
-Mortality,Deaths per 100K,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,71.1377581895156,118.253903152818,47.1161449633021,1.66232260001477,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,71.1377581895156,118.253903152818,47.1161449633021,1.66232260001477,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,331.907841855933,428.048366835011,96.1405249790781,1.28966029980337,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,7.7,19.63,Highest % Hispanic,Lowest % Hispanic,68.7871735858218,88.1124834822615,19.3253098964396,1.28094350863724,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),15.97,37.29,Highest % Hispanic,Lowest % Hispanic,192.399404979362,243.762642231238,51.3632372518756,1.26696151818861,2021-06-30,LHD,city
@@ -608,7 +608,7 @@ Mortality,Deaths per 100K,Houston,4.44,17.14,Highest Limited English,Lowest  Lim
 Mortality,Deaths per 100K,San Francisco,5.24,14.42,Highest Limited English,Lowest  Limited English,40.3334288621426,93.6396816022799,53.3062527401373,2.32163949964024,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,4.85,18,Highest Limited English,Lowest  Limited English,291.241721282424,456.633585209311,165.391863926887,1.56788520270591,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),1.59,8.85,Highest Limited English,Lowest  Limited English,161.904821072879,246.859844223532,84.9550231506521,1.52472201005312,2021-06-30,LHD,city
-Mortality,Deaths per 100K,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,81.6643788069632,113.295271849992,31.6308930430286,1.3873279085095,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,81.6643788069632,113.295271849992,31.6308930430286,1.3873279085095,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,2.39,6.29,Highest Limited English,Lowest  Limited English,79.736866215209,97.3283188309392,17.5914526157302,1.22061881098075,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Chicago,1.95,11.7,Highest Limited English,Lowest  Limited English,230.332473951235,233.057823886855,2.72534993561928,1.01183224357759,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,253.578871316908,247.345686392942,-6.23318492396606,0.975419147141103,2021-08-04,LHD,city
@@ -619,7 +619,7 @@ Mortality,Deaths per 100K,Charlotte,3.06,7.31,Highest % NH Asian/PI,Lowest % NH 
 Mortality,Deaths per 100K,Las Vegas (Metro),3.52,12.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,210.911062850629,180.217371538036,-30.6936913125924,0.85447092770885,2021-06-30,LHD,city
 Mortality,Deaths per 100K,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,448.881925743163,398.331910634764,-50.5500151083988,0.887386833353317,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,254.927589109843,265.785609476768,10.8580203669244,1.04259256679451,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,98.3566857276882,103.551636714282,5.19495098659355,1.05281746683674,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,98.3566857276882,103.551636714282,5.19495098659355,1.05281746683674,2021-08-03,LHD,city
 Mortality,Deaths per 100K,San Francisco,20.35,45.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,55.6563388530399,68.3382922227073,12.6819533696675,1.22786179671563,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),3.52,12.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,242.292571905067,178.837029531774,-63.4555423732935,0.738103641088279,2021-06-30,LHD,city
 Mortality,Deaths per 100K,San Francisco,2.02,6.96,Highest % NH Black,Lowest % NH Black,51.5795007428587,106.940439141276,55.3609383984168,2.07331280064942,2021-08-03,LHD,city
@@ -629,20 +629,20 @@ Mortality,Deaths per 100K,Las Vegas (Metro),4.82,12.55,Highest % NH Black,Lowest
 Mortality,Deaths per 100K,Houston,6.39,29.26,Highest % NH Black,Lowest % NH Black,110.340898053064,115.91071768713,5.56981963406535,1.05047828803593,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Charlotte,15.05,45.42,Highest % NH Black,Lowest % NH Black,93.4961408740737,96.567326772637,3.07118589856327,1.0328482637877,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,275.609232962259,275.484563259438,-0.124669702821166,0.999547657741792,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,100.127266756666,84.4063572219044,-15.7209095347618,0.842990725264003,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,100.127266756666,84.4063572219044,-15.7209095347618,0.842990725264003,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),4.82,12.55,Highest % NH Black,Lowest % NH Black,117.190253357254,253.276179640267,136.085926283014,2.16123928726527,2021-06-30,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.07,0.26,Highest % NH Native American,Lowest % NH Native American,70.5812447000623,96.4046603954365,25.8234156953741,1.36586795550449,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,180.65063798573,231.222720505607,50.5720825198775,1.27994411248009,2021-06-30,LHD,city
 Mortality,Deaths per 100K,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,348.044551611967,413.631534158475,65.586982546508,1.18844421566935,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,194.477846687377,208.113796551432,13.6359498640553,1.07011569747569,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Charlotte,0.11,0.46,Highest % NH Native American,Lowest % NH Native American,87.0579867917726,92.6372745984037,5.57928780663117,1.06408702994679,2021-06-23,LHD,city
-Mortality,Deaths per 100K,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,104.871587043388,105.940987029497,1.06939998610956,1.01019723278973,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,104.871587043388,105.940987029497,1.06939998610956,1.01019723278973,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,332.052616833773,243.052937108515,-88.9996797252572,0.731971153927659,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Houston,0.04,0.21,Highest % NH Native American,Lowest % NH Native American,130.35091674855,72.1561160565343,-58.1948006920152,0.553552808498658,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,185.938492186948,208.851421355351,22.9129291684028,1.12322854132519,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,7.13,52.12,Highest % NH White,Lowest % NH White,157.339102715397,54.6325634341447,-102.706539281253,0.347228136498063,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Chicago,8.11,61.65,Highest % NH White,Lowest % NH White,260.049349804272,128.00482833197,-132.044521472302,0.492232833607596,2021-07-31,LHD,city
-Mortality,Deaths per 100K,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,129.396189245327,76.4172591453717,-52.9789300999549,0.590568080799425,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,129.396189245327,76.4172591453717,-52.9789300999549,0.590568080799425,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,466.235979028626,288.95791207595,-177.278066952675,0.619767510602628,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,32.99,51.73,Highest % NH White,Lowest % NH White,89.4310001189242,58.0370408560685,-31.3939592628557,0.64895887084894,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,260.564145047364,214.641086694692,-45.9230583526725,0.823755266311392,2021-08-04,LHD,city
@@ -653,14 +653,14 @@ Mortality,Deaths per 100K,Houston,11.87,27.55,Highest  % Not Insured,Lowest % No
 Mortality,Deaths per 100K,Chicago,4.31,12.12,Highest  % Not Insured,Lowest % Not Insured,97.581191157118,238.252966653535,140.671775496417,2.44158698852034,2021-07-31,LHD,city
 Mortality,Deaths per 100K,San Francisco,2.46,4.41,Highest  % Not Insured,Lowest % Not Insured,48.5820843917999,93.6304545454546,45.0483701536547,1.9272630171722,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,4.43,8.32,Highest  % Not Insured,Lowest % Not Insured,266.265464624043,459.657608762595,193.392144138552,1.72631328441942,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,73.6470630509443,118.603789239395,44.9567261884507,1.61043474547454,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,73.6470630509443,118.603789239395,44.9567261884507,1.61043474547454,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),5.82,14.6,Highest  % Not Insured,Lowest % Not Insured,178.651198810624,245.016709362438,66.3655105518147,1.37148091361069,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Charlotte,6.99,15.24,Highest  % Not Insured,Lowest % Not Insured,75.248241551666,100.440769650038,25.1925280983718,1.33479225000991,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Philadelphia,5.06,9.62,Highest  % Not Insured,Lowest % Not Insured,168.835699945836,219.352198402737,50.5164984569006,1.29920507613678,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),5.82,14.6,Highest  % Not Insured,Lowest % Not Insured,147.447273008988,266.753437578996,119.306164570008,1.80914459884745,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,2.94,8.23,Highest Overcrowding,Lowest Overcrowding,49.3170788044152,142.528348628268,93.2112698238525,2.89004036904772,2021-07-11,LHD,city
 Mortality,Deaths per 100K,San Francisco,2.83,8.89,Highest Overcrowding,Lowest Overcrowding,41.8989461367763,87.4195384025945,45.5205922658183,2.08643764254164,2021-08-03,LHD,city
-Mortality,Deaths per 100K,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,61.1055346878407,118.253903152818,57.1483684649769,1.93524046155428,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,61.1055346878407,118.253903152818,57.1483684649769,1.93524046155428,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,288.602853085082,451.218696730091,162.615843645009,1.56345889136816,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Chicago,2.37,4.72,Highest Overcrowding,Lowest Overcrowding,171.92187593517,252.318358333742,80.396482398572,1.46763381309827,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),1.21,5.65,Highest Overcrowding,Lowest Overcrowding,193.324868573952,244.555960440316,51.2310918663646,1.26500000876384,2021-06-30,LHD,city
@@ -669,7 +669,7 @@ Mortality,Deaths per 100K,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Ove
 Mortality,Deaths per 100K,Las Vegas (Metro),1.21,5.65,Highest Overcrowding,Lowest Overcrowding,149.380420470812,267.061293961547,117.680873490735,1.78779316003953,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,9.27,23.52,Highest Poverty,Lowest Poverty,48.60302918459,154.542497355524,105.939468170934,3.17968859036718,2021-07-11,LHD,city
 Mortality,Deaths per 100K,San Francisco,6.94,16,Highest Poverty,Lowest Poverty,48.5820843917999,96.0733816356984,47.4912972438985,1.97754754326503,2021-08-03,LHD,city
-Mortality,Deaths per 100K,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,60.0400201985805,110.23376597678,50.1937457781992,1.83600481166037,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,60.0400201985805,110.23376597678,50.1937457781992,1.83600481166037,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Chicago,9.2,24.58,Highest Poverty,Lowest Poverty,152.05764705871,256.160354352765,104.102707294055,1.68462658279764,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),6.35,16.95,Highest Poverty,Lowest Poverty,161.583930374986,247.718546903586,86.1346165285995,1.53306424920292,2021-06-30,LHD,city
 Mortality,Deaths per 100K,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,284.841873920633,422.770571841165,137.928697920532,1.48422900756145,2021-08-04,LHD,city
@@ -680,14 +680,14 @@ Mortality,Deaths per 100K,Chicago,1.85,6.22,Highest % Production Workers,Lowest 
 Mortality,Deaths per 100K,Houston,2.88,7.74,Highest % Production Workers,Lowest % Production Workers,58.2219871192602,142.753020247714,84.531033128454,2.45187475232172,2021-07-11,LHD,city
 Mortality,Deaths per 100K,San Francisco,1.16,2.58,Highest % Production Workers,Lowest % Production Workers,40.3334288621426,85.3280947238796,44.994665861737,2.11556758577423,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,1.76,5.29,Highest % Production Workers,Lowest % Production Workers,46.3455239238591,91.1420253241095,44.7965014002504,1.96657665309484,2021-06-23,LHD,city
-Mortality,Deaths per 100K,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,83.4923273585255,132.386075852085,48.8937484935597,1.58560768444751,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,83.4923273585255,132.386075852085,48.8937484935597,1.58560768444751,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,272.865436914618,418.603315339129,145.737878424511,1.53410164391804,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),1.95,4,Highest % Production Workers,Lowest % Production Workers,168.380453255971,239.916967039242,71.536513783271,1.42485046452822,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,224.097833527357,210.557716214273,-13.5401173130841,0.939579436802404,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),1.95,4,Highest % Production Workers,Lowest % Production Workers,167.071975885613,263.411260388747,96.3392845031337,1.57663341797725,2021-06-30,LHD,city
 Mortality,Deaths per 100K,San Francisco,4.63,11.11,Highest % Service Worker,Lowest % Service Worker,28.639,93.6396816022799,65.0006816022799,3.26965611935752,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,216.524224054706,430.256384624321,213.732160569615,1.98710507566865,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,66.5145870096613,125.080999351632,58.5664123419705,1.8805047881221,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,66.5145870096613,125.080999351632,58.5664123419705,1.8805047881221,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Chicago,5.8,11.04,Highest % Service Worker,Lowest % Service Worker,122.852022526887,230.079270153477,107.22724762659,1.87281629900006,2021-07-31,LHD,city
 Mortality,Deaths per 100K,Houston,6.37,9.31,Highest % Service Worker,Lowest % Service Worker,65.7958585615658,118.316788466518,52.5209299049522,1.79824066519032,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Charlotte,7.07,10.25,Highest % Service Worker,Lowest % Service Worker,62.3156424965313,97.5833987644223,35.267756267891,1.56595350468952,2021-06-23,LHD,city
@@ -696,7 +696,7 @@ Mortality,Deaths per 100K,Philadelphia,7.28,10.51,Highest % Service Worker,Lowes
 Mortality,Deaths per 100K,Las Vegas (Metro),11.68,19.49,Highest % Service Worker,Lowest % Service Worker,141.044775542865,225.78420262385,84.7394270809845,1.60079805689245,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.35,4.35,Most Public Transit Usage,Least Public Transit Usage,136.861688444826,254.332139626154,117.470451181328,1.85831508083933,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,1.33,3.85,Most Public Transit Usage,Least Public Transit Usage,85.6576113607203,135.951379615817,50.2937682550968,1.58714885292914,2021-07-11,LHD,city
-Mortality,Deaths per 100K,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,93.5047008683899,105.116420984967,11.6117201165773,1.12418327644212,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,93.5047008683899,105.116420984967,11.6117201165773,1.12418327644212,2021-08-03,LHD,city
 Mortality,Deaths per 100K,San Francisco,29,36.2,Most Public Transit Usage,Least Public Transit Usage,70.906,75.3733727633163,4.46737276331628,1.06300415709977,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,378.096713021778,394.211243597892,16.1145305761139,1.04262012871608,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Charlotte,1.38,4.65,Most Public Transit Usage,Least Public Transit Usage,91.0108381401899,92.6305206472307,1.61968250704076,1.01779658928694,2021-06-23,LHD,city
@@ -708,13 +708,13 @@ Mortality,Deaths per 100K,Chicago,11.89,71.61,Highest Risk Areas,Lowest Risk Are
 Mortality,Deaths per 100K,New York City,34.09,67.53,Highest Risk Areas,Lowest Risk Areas,204.425152427806,494.365623751271,289.940471323465,2.41832092518977,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,16.02,39.8,Highest Risk Areas,Lowest Risk Areas,40.3334288621426,93.6396816022799,53.3062527401373,2.32163949964024,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,16.43,52.92,Highest Risk Areas,Lowest Risk Areas,47.4037280310772,102.204813882386,54.8010858513086,2.15605012785876,2021-06-23,LHD,city
-Mortality,Deaths per 100K,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,69.6615807385952,134.639329194985,64.9777484563897,1.93276304912199,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,69.6615807385952,134.639329194985,64.9777484563897,1.93276304912199,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,34.69,81.55,Highest Risk Areas,Lowest Risk Areas,155.316054675683,295.857959585595,140.541904909913,1.90487686674362,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),23.84,53.52,Highest Risk Areas,Lowest Risk Areas,129.362607443663,240.954380099542,111.591772655879,1.86262773193155,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),23.84,53.52,Highest Risk Areas,Lowest Risk Areas,165.507208324,252.977137138568,87.4699288145687,1.52849618877829,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,-0.47,0.23,highest concentration of NH White,highest concentration of Hispanic,146.3503996257,50.0461469830435,-96.3042526426566,0.341961122832869,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Chicago,-0.02,0.52,highest concentration of NH White,highest concentration of Hispanic,236.608111023662,125.632141750836,-110.975969272826,0.53097140756207,2021-07-31,LHD,city
-Mortality,Deaths per 100K,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,118.253903152818,75.0252381969485,-43.2286649558692,0.634441960871216,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,118.253903152818,75.0252381969485,-43.2286649558692,0.634441960871216,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,-0.18,0.42,highest concentration of NH White,highest concentration of Hispanic,452.006699690659,298.625827003799,-153.380872686859,0.660666815797577,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.14,0.43,highest concentration of NH White,highest concentration of Hispanic,88.1124834822615,66.742053834975,-21.3704296472865,0.757464222971439,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),-0.04,0.49,highest concentration of NH White,highest concentration of Hispanic,237.535304872718,191.24176704915,-46.2935378235678,0.805108811726434,2021-06-30,LHD,city
@@ -726,7 +726,7 @@ Mortality,Deaths per 100K,Chicago,-0.15,0.32,highest concentration of High-incom
 Mortality,Deaths per 100K,San Francisco,0.21,0.59,highest concentration of High-income,highest concentration of Low-income,89.1917958169716,40.3334288621426,-48.8583669548289,0.452210077089488,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,-0.01,0.32,highest concentration of High-income,highest concentration of Low-income,467.270986578858,227.629424431729,-239.641562147128,0.487146497364039,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),-0.08,0.28,highest concentration of High-income,highest concentration of Low-income,245.260948777293,146.268762012779,-98.9921867645146,0.596380152413079,2021-06-30,LHD,city
-Mortality,Deaths per 100K,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,118.705786404871,75.063179244988,-43.6426071598832,0.632346421504417,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,118.705786404871,75.063179244988,-43.6426071598832,0.632346421504417,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,-0.26,0.17,highest concentration of High-income,highest concentration of Low-income,211.594818808563,169.825676102878,-41.769142705685,0.802598461810755,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Charlotte,-0.01,0.29,highest concentration of High-income,highest concentration of Low-income,96.9589626722998,86.1597194141133,-10.7992432581866,0.888620474471394,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),-0.08,0.28,highest concentration of High-income,highest concentration of Low-income,265.853322988685,157.642319725385,-108.2110032633,0.592967272152904,2021-06-30,LHD,city
@@ -734,7 +734,7 @@ Mortality,Deaths per 100K,Houston,-0.01,0.3,highest concentration of High-income
 Mortality,Deaths per 100K,San Francisco,0.2,0.42,highest concentration of High-income NH White,highest concentration of Low-income NH Black,91.1244104513106,40.3334288621426,-50.790981589168,0.44261936688955,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Chicago,-0.12,0.36,highest concentration of High-income NH White,highest concentration of Low-income NH Black,250.956266649341,124.637867686985,-126.318398962356,0.496651744748581,2021-07-31,LHD,city
 Mortality,Deaths per 100K,New York City,-0.01,0.33,highest concentration of High-income NH White,highest concentration of Low-income NH Black,461.246693533798,241.304279704496,-219.942413829302,0.523156660171948,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,123.362842536545,77.9832192319498,-45.3796233045956,0.632145122700523,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,123.362842536545,77.9832192319498,-45.3796233045956,0.632145122700523,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.05,0.28,highest concentration of High-income NH White,highest concentration of Low-income NH Black,241.305764337209,175.486345035875,-65.8194193013339,0.727236440115224,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Philadelphia,-0.23,0.19,highest concentration of High-income NH White,highest concentration of Low-income NH Black,278.875416909997,205.894705732676,-72.9807111773212,0.738303533577954,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Charlotte,-0.02,0.32,highest concentration of High-income NH White,highest concentration of Low-income NH Black,96.4489151849044,93.4961408740737,-2.95277431083068,0.96938509567298,2021-06-23,LHD,city
@@ -743,14 +743,14 @@ Mortality,Deaths per 100K,Houston,-0.23,0.21,highest concentration of High-incom
 Mortality,Deaths per 100K,San Francisco,0.05,0.36,highest concentration of High-income NH White,highest concentration of Low-income Minority,91.1244104513106,40.3334288621426,-50.790981589168,0.44261936688955,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Chicago,-0.23,0.3,highest concentration of High-income NH White,highest concentration of Low-income Minority,253.107959134906,116.386508547186,-136.72145058772,0.459829508898028,2021-07-31,LHD,city
 Mortality,Deaths per 100K,New York City,-0.14,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,464.223923094601,246.207463661773,-218.016459432829,0.530363584066303,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,120.899060971512,76.4172591453717,-44.4818018261406,0.632074877433317,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,120.899060971512,76.4172591453717,-44.4818018261406,0.632074877433317,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,241.311324211117,173.741193283859,-67.570130927258,0.719987733074049,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Charlotte,-0.07,0.29,highest concentration of High-income NH White,highest concentration of Low-income Minority,96.4489151849044,93.4961408740737,-2.95277431083068,0.96938509567298,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Philadelphia,-0.31,0.15,highest concentration of High-income NH White,highest concentration of Low-income Minority,236.193476131828,246.383929175581,10.1904530437535,1.04314451529587,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,261.668555125635,144.351360768798,-117.317194356837,0.551657270012786,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,-0.14,0.39,highest concentration of NH White,highest concentration of NH Black,129.473763811891,58.2848581371471,-71.1889056747444,0.450167326732135,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Chicago,-0.36,0.54,highest concentration of NH White,highest concentration of NH Black,243.636245087545,132.761954653911,-110.874290433634,0.544918735741497,2021-07-31,LHD,city
-Mortality,Deaths per 100K,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,121.89204470471,76.4172591453717,-45.4747855593382,0.626925730309116,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,121.89204470471,76.4172591453717,-45.4747855593382,0.626925730309116,2021-08-03,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.26,0.49,highest concentration of NH White,highest concentration of NH Black,91.1244104513106,58.0370408560685,-33.0873695952422,0.636898944735326,2021-08-03,LHD,city
 Mortality,Deaths per 100K,New York City,-0.21,0.52,highest concentration of NH White,highest concentration of NH Black,466.832203151818,299.714485310495,-167.117717841323,0.6420175885189,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.22,0.59,highest concentration of NH White,highest concentration of NH Black,219.413405624574,197.098547795393,-22.3148578291815,0.898297655215456,2021-06-30,LHD,city
@@ -761,7 +761,7 @@ Mortality,Deaths per 100K,Houston,-0.01,0.29,highest concentration of NH White N
 Mortality,Deaths per 100K,Chicago,-0.11,0.44,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,245.449050356904,105.988200236325,-139.46085012058,0.431813445935964,2021-07-31,LHD,city
 Mortality,Deaths per 100K,New York City,-0.06,0.39,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,465.050027784677,222.879374697229,-242.170653087447,0.479258921365821,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Philadelphia,-0.28,0.36,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,257.935682668281,158.218126883059,-99.7175557852219,0.613401469879357,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,121.89204470471,76.1622349183568,-45.729809786353,0.624833516435499,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,121.89204470471,76.1622349183568,-45.729809786353,0.624833516435499,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.07,0.27,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,233.279224971778,177.849085412166,-55.4301395596121,0.762387158280734,2021-06-30,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.27,0.44,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,91.0558846363975,70.2878984794182,-20.7679861569793,0.771920439410263,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,-0.06,0.44,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,97.622068737841,93.0969669012893,-4.52510183655173,0.953646732802768,2021-06-23,LHD,city
@@ -771,14 +771,14 @@ Mortality,Deaths per 100K,Chicago,0.24,0.74,Most Socially Vulnerable,Least Socia
 Mortality,Deaths per 100K,New York City,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,244.944861592278,470.114786470672,225.169924878394,1.91926780343407,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,46.9324603702035,88.9724956486855,42.040035278482,1.89575604915809,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Charlotte,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,56.2549739512603,102.104344012063,45.8493700608023,1.81502784270288,2021-06-23,LHD,city
-Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,70.3140080683916,123.10570758517,52.791699516778,1.7507991788127,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,70.3140080683916,123.10570758517,52.791699516778,1.7507991788127,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,166.412179785333,248.202053308162,81.7898735228286,1.49148970723378,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,170.546802996496,236.065562773546,65.5187597770498,1.3841687948756,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,144.716049798474,266.400909051276,121.684859252802,1.84085254829893,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,57.337373800921,140.662360077249,83.3249862763284,2.4532403692858,2021-07-11,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,41.5536211562968,74.4616741052264,32.9080529489296,1.79194188215635,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,144.56794796057,246.558197816119,101.990249855549,1.70548313989603,2021-06-30,LHD,city
-Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,73.3281704492267,103.794649734544,30.4664792853177,1.41548124136566,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,73.3281704492267,103.794649734544,30.4664792853177,1.41548124136566,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,207.094747429588,275.007005665973,67.9122582363852,1.32792844376449,2021-08-04,LHD,city
 Mortality,Deaths per 100K,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,350.783304370557,419.725317869767,68.9420134992101,1.19653732843106,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Chicago,0.23,0.76,Most Socially Vulnerable,Least Socially Vulnerable,200.485271929557,227.104195861772,26.6189239322153,1.13277246590746,2021-07-31,LHD,city
@@ -790,13 +790,13 @@ Mortality,Deaths per 100K,Charlotte,0.25,0.72,Most Socially Vulnerable,Least Soc
 Mortality,Deaths per 100K,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,246.393372980419,498.473218673377,252.079845692958,2.02307883789144,2021-08-04,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,58.1121067694801,103.445758699258,45.333651929778,1.78010683917567,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,151.39072265063,241.782482763819,90.3917601131892,1.59707595373456,2021-06-30,LHD,city
-Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,85.9436502388098,132.937745390008,46.994095151198,1.54680124733609,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,85.9436502388098,132.937745390008,46.994095151198,1.54680124733609,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,174.800473440692,233.510661319919,58.710187879227,1.33586973034799,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,185.511129378548,238.238435455288,52.7273060767402,1.28422718493157,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Houston,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,49.9463922113927,151.845716981149,101.899324769757,3.04017387959632,2021-07-11,LHD,city
 Mortality,Deaths per 100K,Chicago,0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,101.608541595178,231.615754176534,130.007212581356,2.27949098117481,2021-07-31,LHD,city
 Mortality,Deaths per 100K,New York City,0.27,0.76,Most Socially Vulnerable,Least Socially Vulnerable,256.599018221554,450.791161583623,194.192143362069,1.75679223057042,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,76.4172591453717,127.476372053802,51.0591129084299,1.66816205500511,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,76.4172591453717,127.476372053802,51.0591129084299,1.66816205500511,2021-08-03,LHD,city
 Mortality,Deaths per 100K,San Francisco,0.24,0.69,Most Socially Vulnerable,Least Socially Vulnerable,70.2878984794182,89.0442444021371,18.7563459227188,1.26685028758131,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,203.643982053422,236.38300575862,32.7390237051977,1.16076597685371,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,178.712175340567,200.915405910265,22.2032305696987,1.12424016733827,2021-08-04,LHD,city
@@ -806,67 +806,157 @@ Mortality,Deaths per 100K,Houston,0.24,0.75,Most Socially Vulnerable,Least Socia
 Mortality,Deaths per 100K,San Francisco,0.24,0.72,Most Socially Vulnerable,Least Socially Vulnerable,33.9334996732355,93.6396816022799,59.7061819290445,2.75950557720213,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Chicago,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,116.386508547186,248.281524366663,131.895015819477,2.1332500430323,2021-07-31,LHD,city
 Mortality,Deaths per 100K,New York City,0.26,0.75,Most Socially Vulnerable,Least Socially Vulnerable,222.842814595744,443.257091894111,220.414277298367,1.98910201658608,2021-08-04,LHD,city
-Mortality,Deaths per 100K,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,70.3140080683916,123.10570758517,52.791699516778,1.7507991788127,2021-07-29,LHD,city
+Mortality,Deaths per 100K,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,70.3140080683916,123.10570758517,52.791699516778,1.7507991788127,2021-08-03,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,175.58776687649,242.95982011339,67.3720532369003,1.38369445910369,2021-06-30,LHD,city
 Mortality,Deaths per 100K,Charlotte,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,72.9650714105078,100.440769650038,27.4756982395299,1.37655960185318,2021-06-23,LHD,city
 Mortality,Deaths per 100K,Philadelphia,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,218.510528382842,216.126694704984,-2.38383367785767,0.989090531721743,2021-08-04,LHD,city
 Mortality,Deaths per 100K,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,146.122601187179,262.874578079014,116.751976891835,1.79900012690219,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,36.98,54.77,Highest College Education,Lowest College Education,7.17215367463808,3.05891708328974,-4.11323659134834,0.426499099441577,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,8.86881818181818,4.18651195545365,-4.68230622636453,0.472048458952102,2021-08-04,LHD,city
 Positivity,% Positive,New York City,25.92,51.33,Highest College Education,Lowest College Education,18.0615693619346,9.75548736904861,-8.30608199288601,0.540124015447331,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),15.23,31.83,Highest College Education,Lowest College Education,16.5751356870143,10.4736218330496,-6.10151385396466,0.631887547156259,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,7.0202025249388,2.77274951896077,-4.24745300597802,0.394967169267662,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,8.80702756948276,4.74105519449025,-4.06597237499251,0.538326371421669,2021-08-04,LHD,city
 Positivity,% Positive,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,17.6717893456957,11.1356200479585,-6.53616929773713,0.630135399993938,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),82.73,94.21,Highest High School Education,Lowest High School Education,16.0634400425158,10.4044699355538,-5.65897010696201,0.647711194365332,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,5.93298337205433,8.42257188771268,2.48958851565834,1.41961832008242,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,3.46963706041479,4.91705562273277,1.44741856231798,1.41716713797868,2021-08-03,LHD,city
 Positivity,% Positive,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,12.9553722148964,18.0775690486792,5.12219683378273,1.39537241762094,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),11.96,26.97,Highest Foreign Born,Lowest  Foreign Born,11.2837788680647,14.9457721891618,3.66199332109707,1.32453607642571,2021-06-30,LHD,city
+Positivity,% Positive,Las Vegas (Metro),4.97,8.81,Highest % Healthcare Worker,Lowest % Healthcare Worker,15.7300323417444,11.1335218442108,-4.59651049753361,0.707787600325819,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,7.43166673920394,6.92629344915261,-0.505373290051332,0.931997315301377,2021-08-04,LHD,city
 Positivity,% Positive,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,12.6037592135071,17.6876012913364,5.08384207782937,1.40335918766055,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,3.11560230226775,5.71671414510774,2.60111184283999,1.83486645293166,2021-08-03,LHD,city
+Positivity,% Positive,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,2.96298365446078,6.86569630430564,3.90271264984486,2.31715632111885,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),15.97,37.29,Highest % Hispanic,Lowest % Hispanic,9.7748576,16.2083558946928,6.43349829469277,1.65816798136198,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,6.14308454079245,8.75546899884767,2.61238445805522,1.4252561462744,2021-08-04,LHD,city
 Positivity,% Positive,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,14.4318524949705,17.9176824173663,3.48582992239578,1.24153724711437,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,3.37594822884717,6.03102011057618,2.65507188172901,1.78646700178684,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,5.96289173642778,9.02204219069953,3.05915045427175,1.51303135953034,2021-08-04,LHD,city
 Positivity,% Positive,New York City,4.85,18,Highest Limited English,Lowest  Limited English,12.676661373132,18.1816219006736,5.50496052754163,1.43425949195182,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),1.59,8.85,Highest Limited English,Lowest  Limited English,11.8576196018881,15.6644259501551,3.80680634826698,1.32104304878028,2021-06-30,LHD,city
+Positivity,% Positive,Las Vegas (Metro),3.52,12.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,12.434825271611,11.7928464108584,-0.641978860752644,0.948372506510542,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,4.08198482124833,3.99913253141831,-0.0828522898300181,0.979702940246436,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,7.23032380676343,7.27331847205156,0.0429946652881226,1.00594643703895,2021-08-04,LHD,city
 Positivity,% Positive,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,16.8200644372879,17.2233490289006,0.403284591612781,1.02397639991906,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,5.23578906620798,4.07363785022141,-1.16215121598657,0.778037044408999,2021-08-03,LHD,city
 Positivity,% Positive,New York City,2.9,27.96,Highest % NH Black,Lowest % NH Black,16.6040081027591,16.0034669125244,-0.60054119023469,0.963831552808331,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,9.92,72.05,Highest % NH Black,Lowest % NH Black,6.56416927192004,6.52927490492533,-0.0348943669947115,0.994684115300929,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),4.82,12.55,Highest % NH Black,Lowest % NH Black,10.4780200754635,14.1707999062404,3.69277983077691,1.35243107039128,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,4.37471362649294,3.87255007408871,-0.502163552404234,0.885212245811207,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,7.2543169073805,6.99610159858763,-0.258215308792871,0.96440528969307,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,13.3428993857892,13.3377502384232,-0.00514914736595706,0.999614090819613,2021-06-30,LHD,city
 Positivity,% Positive,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,14.085550370778,17.131866510064,3.04631613928604,1.2162724252228,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,6.62589710012265,3.29815855112207,-3.32773854900058,0.497767849588401,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),33.11,65.23,Highest % NH White,Lowest % NH White,15.9818663812513,10.0884084883892,-5.89345789286213,0.631240948192643,2021-06-30,LHD,city
 Positivity,% Positive,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,17.5646959581938,13.8984493266032,-3.66624663159066,0.791271842090704,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,7.57575673011196,6.13789385518244,-1.43786287492953,0.810202079323068,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,3.46479074001521,6.41241394801968,2.94762320800447,1.85073628659938,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,5.06,9.62,Highest  % Not Insured,Lowest % Not Insured,5.00606224171745,8.62263798805028,3.61657574633284,1.72243922902007,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),5.82,14.6,Highest  % Not Insured,Lowest % Not Insured,10.6608384875592,15.9684957649344,5.3076572773752,1.49786489904795,2021-06-30,LHD,city
 Positivity,% Positive,New York City,4.43,8.32,Highest  % Not Insured,Lowest % Not Insured,12.2048675282486,17.9361162794944,5.73124875124587,1.46958713300089,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,2.94188518196104,6.53884589626574,3.59696071430469,2.2226720255299,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),1.21,5.65,Highest Overcrowding,Lowest Overcrowding,10.5621518150691,15.8438776541863,5.28172583911725,1.50006153401259,2021-06-30,LHD,city
 Positivity,% Positive,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,13.1743505501417,18.0629202168598,4.88856966671807,1.37106722248752,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,6.23714761004804,8.24490552302367,2.00775791297563,1.32190322219425,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,2.94820690516737,6.16638846162611,3.21818155645874,2.0915724913398,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),6.35,16.95,Highest Poverty,Lowest Poverty,11.0274416827671,16.0078527563787,4.98041107361164,1.45163794258778,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,13.73,30.36,Highest Poverty,Lowest Poverty,5.83307705516622,7.51326015741253,1.68018310224631,1.28804404371072,2021-08-04,LHD,city
 Positivity,% Positive,New York City,9.2,20.8,Highest Poverty,Lowest Poverty,14.1049265798357,16.6011208721297,2.49619429229393,1.17697322124756,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,3.03355947398611,6.70515623241682,3.67159675843071,2.21032628168856,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,2.13,5.41,Highest % Production Workers,Lowest % Production Workers,4.48550651182841,8.8334504612218,4.3479439493934,1.9693317661958,2021-08-04,LHD,city
 Positivity,% Positive,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,11.2187864538623,18.2363284936332,7.01754203977098,1.62551703507602,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),1.95,4,Highest % Production Workers,Lowest % Production Workers,11.063958535971,16.0764156217951,5.01245708582407,1.45304373380717,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,3.05780957592761,6.63891170122521,3.5811021252976,2.1711331384039,2021-08-03,LHD,city
 Positivity,% Positive,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,10.919743848957,17.3604901121969,6.44074626323991,1.58982576444365,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,5.88674396672461,7.19342747867679,1.30668351195217,1.22197050174737,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),11.68,19.49,Highest % Service Worker,Lowest % Service Worker,11.4640641491417,12.6787993062925,1.21473515715078,1.10596025470092,2021-06-30,LHD,city
 Positivity,% Positive,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,17.8406304334431,15.130399277085,-2.71023115635806,0.84808658155501,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,17.6,32.21,Most Public Transit Usage,Least Public Transit Usage,8.13535084299658,6.91451324075535,-1.22083760224123,0.849934240599813,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,3.8487087613941,4.90296805782234,1.05425929642823,1.27392545442861,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.35,4.35,Most Public Transit Usage,Least Public Transit Usage,11.1793421129447,15.0100285213892,3.83068640844449,1.34265758841112,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,2.99297841734145,7.01463891384401,4.02166049650256,2.34369846210747,2021-08-03,LHD,city
 Positivity,% Positive,New York City,34.09,67.53,Highest Risk Areas,Lowest Risk Areas,10.8019507987321,16.9235538346456,6.12160303591351,1.56671273087377,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,34.69,81.55,Highest Risk Areas,Lowest Risk Areas,4.90391601900443,7.14800723604477,2.24409121704035,1.45761208151683,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),23.84,53.52,Highest Risk Areas,Lowest Risk Areas,11.9257168815197,13.740246326454,1.81452944493432,1.15215265153126,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,6.86569630430564,2.94751522410823,-3.91818108019741,0.429310457886081,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),-0.04,0.49,highest concentration of NH White,highest concentration of Hispanic,16.0227123571087,9.99095098561534,-6.03176137149331,0.623549294460295,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,0.03,0.61,highest concentration of NH White,highest concentration of Hispanic,8.2182622193121,6.13501887710196,-2.08324334221014,0.746510480364727,2021-08-04,LHD,city
 Positivity,% Positive,New York City,-0.18,0.42,highest concentration of NH White,highest concentration of Hispanic,17.7821569829315,14.3592317848908,-3.42292519804064,0.807507874251352,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,6.31713561527479,3.40867171481622,-2.90846390045858,0.539591346839867,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,-0.26,0.17,highest concentration of High-income,highest concentration of Low-income,7.01967175371662,4.77043050362002,-2.2492412500966,0.679580281099936,2021-08-04,LHD,city
 Positivity,% Positive,New York City,-0.01,0.32,highest concentration of High-income,highest concentration of Low-income,17.141128549675,11.9474876052419,-5.19364094443318,0.697007059402069,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),-0.08,0.28,highest concentration of High-income,highest concentration of Low-income,15.6926681323364,11.2521744366993,-4.44049369563714,0.7170338620437,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,6.35907576449839,3.35297373117145,-3.00610203332694,0.527273750989179,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.05,0.28,highest concentration of High-income NH White,highest concentration of Low-income NH Black,15.8900282791387,10.5751333924233,-5.31489488671548,0.665520111522196,2021-06-30,LHD,city
 Positivity,% Positive,New York City,-0.01,0.33,highest concentration of High-income NH White,highest concentration of Low-income NH Black,16.7833161332216,11.68474669972,-5.09856943350165,0.69621203622511,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,-0.23,0.19,highest concentration of High-income NH White,highest concentration of Low-income NH Black,6.70116498355435,5.80537239468961,-0.895792588864741,0.866322857135565,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,6.33176539570093,3.32923306086532,-3.00253233483561,0.525798549504972,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,16.0868633382125,10.6125898964855,-5.47427344172706,0.659705355442192,2021-06-30,LHD,city
 Positivity,% Positive,New York City,-0.14,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,17.0980550861351,12.540978046525,-4.55707703961005,0.733473952642402,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,-0.31,0.15,highest concentration of High-income NH White,highest concentration of Low-income Minority,6.74508360080615,6.18929420550537,-0.555789395300785,0.917600814431068,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,6.33298500094753,3.29083520008663,-3.0421498008609,0.519634137708246,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.22,0.59,highest concentration of NH White,highest concentration of NH Black,15.771705471906,10.0097301827431,-5.76197528916294,0.634663778154703,2021-06-30,LHD,city
 Positivity,% Positive,New York City,-0.21,0.52,highest concentration of NH White,highest concentration of NH Black,16.6092321292874,14.7467286954115,-1.86250343387586,0.887863363015339,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,-0.59,0.55,highest concentration of NH White,highest concentration of NH Black,6.54527952391705,6.54971270156163,0.00443317764457607,1.00067730913987,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,6.33298500094753,3.38461419844361,-2.94837080250392,0.534442162414282,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,-0.28,0.36,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,7.28117754861003,4.31841166683997,-2.96276588177006,0.593092482364251,2021-08-04,LHD,city
 Positivity,% Positive,New York City,-0.06,0.39,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,17.3707543955507,10.8779106085148,-6.49284378703589,0.626219815260357,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.07,0.27,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,16.1869515232625,10.5836657538101,-5.60328576945241,0.653839343288337,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,2.80906183506075,6.5927805163231,3.78371868126236,2.34696881145037,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,10.7945126362081,15.8833275152661,5.08881487905804,1.47142608939922,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,5.72481683544811,7.80907703272173,2.08426019727363,1.36407456468614,2021-08-04,LHD,city
 Positivity,% Positive,New York City,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,13.3892595671275,17.433010662584,4.04375109545647,1.30201454196799,2021-08-04,LHD,city
+Positivity,% Positive,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,7.70511986998372,6.14327136488666,-1.56184850509706,0.797297312507565,2021-08-04,LHD,city
 Positivity,% Positive,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,18.5468395116833,16.0861645362056,-2.46067497547764,0.86732645344089,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,11.49276747158,14.8994730514372,3.40670557985716,1.29642169201469,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,3.43832542375957,5.61328369513673,2.17495827137716,1.6325632403343,2021-08-03,LHD,city
+Positivity,% Positive,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,3.19451932952924,6.60645154823189,3.41193221870264,2.06805809160824,2021-08-03,LHD,city
+Positivity,% Positive,Philadelphia,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,3.85537599167276,7.4398623065023,3.58448631482954,1.92973715730234,2021-08-04,LHD,city
 Positivity,% Positive,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,12.1303991690938,17.5761865439285,5.44578737483471,1.44893719480474,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,11.4149461381777,14.4584625708008,3.0435164326231,1.26662556229187,2021-06-30,LHD,city
+Positivity,% Positive,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,3.31926818776423,6.52930001356133,3.2100318257971,1.96709022718628,2021-08-03,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,9.81328559393429,15.795164552676,5.98187895874172,1.6095694353825,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,5.60432458017082,8.94154659299764,3.33722201282682,1.59547265064457,2021-08-04,LHD,city
 Positivity,% Positive,New York City,0.27,0.76,Most Socially Vulnerable,Least Socially Vulnerable,12.0919123488642,17.79957001184,5.7076576629758,1.47202274531141,2021-08-04,LHD,city
+Positivity,% Positive,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,2.73914906009409,6.5927805163231,3.85363145622901,2.40687175896029,2021-08-03,LHD,city
 Positivity,% Positive,New York City,0.26,0.75,Most Socially Vulnerable,Least Socially Vulnerable,11.664751646917,17.3641041242565,5.69935247733947,1.48859612702049,2021-08-04,LHD,city
+Positivity,% Positive,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,10.5550008315538,15.6028845675846,5.04788373603077,1.47824569761665,2021-06-30,LHD,city
+Positivity,% Positive,Philadelphia,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,5.2209625361768,7.63137394117861,2.41041140500181,1.46167950608719,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,16.31,50.98,Highest College Education,Lowest College Education,116064.815760982,186874.795426466,70809.9796654834,1.6100899674136,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,20.08,71.54,Highest College Education,Lowest College Education,141498.43986114,212938.48178486,71440.0419237195,1.50488218805683,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,25.92,51.33,Highest College Education,Lowest College Education,70257.1450283537,81687.4670987357,11430.322070382,1.16269266372508,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),15.23,31.83,Highest College Education,Lowest College Education,109940.091161627,114266.990465826,4326.8993041986,1.03935688299401,2021-06-30,LHD,city
 Testing,Tests per 100K,Kansas City,17.45,46.41,Highest College Education,Lowest College Education,49800.717230561,50999.3359188507,1198.61868828975,1.02406830172225,2021-08-04,LHD,city
-Testing,Tests per 100K,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,119864.287963645,177957.124855971,58092.8368923254,1.48465508684242,2021-08-04,LHD,city
-Testing,Tests per 100K,Chicago,82.66,95.92,Highest High School Education,Lowest High School Education,149126.936572763,209358.01828124,60231.0817084774,1.40389136324201,2021-07-31,LHD,city
-Testing,Tests per 100K,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,70099.0964865149,80965.823273363,10866.726786848,1.15501949855999,2021-08-04,LHD,city
-Testing,Tests per 100K,Las Vegas (Metro),82.73,94.21,Highest High School Education,Lowest High School Education,107902.97973876,106327.298981993,-1575.68075676714,0.985397245186537,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,36.98,54.77,Highest College Education,Lowest College Education,172084.029891892,166794.696487442,-5289.33340444957,0.96926307799874,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,83.96,96.25,Highest High School Education,Lowest High School Education,52259.3670255507,48269.1760696425,-3990.19095590826,0.923646397133793,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,78.99,93.8,Highest High School Education,Lowest High School Education,175778.834342846,167119.199220717,-8659.63512212952,0.950735620960829,2021-08-03,LHD,city
+Testing,Tests per 100K,Las Vegas (Metro),82.73,94.21,Highest High School Education,Lowest High School Education,107902.97973876,106327.298981993,-1575.68075676714,0.985397245186537,2021-06-30,LHD,city
+Testing,Tests per 100K,New York City,78.08,90.31,Highest High School Education,Lowest High School Education,70099.0964865149,80965.823273363,10866.726786848,1.15501949855999,2021-08-04,LHD,city
+Testing,Tests per 100K,Chicago,82.66,95.92,Highest High School Education,Lowest High School Education,149126.936572763,209358.01828124,60231.0817084774,1.40389136324201,2021-07-31,LHD,city
+Testing,Tests per 100K,Philadelphia,82.17,90.96,Highest High School Education,Lowest High School Education,119864.287963645,177957.124855971,58092.8368923254,1.48465508684242,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,11.8,29.56,Highest Foreign Born,Lowest  Foreign Born,181597.247097083,150832.18460844,-30765.0624886431,0.83058629477904,2021-07-31,LHD,city
 Testing,Tests per 100K,Philadelphia,7.01,17.27,Highest Foreign Born,Lowest  Foreign Born,155075.101189197,135117.658897397,-19957.4422917996,0.871304663748368,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,24.45,44.06,Highest Foreign Born,Lowest  Foreign Born,75501.9252375397,68810.8310216433,-6691.09421589635,0.911378495384784,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,28.58,46.34,Highest Foreign Born,Lowest  Foreign Born,180327.950457046,169025.706406848,-11302.2440501984,0.937323947721068,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,4,8.74,Highest Foreign Born,Lowest  Foreign Born,50554.2321084642,54730.6334794611,4176.40137099692,1.08261229963965,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),11.96,26.97,Highest Foreign Born,Lowest  Foreign Born,96659.247869752,112973.934096534,16314.6862267825,1.168785569786,2021-06-30,LHD,city
 Testing,Tests per 100K,Kansas City,7.34,10.36,Highest % Healthcare Worker,Lowest % Healthcare Worker,37867.567925098,52313.4200564761,14445.8521313782,1.38148349426486,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,11.15,15.52,Highest % Healthcare Worker,Lowest % Healthcare Worker,139242.10805756,154336.047591943,15093.9395343828,1.10840068241529,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,7.23,10.97,Highest % Healthcare Worker,Lowest % Healthcare Worker,160697.438111222,175506.126155962,14808.6880447401,1.09215260814855,2021-07-31,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),4.97,8.81,Highest % Healthcare Worker,Lowest % Healthcare Worker,105832.705782627,109672.649641601,3839.94385897352,1.03628314924557,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,6.02,8.8,Highest % Healthcare Worker,Lowest % Healthcare Worker,172250.10648194,172406.055533726,155.949051785545,1.00090536403704,2021-08-03,LHD,city
 Testing,Tests per 100K,New York City,7.83,13.53,Highest % Healthcare Worker,Lowest % Healthcare Worker,77567.8656127745,69069.1343225712,-8498.73129020337,0.890434895648286,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,5.74,37.76,Highest % Hispanic,Lowest % Hispanic,178007.284360433,143639.870380787,-34367.4139796456,0.806932541535448,2021-07-31,LHD,city
 Testing,Tests per 100K,Philadelphia,3.98,12.5,Highest % Hispanic,Lowest % Hispanic,152125.094117888,126460.966944262,-25664.127173626,0.831295899454052,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,11.46,37.53,Highest % Hispanic,Lowest % Hispanic,73131.8120558772,71148.0789770181,-1983.73307885909,0.972874553178808,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),15.97,37.29,Highest % Hispanic,Lowest % Hispanic,109733.120193741,109531.062288691,-202.057905049383,0.998158642489226,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,16.78,38.73,Highest % Hispanic,Lowest % Hispanic,157295.674474391,179610.362536185,22314.6880617948,1.1418646007677,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,3.91,9.12,Highest % Hispanic,Lowest % Hispanic,41601.7475605195,48067.4776741961,6465.7301136766,1.15541967568239,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,1.6,9.88,Highest Limited English,Lowest  Limited English,152523.879402617,122781.322024865,-29742.5573777521,0.804997371596871,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,1.95,11.7,Highest Limited English,Lowest  Limited English,171526.845590585,152728.237449305,-18798.6081412799,0.890404280003201,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,4.85,18,Highest Limited English,Lowest  Limited English,74115.7538118592,70458.8480704094,-3656.90574144985,0.950659535208496,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,6.73,15.04,Highest Limited English,Lowest  Limited English,172951.678061915,175307.499937989,2355.82187607375,1.01362127215227,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.52,2.37,Highest Limited English,Lowest  Limited English,51889.0297718273,54499.372522615,2610.34275078778,1.05030625475686,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),1.59,8.85,Highest Limited English,Lowest  Limited English,91287.0947839896,111402.36697706,20115.2721930702,1.22035176210469,2021-06-30,LHD,city
 Testing,Tests per 100K,Philadelphia,2.5,9.91,Highest % NH Asian/PI,Lowest % NH Asian/PI,135644.168581548,178485.756572513,42841.5879909653,1.31583803741043,2021-08-04,LHD,city
@@ -874,6 +964,8 @@ Testing,Tests per 100K,Chicago,0.53,12.9,Highest % NH Asian/PI,Lowest % NH Asian
 Testing,Tests per 100K,Las Vegas (Metro),3.52,12.54,Highest % NH Asian/PI,Lowest % NH Asian/PI,98884.1520816213,114838.975939181,15954.8238575602,1.1613486440617,2021-06-30,LHD,city
 Testing,Tests per 100K,New York City,3.99,23.16,Highest % NH Asian/PI,Lowest % NH Asian/PI,68775.7228457285,69357.7246503349,582.001804606363,1.00846231461517,2021-08-04,LHD,city
 Testing,Tests per 100K,Kansas City,0.47,3.62,Highest % NH Asian/PI,Lowest % NH Asian/PI,52807.0211399132,49618.5603035945,-3188.46083631874,0.939620513191402,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,20.5,52.29,Highest % NH Asian/PI,Lowest % NH Asian/PI,197107.430963529,166089.237467059,-31018.1934964695,0.842633058810407,2021-08-03,LHD,city
+Testing,Tests per 100K,San Jose,1.61,3.78,Highest % NH Black,Lowest % NH Black,168430.628695876,188381.207923876,19950.5792280007,1.11844982935986,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,5.54,38.2,Highest % NH Black,Lowest % NH Black,41720.1798978408,46588.3443813546,4868.16448351377,1.11668608561694,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,4.16,52.42,Highest % NH Black,Lowest % NH Black,159548.567013807,178064.60707704,18516.0400632323,1.11605268796698,2021-07-31,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),4.82,12.55,Highest % NH Black,Lowest % NH Black,103664.80279521,110859.930552329,7195.12775711934,1.06940762499045,2021-06-30,LHD,city
@@ -883,22 +975,27 @@ Testing,Tests per 100K,Kansas City,0,0.4,Highest % NH Native American,Lowest % N
 Testing,Tests per 100K,Chicago,0.03,0.14,Highest % NH Native American,Lowest % NH Native American,198082.949371139,174390.155817558,-23692.793553581,0.880389535652618,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,0.01,0.2,Highest % NH Native American,Lowest % NH Native American,75049.1375931005,70000.1763957626,-5048.96119733789,0.932724594055801,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.11,0.62,Highest % NH Native American,Lowest % NH Native American,111780.748616551,105600.545092575,-6180.20352397587,0.944711378296667,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,0.07,0.24,Highest % NH Native American,Lowest % NH Native American,167676.268050907,182728.966949663,15052.6988987566,1.08977238743283,2021-08-03,LHD,city
 Testing,Tests per 100K,Philadelphia,0.03,0.28,Highest % NH Native American,Lowest % NH Native American,153490.076825388,176213.653015335,22723.5761899472,1.14804589755856,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,8.11,61.65,Highest % NH White,Lowest % NH White,146453.716751203,200484.273830405,54030.5570792017,1.368925816823,2021-07-31,LHD,city
 Testing,Tests per 100K,Philadelphia,11.2,67.13,Highest % NH White,Lowest % NH White,133465.006687251,161853.096862157,28388.0901749058,1.21270062377794,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,11.48,58.74,Highest % NH White,Lowest % NH White,69243.0895044139,77449.8430803758,8206.75357596191,1.11852090417541,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,13.46,44.16,Highest % NH White,Lowest % NH White,171796.898582138,175501.9015751,3705.00299296196,1.02156618090047,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,40.65,77.69,Highest % NH White,Lowest % NH White,46573.6382108691,45086.7317028697,-1486.90650799943,0.968074074409492,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),33.11,65.23,Highest % NH White,Lowest % NH White,107957.112727788,102286.972221157,-5670.1405066304,0.947477842234188,2021-06-30,LHD,city
 Testing,Tests per 100K,Philadelphia,5.06,9.62,Highest  % Not Insured,Lowest % Not Insured,179395.619029431,125243.904793893,-54151.7142355383,0.698143608363957,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,4.31,12.12,Highest  % Not Insured,Lowest % Not Insured,207523.695090399,160572.961020795,-46950.7340696041,0.773757237460754,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,4.43,8.32,Highest  % Not Insured,Lowest % Not Insured,79643.89888027,70105.0681759947,-9538.83070427527,0.880231494962155,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),5.82,14.6,Highest  % Not Insured,Lowest % Not Insured,107506.878212427,110188.528235145,2681.65002271762,1.02494398560638,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,2.85,5.77,Highest  % Not Insured,Lowest % Not Insured,172222.924595463,181175.971753884,8953.04715842078,1.05198522310227,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,5.15,15.03,Highest  % Not Insured,Lowest % Not Insured,44790.7561852327,51698.4379127291,6907.68172749637,1.15422114551783,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,2.37,4.72,Highest Overcrowding,Lowest Overcrowding,185608.356282123,163665.917832605,-21942.4384495179,0.881780977489151,2021-07-31,LHD,city
 Testing,Tests per 100K,Philadelphia,1.62,3.34,Highest Overcrowding,Lowest Overcrowding,170899.283446,155174.419736653,-15724.8637093466,0.907987538670311,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,4.59,10.77,Highest Overcrowding,Lowest Overcrowding,75538.5081840647,70336.38065204,-5202.12753202469,0.931132773772171,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),1.21,5.65,Highest Overcrowding,Lowest Overcrowding,107844.232849401,108081.920598273,237.687748872268,1.00220399128069,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,4.57,10.82,Highest Overcrowding,Lowest Overcrowding,164463.318640148,177387.048522009,12923.7298818607,1.07858123008048,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.37,2.34,Highest Overcrowding,Lowest Overcrowding,39734.6817434511,44461.2403702797,4726.55862682859,1.11895297557297,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,4.24,9.86,Highest Poverty,Lowest Poverty,160952.331729297,184798.573300559,23846.2415712627,1.14815716749832,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,4.83,22.85,Highest Poverty,Lowest Poverty,46926.9322417288,52256.412815399,5329.48057367018,1.11356976301406,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,9.2,24.58,Highest Poverty,Lowest Poverty,166011.481546878,180955.622207232,14944.1406603539,1.0900187175074,2021-07-31,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),6.35,16.95,Highest Poverty,Lowest Poverty,108375.286258652,110893.046890326,2517.76063167417,1.02323187064683,2021-06-30,LHD,city
@@ -909,12 +1006,15 @@ Testing,Tests per 100K,Chicago,1.85,6.22,Highest % Production Workers,Lowest % P
 Testing,Tests per 100K,Kansas City,3.46,7.93,Highest % Production Workers,Lowest % Production Workers,56578.6214200018,49330.2073533208,-7248.41406668099,0.871887757517568,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,1.44,3.04,Highest % Production Workers,Lowest % Production Workers,79497.2583710219,69367.512182411,-10129.7461886109,0.872577414665871,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),1.95,4,Highest % Production Workers,Lowest % Production Workers,112749.607706284,107313.096465405,-5436.51124087841,0.951782437637915,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,2.21,7.38,Highest % Production Workers,Lowest % Production Workers,175836.470591936,172054.201601942,-3782.2689899932,0.97848984924879,2021-08-03,LHD,city
 Testing,Tests per 100K,Chicago,5.8,11.04,Highest % Service Worker,Lowest % Service Worker,209800.761149381,165092.058847827,-44708.7023015541,0.786899236892087,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,5.76,11.28,Highest % Service Worker,Lowest % Service Worker,80452.5001788832,70633.0672558798,-9819.43292300339,0.877947448479908,2021-08-04,LHD,city
 Testing,Tests per 100K,Kansas City,6.35,10.95,Highest % Service Worker,Lowest % Service Worker,54373.7803415977,50111.8907685525,-4261.88957304523,0.921618663512628,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,7.28,10.51,Highest % Service Worker,Lowest % Service Worker,179796.181179411,172478.105672369,-7318.07550704191,0.959297936924814,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,5.71,9.07,Highest % Service Worker,Lowest % Service Worker,155697.383740624,176929.366323727,21231.9825831036,1.13636698365127,2021-08-03,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),11.68,19.49,Highest % Service Worker,Lowest % Service Worker,97534.8541779372,114365.843161534,16830.9889835972,1.17256384013136,2021-06-30,LHD,city
 Testing,Tests per 100K,Chicago,18.26,33.38,Most Public Transit Usage,Least Public Transit Usage,142935.102376118,203412.606516336,60477.5041402175,1.42311162992753,2021-07-31,LHD,city
+Testing,Tests per 100K,San Jose,2.73,4.26,Most Public Transit Usage,Least Public Transit Usage,175805.198712746,190752.053807954,14946.8550952073,1.08501941469677,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0,3.25,Most Public Transit Usage,Least Public Transit Usage,49678.2217989119,53203.8063136257,3525.58451471382,1.07096841205357,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,42.45,65.85,Most Public Transit Usage,Least Public Transit Usage,71299.4577275559,71956.9094091197,657.451681563776,1.00922099133034,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.35,4.35,Most Public Transit Usage,Least Public Transit Usage,108991.802122512,108890.491913606,-101.31020890575,0.999070478632954,2021-06-30,LHD,city
@@ -923,45 +1023,54 @@ Testing,Tests per 100K,Chicago,11.89,71.61,Highest Risk Areas,Lowest Risk Areas,
 Testing,Tests per 100K,Philadelphia,34.69,81.55,Highest Risk Areas,Lowest Risk Areas,176700.851315564,140185.255109353,-36515.5962062109,0.793347932766894,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,34.09,67.53,Highest Risk Areas,Lowest Risk Areas,81022.1687492147,69664.0759310992,-11358.0928181155,0.859814998864424,2021-08-04,LHD,city
 Testing,Tests per 100K,Kansas City,19.43,70.52,Highest Risk Areas,Lowest Risk Areas,45564.8730371179,50280.0664048926,4715.19336777478,1.10348307925567,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,20.12,37.32,Highest Risk Areas,Lowest Risk Areas,158345.068434483,176075.310152824,17730.2417183404,1.11197217503289,2021-08-03,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),23.84,53.52,Highest Risk Areas,Lowest Risk Areas,100499.138489898,113611.155013517,13112.016523619,1.13046894451674,2021-06-30,LHD,city
-Testing,Tests per 100K,Chicago,-0.02,0.52,highest concentration of NH White,highest concentration of Hispanic,143479.268012784,199278.806521013,55799.538508229,1.38890314455227,2021-07-31,LHD,city
-Testing,Tests per 100K,Philadelphia,0.03,0.61,highest concentration of NH White,highest concentration of Hispanic,125309.478991634,167167.739918419,41858.260926785,1.33403906283562,2021-08-04,LHD,city
-Testing,Tests per 100K,New York City,-0.18,0.42,highest concentration of NH White,highest concentration of Hispanic,70680.3914997435,76735.1319087504,6054.74040900693,1.08566365126923,2021-08-04,LHD,city
-Testing,Tests per 100K,Las Vegas (Metro),-0.04,0.49,highest concentration of NH White,highest concentration of Hispanic,108489.188417706,104428.780397374,-4060.4080203312,0.962573155172866,2021-06-30,LHD,city
 Testing,Tests per 100K,Kansas City,0.25,0.72,highest concentration of NH White,highest concentration of Hispanic,52042.8502618417,44909.3024061753,-7133.54785566634,0.862929339577377,2021-08-04,LHD,city
+Testing,Tests per 100K,Las Vegas (Metro),-0.04,0.49,highest concentration of NH White,highest concentration of Hispanic,108489.188417706,104428.780397374,-4060.4080203312,0.962573155172866,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,-0.18,0.17,highest concentration of NH White,highest concentration of Hispanic,179610.362536185,174594.998436253,-5015.36409993228,0.972076421264826,2021-08-03,LHD,city
+Testing,Tests per 100K,New York City,-0.18,0.42,highest concentration of NH White,highest concentration of Hispanic,70680.3914997435,76735.1319087504,6054.74040900693,1.08566365126923,2021-08-04,LHD,city
+Testing,Tests per 100K,Philadelphia,0.03,0.61,highest concentration of NH White,highest concentration of Hispanic,125309.478991634,167167.739918419,41858.260926785,1.33403906283562,2021-08-04,LHD,city
+Testing,Tests per 100K,Chicago,-0.02,0.52,highest concentration of NH White,highest concentration of Hispanic,143479.268012784,199278.806521013,55799.538508229,1.38890314455227,2021-07-31,LHD,city
 Testing,Tests per 100K,Chicago,-0.15,0.32,highest concentration of High-income,highest concentration of Low-income,160559.666831968,208606.297671007,48046.6308390393,1.29924470937849,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,-0.01,0.32,highest concentration of High-income,highest concentration of Low-income,70398.5271717242,78493.0352762214,8094.50810449718,1.11498121380796,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,-0.26,0.17,highest concentration of High-income,highest concentration of Low-income,165386.316201092,178748.906062423,13362.5898613315,1.08079622406659,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),-0.08,0.28,highest concentration of High-income,highest concentration of Low-income,107278.394829848,110156.67973713,2878.28490728217,1.02683005195825,2021-06-30,LHD,city
 Testing,Tests per 100K,Kansas City,-0.17,0.27,highest concentration of High-income,highest concentration of Low-income,50627.5020463701,46972.9339345033,-3654.5681118668,0.927814567890007,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.36,0.55,highest concentration of High-income,highest concentration of Low-income,179242.943081735,162908.374970358,-16334.5681113775,0.908869114562971,2021-08-03,LHD,city
 Testing,Tests per 100K,Chicago,-0.12,0.36,highest concentration of High-income NH White,highest concentration of Low-income NH Black,166981.994583334,203129.021337978,36147.0267546437,1.21647260140137,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,-0.01,0.33,highest concentration of High-income NH White,highest concentration of Low-income NH Black,68996.2857747014,80792.9942800647,11796.7085053634,1.17097599345976,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,-0.23,0.19,highest concentration of High-income NH White,highest concentration of Low-income NH Black,146534.182349849,168058.125208186,21523.9428583375,1.14688683905131,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.15,0.39,highest concentration of High-income NH White,highest concentration of Low-income NH Black,170620.10354972,176874.519959605,6254.41640988476,1.0366569723014,2021-08-03,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.05,0.28,highest concentration of High-income NH White,highest concentration of Low-income NH Black,107686.28778863,107581.250407567,-105.037381063405,0.999024598366047,2021-06-30,LHD,city
 Testing,Tests per 100K,Kansas City,-0.02,0.33,highest concentration of High-income NH White,highest concentration of Low-income NH Black,46239.7626761765,45977.486717636,-262.275958540449,0.994327912961466,2021-08-04,LHD,city
 Testing,Tests per 100K,Kansas City,-0.1,0.32,highest concentration of High-income NH White,highest concentration of Low-income Minority,50729.555722511,45977.486717636,-4752.06900487499,0.906325436184211,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,-0.31,0.15,highest concentration of High-income NH White,highest concentration of Low-income Minority,169980.841592729,164336.005719705,-5644.83587302401,0.966791340599731,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),-0.04,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,108635.85972468,106606.086997139,-2029.77272754131,0.981315812912187,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,0.02,0.26,highest concentration of High-income NH White,highest concentration of Low-income Minority,176853.631676673,175637.889625238,-1215.74205143491,0.993125716221324,2021-08-03,LHD,city
 Testing,Tests per 100K,New York City,-0.14,0.24,highest concentration of High-income NH White,highest concentration of Low-income Minority,69875.345856481,79708.5240450229,9833.17818854188,1.14072457270893,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,-0.23,0.3,highest concentration of High-income NH White,highest concentration of Low-income Minority,160559.666831968,202427.317908989,41867.651077022,1.26076069976427,2021-07-31,LHD,city
 Testing,Tests per 100K,Chicago,-0.36,0.54,highest concentration of NH White,highest concentration of NH Black,170196.524420549,200126.234946608,29929.710526059,1.17585382914227,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,-0.21,0.52,highest concentration of NH White,highest concentration of NH Black,68771.6475413297,76192.7359703406,7421.08842901091,1.10790912671608,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,-0.59,0.55,highest concentration of NH White,highest concentration of NH Black,145938.314165777,160874.917348081,14936.6031823047,1.10234874417788,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.12,0.4,highest concentration of NH White,highest concentration of NH Black,170934.428431873,174493.913044396,3559.48461252343,1.02082368452732,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.06,0.72,highest concentration of NH White,highest concentration of NH Black,46272.2867077004,44246.4321823778,-2025.85452532262,0.956218837030471,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.22,0.59,highest concentration of NH White,highest concentration of NH Black,108367.493603019,102698.950569918,-5668.5430331008,0.94769148159995,2021-06-30,LHD,city
 Testing,Tests per 100K,Philadelphia,-0.28,0.36,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,136714.47959313,182143.599931528,45429.1203383973,1.33229194503462,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,-0.11,0.44,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,165107.20867901,208783.954115642,43676.7454366319,1.26453566616552,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,-0.06,0.39,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,68532.5385942671,81071.0861609949,12538.5475667279,1.18295758225096,2021-08-04,LHD,city
 Testing,Tests per 100K,Kansas City,-0.02,0.39,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,45486.243281613,48014.2843031173,2528.04102150432,1.05557814493171,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.1,0.33,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,170934.428431873,174194.664044123,3260.2356122504,1.01907301906444,2021-08-03,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.07,0.27,highest concentration of NH White Non-Service Workers,highest concentration of NH Black Service Workers,107545.823324899,104876.788687517,-2669.03463738199,0.975182349673229,2021-06-30,LHD,city
 Testing,Tests per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,160863.787409835,133570.112483586,-27293.6749262491,0.830330521457184,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,198349.068249072,166182.962827041,-32166.1054220315,0.837830821662143,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,76844.2828843841,70151.0244395349,-6693.25844484914,0.912898420108631,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,107300.869343815,109680.912364522,2380.04302070642,1.02218102271921,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,164471.662316245,179730.782316521,15259.1200002758,1.09277659011518,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,45585.6210661056,53902.9466545157,8317.32558841016,1.18245502406008,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,132460.971173059,196632.573531401,64171.6023583418,1.48445668025869,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,0.23,0.76,Most Socially Vulnerable,Least Socially Vulnerable,149724.830824229,207584.761797563,57859.930973334,1.38644178560642,2021-07-31,LHD,city
 Testing,Tests per 100K,Kansas City,0.22,0.76,Most Socially Vulnerable,Least Socially Vulnerable,41144.9617711859,55764.0115328865,14619.0497617006,1.35530595077472,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,164091.908769423,189389.085007716,25297.1762382927,1.15416467775897,2021-08-03,LHD,city
 Testing,Tests per 100K,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,67449.6190718202,72193.0864057982,4743.467333978,1.07032608040273,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,107647.130144074,111540.026321265,3892.89617719116,1.03616349244036,2021-06-30,LHD,city
 Testing,Tests per 100K,Philadelphia,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,235396.739499508,136969.419959887,-98427.319539621,0.581866258008103,2021-08-04,LHD,city
@@ -969,13 +1078,16 @@ Testing,Tests per 100K,Chicago,0.24,0.75,Most Socially Vulnerable,Least Socially
 Testing,Tests per 100K,Kansas City,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,54468.1125512169,43271.8909046737,-11196.2216465432,0.794444471781259,2021-08-04,LHD,city
 Testing,Tests per 100K,New York City,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,78581.7207143965,70636.0662817175,-7945.65443267897,0.898886733957414,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.24,0.76,Most Socially Vulnerable,Least Socially Vulnerable,114798.127546287,110189.60708305,-4608.52046323761,0.959855438745032,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,160047.37524709,172423.890890573,12376.515643483,1.07733032562624,2021-08-03,LHD,city
 Testing,Tests per 100K,Philadelphia,0.25,0.75,Most Socially Vulnerable,Least Socially Vulnerable,170951.131786218,116829.339776995,-54121.792009223,0.683407816937388,2021-08-04,LHD,city
 Testing,Tests per 100K,Chicago,0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,204553.743131511,149224.287935945,-55329.4551955666,0.72951140199867,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,0.27,0.76,Most Socially Vulnerable,Least Socially Vulnerable,79613.0931101689,70352.2767932756,-9260.81631689331,0.883677219975888,2021-08-04,LHD,city
+Testing,Tests per 100K,San Jose,0.25,0.74,Most Socially Vulnerable,Least Socially Vulnerable,176635.104819316,174803.92887191,-1831.17594740633,0.989633001043142,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,52141.5315259155,51880.3500966369,-261.181429278651,0.994990913737376,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,109894.2246792,110446.260849968,552.036170768566,1.00502334105709,2021-06-30,LHD,city
 Testing,Tests per 100K,Chicago,0.24,0.75,Most Socially Vulnerable,Least Socially Vulnerable,202427.317908989,152834.355108009,-49592.9628009807,0.755008546705749,2021-07-31,LHD,city
 Testing,Tests per 100K,New York City,0.26,0.75,Most Socially Vulnerable,Least Socially Vulnerable,79159.4360379244,69919.9848564523,-9239.4511814721,0.883280482480376,2021-08-04,LHD,city
 Testing,Tests per 100K,Philadelphia,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,172314.24802426,158569.818676384,-13744.429347876,0.920236257271419,2021-08-04,LHD,city
 Testing,Tests per 100K,Las Vegas (Metro),0.24,0.74,Most Socially Vulnerable,Least Socially Vulnerable,109845.818915142,109653.533158292,-192.285756849888,0.998249494074978,2021-06-30,LHD,city
+Testing,Tests per 100K,San Jose,0.25,0.72,Most Socially Vulnerable,Least Socially Vulnerable,163859.626940308,179730.782316521,15871.1553762131,1.09685824185353,2021-08-03,LHD,city
 Testing,Tests per 100K,Kansas City,0.24,0.73,Most Socially Vulnerable,Least Socially Vulnerable,44303.5799710835,50771.2320069843,6467.6520359008,1.1459848626256,2021-08-04,LHD,city
