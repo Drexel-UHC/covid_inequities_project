@@ -192,22 +192,22 @@ Minneapolis,TRUE,deaths_rate_cum,Mortality,Hispanic,221,Deaths per 100K,2021-08-
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,136,Deaths per 100K,2021-08-16,CDC,county
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH Black,252,Deaths per 100K,2021-08-16,CDC,county
 Minneapolis,TRUE,deaths_rate_cum,Mortality,NH White,120,Deaths per 100K,2021-08-16,CDC,county
-New York City,FALSE,cases_rate_cum,Incidence,NH Asian/PI,8354,Cases per 100K,2021-09-05,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,NH Black,9396,Cases per 100K,2021-09-05,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,Hispanic,11866,Cases per 100K,2021-09-05,LHD,city
-New York City,FALSE,cases_rate_cum,Incidence,NH White,8946,Cases per 100K,2021-09-05,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH Asian/PI,7634,Cases per 100K,2021-09-05,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH Black,9269,Cases per 100K,2021-09-05,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,Hispanic,12003,Cases per 100K,2021-09-05,LHD,city
-New York City,TRUE,cases_rate_cum,Incidence,NH White,8907,Cases per 100K,2021-09-05,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,928,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH Black,1666,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1470,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,FALSE,hospital_rate_cum,Hospitalization,NH White,1012,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,780,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH Black,1461,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1527,Hospitalizations per 100K,2021-09-05,LHD,city
-New York City,TRUE,hospital_rate_cum,Hospitalization,NH White,777,Hospitalizations per 100K,2021-09-05,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH Asian/PI,8359,Cases per 100K,2021-09-06,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH Black,9407,Cases per 100K,2021-09-06,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,Hispanic,11875,Cases per 100K,2021-09-06,LHD,city
+New York City,FALSE,cases_rate_cum,Incidence,NH White,8957,Cases per 100K,2021-09-06,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH Asian/PI,7639,Cases per 100K,2021-09-06,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH Black,9281,Cases per 100K,2021-09-06,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,Hispanic,12012,Cases per 100K,2021-09-06,LHD,city
+New York City,TRUE,cases_rate_cum,Incidence,NH White,8919,Cases per 100K,2021-09-06,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,928,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH Black,1668,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1472,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,FALSE,hospital_rate_cum,Hospitalization,NH White,1014,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,780,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH Black,1463,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,Hispanic,1530,Hospitalizations per 100K,2021-09-06,LHD,city
+New York City,TRUE,hospital_rate_cum,Hospitalization,NH White,779,Hospitalizations per 100K,2021-09-06,LHD,city
 Oakland,FALSE,cases_rate_cum,Incidence,Hispanic,10333,Cases per 100K,2021-08-16,CDC,county
 Oakland,FALSE,cases_rate_cum,Incidence,NH Native American,3320,Cases per 100K,2021-08-16,CDC,county
 Oakland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,2000,Cases per 100K,2021-08-16,CDC,county
@@ -225,19 +225,19 @@ Oakland,TRUE,deaths_rate_cum,Mortality,Hispanic,120,Deaths per 100K,2021-08-16,C
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,41,Deaths per 100K,2021-08-16,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Black,99,Deaths per 100K,2021-08-16,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH White,41,Deaths per 100K,2021-08-16,CDC,county
-Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,7967,Cases per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,7207,Cases per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,9488,Cases per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,6162,Cases per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,8749,Cases per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1080,Hospitalizations per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,681,Hospitalizations per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Black,1464,Hospitalizations per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH White,707,Hospitalizations per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,166,Deaths per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,148,Deaths per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,275,Deaths per 100K,2021-09-03,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,230,Deaths per 100K,2021-09-03,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,7967,Cases per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,7207,Cases per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,9488,Cases per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,6162,Cases per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,8749,Cases per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,Hispanic,1080,Hospitalizations per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Asian/PI,681,Hospitalizations per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH Black,1464,Hospitalizations per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,hospital_rate_cum,Hospitalization,NH White,707,Hospitalizations per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,166,Deaths per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,148,Deaths per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,275,Deaths per 100K,2021-09-06,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,230,Deaths per 100K,2021-09-06,LHD,city
 Phoenix,FALSE,cases_rate_cum,Incidence,Hispanic,11899,Cases per 100K,2021-08-16,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Native American,12957,Cases per 100K,2021-08-16,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Asian/PI,4755,Cases per 100K,2021-08-16,CDC,county
@@ -301,11 +301,11 @@ San Diego,TRUE,deaths_rate_cum,Mortality,Hispanic,227,Deaths per 100K,2021-08-16
 San Diego,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,88,Deaths per 100K,2021-08-16,CDC,county
 San Diego,TRUE,deaths_rate_cum,Mortality,NH Black,115,Deaths per 100K,2021-08-16,CDC,county
 San Diego,TRUE,deaths_rate_cum,Mortality,NH White,56,Deaths per 100K,2021-08-16,CDC,county
-San Francisco,FALSE,cases_rate_cum,Incidence,Hispanic,12946,Cases per 100K,2021-08-31,LHD,city
-San Francisco,FALSE,cases_rate_cum,Incidence,NH Asian/PI,3011,Cases per 100K,2021-08-31,LHD,city
-San Francisco,FALSE,cases_rate_cum,Incidence,NH Black,8506,Cases per 100K,2021-08-31,LHD,city
-San Francisco,FALSE,cases_rate_cum,Incidence,NH Native American,9364,Cases per 100K,2021-08-31,LHD,city
-San Francisco,FALSE,cases_rate_cum,Incidence,NH White,3432,Cases per 100K,2021-08-31,LHD,city
+San Francisco,FALSE,cases_rate_cum,Incidence,Hispanic,12955,Cases per 100K,2021-09-01,LHD,city
+San Francisco,FALSE,cases_rate_cum,Incidence,NH Asian/PI,3013,Cases per 100K,2021-09-01,LHD,city
+San Francisco,FALSE,cases_rate_cum,Incidence,NH Black,8519,Cases per 100K,2021-09-01,LHD,city
+San Francisco,FALSE,cases_rate_cum,Incidence,NH Native American,9364,Cases per 100K,2021-09-01,LHD,city
+San Francisco,FALSE,cases_rate_cum,Incidence,NH White,3435,Cases per 100K,2021-09-01,LHD,city
 San Francisco,TRUE,cases_rate_cum,Incidence,Hispanic,11814,Cases per 100K,2021-08-16,CDC,city
 San Francisco,TRUE,cases_rate_cum,Incidence,NH Asian/PI,1649,Cases per 100K,2021-08-16,CDC,city
 San Francisco,TRUE,cases_rate_cum,Incidence,NH Black,5282,Cases per 100K,2021-08-16,CDC,city
