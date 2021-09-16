@@ -1,6 +1,6 @@
 # Outcomes
 
-This folder includes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities. Please see below for details about each file.
+This folder includes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities. Note, we no longer report deaths for Miami-Date county, as the Florida Department of Health no longer dis-aggregates reports of COVID-19 deaths by county. Please see below for details about each file.
 
 ### inequities/
 
