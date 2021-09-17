@@ -12,7 +12,7 @@ Diez Roux, A., Kolker, J., Barber, S., Bilal, U., Mullachery, P., Schnake-Mahl, 
 
 ## Outcomes/
 
-This folder includes COVID-19 outcomes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities.
+This folder includes COVID-19 outcomes data presented on the dashboard, including: cumulative rates (by city, by ZCTA, by Race/Ethnicity), trends and inequities. Note, we no longer report deaths for Miami-Date county, as the Florida Department of Health no longer dis-aggregates reports of COVID-19 deaths by county. Please see below for details about each file.
 
 ## Vaccinations/
 
