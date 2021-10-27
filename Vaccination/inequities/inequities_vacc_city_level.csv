@@ -1,67 +1,67 @@
 outcome,outcome_label,exposure,top_lab,bot_lab,bot_value,top_value,rate_diff,rr
-% Fully Vaccinated,% Fully Vaccinated,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,54.32,67.74,13.4172214636204,1.24698893602499
-% Fully Vaccinated,% Fully Vaccinated,% Hispanic,Highest % Hispanic,Lowest % Hispanic,57.2,55.43,-1.76746635508953,0.969100242975993
-% Fully Vaccinated,% Fully Vaccinated,% NH-Black,Highest % NH Black,Lowest % NH Black,67.22,54.95,-12.2663652478068,0.817520744241909
-% Fully Vaccinated,% Fully Vaccinated,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,50.81,70.4,19.5921731238368,1.38559509089637
-% Fully Vaccinated,% Fully Vaccinated,% NH Native American,Highest % NH Native American,Lowest % NH Native American,59.06,67.06,8.00284730523502,1.13550687150602
-% Fully Vaccinated,% Fully Vaccinated,% NH White,Highest % NH White,Lowest % NH White,58.32,62.02,3.70232302800286,1.06348702364017
-% Fully Vaccinated,% Fully Vaccinated,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,52.41,66.03,13.6138689744995,1.25974520512291
-% Fully Vaccinated,% Fully Vaccinated,% Poverty,Highest Poverty,Lowest Poverty,68.84,55.09,-13.7483779047239,0.800292464394386
-% Fully Vaccinated,% Fully Vaccinated,% Production Worker,Highest % Production Workers,Lowest % Production Workers,67.53,54.56,-12.96696270232,0.807981400769856
-% Fully Vaccinated,% Fully Vaccinated,% Service Worker,Highest % Service Worker,Lowest % Service Worker,59.81,57.42,-2.39776267290654,0.959912924067882
-% Fully Vaccinated,% Fully Vaccinated,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),64.81,58.21,-6.60527103129041,0.898088546798914
-% Fully Vaccinated,% Fully Vaccinated,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),68.18,60.45,-7.73224250104179,0.886588260176159
-% Fully Vaccinated,% Fully Vaccinated,GINI,Highest Income Inequality,Lowest Income Inequality,60.19,60.46,0.277292261544751,1.00460730592433
-% Fully Vaccinated,% Fully Vaccinated,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),60.56,53.55,-7.01329105163159,0.884197578850179
-% Fully Vaccinated,% Fully Vaccinated,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),66.39,55.91,-10.478876588264,0.842151182593285
-% Fully Vaccinated,% Fully Vaccinated,Population,Largest Population,Smallest Population,61.94,59.25,-2.69502387901386,0.956490086861935
-% Fully Vaccinated,% Fully Vaccinated,Population Density,Highest Population Density,Lowest Population Density,54.57,63.07,8.49703736676229,1.15569575991385
-% Fully Vaccinated,% Fully Vaccinated,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,65.7,53.22,-12.4855411722964,0.80996425558281
-% Fully Vaccinated,% Fully Vaccinated,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,50.72,67.37,16.6525291076722,1.3283246151459
-% Fully Vaccinated,% Fully Vaccinated,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,71.49,51.87,-19.6177635151157,0.725585695416638
-% Fully Vaccinated,% Fully Vaccinated,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,57.46,64.85,7.39638612114545,1.12872912914486
-% Fully Vaccinated,% Fully Vaccinated,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,69.33,53.68,-15.643131293345,0.774350907416524
-% Partially Vaccinated,% Partially Vaccinated,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,5.9,6.14,0.239074430293861,1.04050950567059
-% Partially Vaccinated,% Partially Vaccinated,% Hispanic,Highest % Hispanic,Lowest % Hispanic,5.1,7.96,2.86413615808359,1.56214462005891
-% Partially Vaccinated,% Partially Vaccinated,% NH-Black,Highest % NH Black,Lowest % NH Black,7.15,7.45,0.307432373056659,1.04302075620264
-% Partially Vaccinated,% Partially Vaccinated,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,7.35,6,-1.34604211266674,0.816783819940926
-% Partially Vaccinated,% Partially Vaccinated,% NH Native American,Highest % NH Native American,Lowest % NH Native American,7.46,4.06,-3.39662307745371,0.544768663842644
-% Partially Vaccinated,% Partially Vaccinated,% NH White,Highest % NH White,Lowest % NH White,6.41,6.04,-0.369982493723005,0.94225517584331
-% Partially Vaccinated,% Partially Vaccinated,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,8.21,6.62,-1.59366921434773,0.805924225143845
-% Partially Vaccinated,% Partially Vaccinated,% Poverty,Highest Poverty,Lowest Poverty,6.65,7.35,0.705095905033858,1.10608657055408
-% Partially Vaccinated,% Partially Vaccinated,% Production Worker,Highest % Production Workers,Lowest % Production Workers,6.75,6.58,-0.171617657275394,0.974580444397597
-% Partially Vaccinated,% Partially Vaccinated,% Service Worker,Highest % Service Worker,Lowest % Service Worker,5.84,7.05,1.20825007214106,1.20692285029422
-% Partially Vaccinated,% Partially Vaccinated,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),6.94,7.28,0.337211205535813,1.04858839137715
-% Partially Vaccinated,% Partially Vaccinated,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),5.24,7.4,2.15907917737317,1.411792415593
-% Partially Vaccinated,% Partially Vaccinated,GINI,Highest Income Inequality,Lowest Income Inequality,7.22,7.17,-0.0549068123754033,0.992399382623073
-% Partially Vaccinated,% Partially Vaccinated,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),4.4,7.49,3.09169247318836,1.70232058563721
-% Partially Vaccinated,% Partially Vaccinated,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),7.15,7.22,0.073895276573392,1.01034058530136
-% Partially Vaccinated,% Partially Vaccinated,Population,Largest Population,Smallest Population,4.48,8.19,3.70947118282426,1.82727308328087
-% Partially Vaccinated,% Partially Vaccinated,Population Density,Highest Population Density,Lowest Population Density,8.08,7.04,-1.03572705600648,0.871768882415415
-% Partially Vaccinated,% Partially Vaccinated,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,5.69,8.22,2.52258473257902,1.44307017238533
-% Partially Vaccinated,% Partially Vaccinated,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,7.21,7.18,-0.0267170212219439,0.996291930893869
-% Partially Vaccinated,% Partially Vaccinated,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,6.25,8.44,2.1982660060182,1.35190969014513
-% Partially Vaccinated,% Partially Vaccinated,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,4.98,6.7,1.71751426974796,1.3447956616995
-% Partially Vaccinated,% Partially Vaccinated,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,5.13,8.25,3.11709759428215,1.60730510385861
-% with at least one dose,% with at least one dose,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,49.91,73.88,23.9723904177763,1.48032429791473
-% with at least one dose,% with at least one dose,% Hispanic,Highest % Hispanic,Lowest % Hispanic,56.74,64.17,7.43127206251022,1.13097209403387
-% with at least one dose,% with at least one dose,% NH-Black,Highest % NH Black,Lowest % NH Black,75.44,59.6,-15.8359590170033,0.790076878781676
-% with at least one dose,% with at least one dose,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,57.03,75.96,18.9340434225583,1.33202999935079
-% with at least one dose,% with at least one dose,% NH Native American,Highest % NH Native American,Lowest % NH Native American,66.75,73.56,6.81012500237665,1.10202004712135
-% with at least one dose,% with at least one dose,% NH White,Highest % NH White,Lowest % NH White,64.72,71.77,7.04516381686426,1.10885031179114
-% with at least one dose,% with at least one dose,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,57.63,72.64,15.0102374536537,1.26044092851676
-% with at least one dose,% with at least one dose,% Poverty,Highest Poverty,Lowest Poverty,77.54,61.61,-15.9344877184652,0.794501237182909
-% with at least one dose,% with at least one dose,% Production Worker,Highest % Production Workers,Lowest % Production Workers,74.72,62.49,-12.2296270893368,0.836323313615813
-% with at least one dose,% with at least one dose,% Service Worker,Highest % Service Worker,Lowest % Service Worker,68.07,64.6,-3.47047610479648,0.949017659209844
-% with at least one dose,% with at least one dose,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),74.09,65.49,-8.60039838073254,0.883913817692219
-% with at least one dose,% with at least one dose,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),75.07,68.63,-6.4362244903143,0.914262707130555
-% with at least one dose,% with at least one dose,GINI,Highest Income Inequality,Lowest Income Inequality,70.2,67.67,-2.53422832361142,0.96390101966628
-% with at least one dose,% with at least one dose,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),65.2,61.38,-3.81801163359339,0.941438228541189
-% with at least one dose,% with at least one dose,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),75.44,62.1,-13.3416577535214,0.823141595981735
-% with at least one dose,% with at least one dose,Population,Largest Population,Smallest Population,69.04,68.72,-0.315850118615188,0.995425069082253
-% with at least one dose,% with at least one dose,Population Density,Highest Population Density,Lowest Population Density,66.02,70.58,4.56074003726529,1.06907769996111
-% with at least one dose,% with at least one dose,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,70.37,61.85,-8.52110906206178,0.878916451915839
-% with at least one dose,% with at least one dose,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,54.15,75.11,20.9544079021465,1.3869356956227
-% with at least one dose,% with at least one dose,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,77.38,59.98,-17.3964233970616,0.775174677009775
-% with at least one dose,% with at least one dose,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,55.11,71.55,16.4391373967913,1.29828063721256
-% with at least one dose,% with at least one dose,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,76.29,62.43,-13.8613344291263,0.818311979581587
+% Fully Vaccinated,% Fully Vaccinated,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,54.38,67.8,13.423178148624,1.24684526624112
+% Fully Vaccinated,% Fully Vaccinated,% Hispanic,Highest % Hispanic,Lowest % Hispanic,57.25,55.55,-1.70440136275521,0.970230164458665
+% Fully Vaccinated,% Fully Vaccinated,% NH-Black,Highest % NH Black,Lowest % NH Black,67.3,55.01,-12.2910786157092,0.817377916281857
+% Fully Vaccinated,% Fully Vaccinated,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,50.89,70.47,19.5820750518552,1.38481302819782
+% Fully Vaccinated,% Fully Vaccinated,% NH Native American,Highest % NH Native American,Lowest % NH Native American,59.15,67.12,7.96609436721908,1.13466687007551
+% Fully Vaccinated,% Fully Vaccinated,% NH White,Highest % NH White,Lowest % NH White,58.4,62.08,3.67954859222605,1.06300432443471
+% Fully Vaccinated,% Fully Vaccinated,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,52.46,66.11,13.6491590862984,1.26018321753455
+% Fully Vaccinated,% Fully Vaccinated,% Poverty,Highest Poverty,Lowest Poverty,68.92,55.15,-13.7744255291721,0.800150824279214
+% Fully Vaccinated,% Fully Vaccinated,% Production Worker,Highest % Production Workers,Lowest % Production Workers,67.59,54.63,-12.9539453450228,0.808333678097561
+% Fully Vaccinated,% Fully Vaccinated,% Service Worker,Highest % Service Worker,Lowest % Service Worker,59.9,57.49,-2.41135874615456,0.959742485134799
+% Fully Vaccinated,% Fully Vaccinated,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),64.88,58.27,-6.61269265758874,0.898083386457292
+% Fully Vaccinated,% Fully Vaccinated,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),68.25,60.5,-7.75277478721419,0.886403266139162
+% Fully Vaccinated,% Fully Vaccinated,GINI,Highest Income Inequality,Lowest Income Inequality,60.27,60.54,0.271955927971689,1.00451216129578
+% Fully Vaccinated,% Fully Vaccinated,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),60.62,53.65,-6.97949992204651,0.884874224114142
+% Fully Vaccinated,% Fully Vaccinated,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),66.47,55.96,-10.5153677418468,0.84180566070762
+% Fully Vaccinated,% Fully Vaccinated,Population,Largest Population,Smallest Population,62.01,59.32,-2.68925892956295,0.956631293157223
+% Fully Vaccinated,% Fully Vaccinated,Population Density,Highest Population Density,Lowest Population Density,54.66,63.12,8.4568870557799,1.15471603947473
+% Fully Vaccinated,% Fully Vaccinated,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,65.78,53.29,-12.4875983503583,0.810154565657079
+% Fully Vaccinated,% Fully Vaccinated,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,50.78,67.41,16.6268838177715,1.32739857157951
+% Fully Vaccinated,% Fully Vaccinated,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,71.57,51.93,-19.6419305059675,0.72555272991054
+% Fully Vaccinated,% Fully Vaccinated,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,57.5,64.96,7.45419746249916,1.12963627522429
+% Fully Vaccinated,% Fully Vaccinated,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,69.4,53.75,-15.6425827953777,0.774590916755643
+% Partially Vaccinated,% Partially Vaccinated,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,5.89,6.13,0.245710488628235,1.0417448547088
+% Partially Vaccinated,% Partially Vaccinated,% Hispanic,Highest % Hispanic,Lowest % Hispanic,5.09,7.94,2.85300964472779,1.56095858744607
+% Partially Vaccinated,% Partially Vaccinated,% NH-Black,Highest % NH Black,Lowest % NH Black,7.15,7.45,0.293256149168773,1.04098938573042
+% Partially Vaccinated,% Partially Vaccinated,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,7.33,6.01,-1.31984703944962,0.819941605017625
+% Partially Vaccinated,% Partially Vaccinated,% NH Native American,Highest % NH Native American,Lowest % NH Native American,7.45,4.06,-3.38461918433131,0.545609970683371
+% Partially Vaccinated,% Partially Vaccinated,% NH White,Highest % NH White,Lowest % NH White,6.39,6.02,-0.372635788722812,0.941729710559123
+% Partially Vaccinated,% Partially Vaccinated,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,8.2,6.62,-1.57803551699006,0.80758312830666
+% Partially Vaccinated,% Partially Vaccinated,% Poverty,Highest Poverty,Lowest Poverty,6.66,7.34,0.682152104487589,1.10247277002897
+% Partially Vaccinated,% Partially Vaccinated,% Production Worker,Highest % Production Workers,Lowest % Production Workers,6.74,6.57,-0.174401355085275,0.974127484383584
+% Partially Vaccinated,% Partially Vaccinated,% Service Worker,Highest % Service Worker,Lowest % Service Worker,5.82,7.06,1.24210819880666,1.21340262007266
+% Partially Vaccinated,% Partially Vaccinated,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),6.94,7.27,0.335177344361085,1.0483263854283
+% Partially Vaccinated,% Partially Vaccinated,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),5.24,7.4,2.1566406046342,1.41150484507754
+% Partially Vaccinated,% Partially Vaccinated,GINI,Highest Income Inequality,Lowest Income Inequality,7.24,7.16,-0.0840479807933621,0.98839213898252
+% Partially Vaccinated,% Partially Vaccinated,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),4.39,7.48,3.09268322601154,1.70472182258828
+% Partially Vaccinated,% Partially Vaccinated,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),7.15,7.22,0.0608941840677053,1.00851138230712
+% Partially Vaccinated,% Partially Vaccinated,Population,Largest Population,Smallest Population,4.47,8.19,3.7135090298367,1.83018298037742
+% Partially Vaccinated,% Partially Vaccinated,Population Density,Highest Population Density,Lowest Population Density,8.06,7.04,-1.01862427139199,0.873615650840673
+% Partially Vaccinated,% Partially Vaccinated,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,5.68,8.2,2.52140549886878,1.44380736056975
+% Partially Vaccinated,% Partially Vaccinated,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,7.19,7.18,-0.0119676992798503,0.99833494921812
+% Partially Vaccinated,% Partially Vaccinated,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,6.25,8.44,2.18299210429175,1.34905562579487
+% Partially Vaccinated,% Partially Vaccinated,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,4.98,6.68,1.7013560528448,1.3414088187336
+% Partially Vaccinated,% Partially Vaccinated,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,5.12,8.24,3.1127091917752,1.60751104279507
+% with at least one dose,% with at least one dose,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,49.95,73.93,23.9819499759847,1.48010122339667
+% with at least one dose,% with at least one dose,% Hispanic,Highest % Hispanic,Lowest % Hispanic,56.78,64.28,7.49549142173007,1.13200364862441
+% with at least one dose,% with at least one dose,% NH-Black,Highest % NH Black,Lowest % NH Black,75.54,59.65,-15.8928475832852,0.789617062621433
+% with at least one dose,% with at least one dose,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,57.11,76.04,18.9285542353911,1.33145280242217
+% with at least one dose,% with at least one dose,% NH Native American,Highest % NH Native American,Lowest % NH Native American,66.84,73.62,6.77813813588783,1.10140378498155
+% with at least one dose,% with at least one dose,% NH White,Highest % NH White,Lowest % NH White,64.8,71.84,7.04383097320651,1.10870700389899
+% with at least one dose,% with at least one dose,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,57.66,72.73,15.0693739565469,1.26133670659316
+% with at least one dose,% with at least one dose,% Poverty,Highest Poverty,Lowest Poverty,77.64,61.65,-15.9890741247301,0.794062966181592
+% with at least one dose,% with at least one dose,% Production Worker,Highest % Production Workers,Lowest % Production Workers,74.76,62.56,-12.1990832747246,0.836816162496108
+% with at least one dose,% with at least one dose,% Service Worker,Highest % Service Worker,Lowest % Service Worker,68.15,64.69,-3.46251961724759,0.949196335314702
+% with at least one dose,% with at least one dose,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),74.18,65.54,-8.63531050104044,0.883584845682785
+% with at least one dose,% with at least one dose,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),75.14,68.67,-6.46749373389329,0.913926636949363
+% with at least one dose,% with at least one dose,GINI,Highest Income Inequality,Lowest Income Inequality,70.32,67.74,-2.58454305672498,0.963246769220253
+% with at least one dose,% with at least one dose,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),65.26,61.47,-3.79242768401153,0.941888270010755
+% with at least one dose,% with at least one dose,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),75.54,62.13,-13.4082743483152,0.822506814603633
+% with at least one dose,% with at least one dose,Population,Largest Population,Smallest Population,69.11,68.79,-0.312730859430189,0.995474678837411
+% with at least one dose,% with at least one dose,Population Density,Highest Population Density,Lowest Population Density,66.13,70.62,4.49057866356826,1.06790142527313
+% with at least one dose,% with at least one dose,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,70.45,61.92,-8.52597939623233,0.878976370545307
+% with at least one dose,% with at least one dose,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,54.22,75.13,20.9126336193964,1.38568590005097
+% with at least one dose,% with at least one dose,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,77.47,60.03,-17.4377192531669,0.774916497328949
+% with at least one dose,% with at least one dose,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,55.13,71.64,16.5052136689557,1.29936249613673
+% with at least one dose,% with at least one dose,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,76.36,62.5,-13.8590992719533,0.818495343704237
