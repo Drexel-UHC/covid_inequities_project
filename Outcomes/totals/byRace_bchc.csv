@@ -239,11 +239,11 @@ New York City,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,387,Deaths per 100K,202
 New York City,TRUE,deaths_rate_cum,Mortality,NH Black,680,Deaths per 100K,2022-01-18,LHD,city
 New York City,TRUE,deaths_rate_cum,Mortality,Hispanic,746,Deaths per 100K,2022-01-18,LHD,city
 New York City,TRUE,deaths_rate_cum,Mortality,NH White,406,Deaths per 100K,2022-01-18,LHD,city
-Oakland,FALSE,cases_rate_cum,Incidence,Hispanic,15569,Cases per 100K,2022-01-17,LHD,city
-Oakland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,5140,Cases per 100K,2022-01-17,LHD,city
-Oakland,FALSE,cases_rate_cum,Incidence,NH Black,8406,Cases per 100K,2022-01-17,LHD,city
-Oakland,FALSE,cases_rate_cum,Incidence,NH Native American,8247,Cases per 100K,2022-01-17,LHD,city
-Oakland,FALSE,cases_rate_cum,Incidence,NH White,3890,Cases per 100K,2022-01-17,LHD,city
+Oakland,FALSE,cases_rate_cum,Incidence,Hispanic,15569,Cases per 100K,2022-01-18,LHD,city
+Oakland,FALSE,cases_rate_cum,Incidence,NH Asian/PI,5140,Cases per 100K,2022-01-18,LHD,city
+Oakland,FALSE,cases_rate_cum,Incidence,NH Black,8406,Cases per 100K,2022-01-18,LHD,city
+Oakland,FALSE,cases_rate_cum,Incidence,NH Native American,8247,Cases per 100K,2022-01-18,LHD,city
+Oakland,FALSE,cases_rate_cum,Incidence,NH White,3890,Cases per 100K,2022-01-18,LHD,city
 Oakland,TRUE,cases_rate_cum,Incidence,Hispanic,10551,Cases per 100K,2022-01-03,CDC,county
 Oakland,TRUE,cases_rate_cum,Incidence,NH Native American,8489,Cases per 100K,2022-01-03,CDC,county
 Oakland,TRUE,cases_rate_cum,Incidence,NH Asian/PI,2921,Cases per 100K,2022-01-03,CDC,county
@@ -265,15 +265,15 @@ Oakland,TRUE,deaths_rate_cum,Mortality,Hispanic,176,Deaths per 100K,2022-01-03,C
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,76,Deaths per 100K,2022-01-03,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Black,269,Deaths per 100K,2022-01-03,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH White,50,Deaths per 100K,2022-01-03,CDC,county
-Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,16452,Cases per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,10492,Cases per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,16291,Cases per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,7448,Cases per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,13679,Cases per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,203,Deaths per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,162,Deaths per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,312,Deaths per 100K,2022-01-17,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,264,Deaths per 100K,2022-01-17,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,16497,Cases per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,10603,Cases per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,16447,Cases per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,7329,Cases per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,13791,Cases per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,204,Deaths per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,162,Deaths per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,313,Deaths per 100K,2022-01-18,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,264,Deaths per 100K,2022-01-18,LHD,city
 Phoenix,FALSE,cases_rate_cum,Incidence,Hispanic,20384,Cases per 100K,2022-01-03,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Native American,19740,Cases per 100K,2022-01-03,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Asian/PI,7755,Cases per 100K,2022-01-03,CDC,county
