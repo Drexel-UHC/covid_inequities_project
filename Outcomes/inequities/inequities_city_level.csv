@@ -1,67 +1,67 @@
 outcome,outcome_label,exposure,top_lab,bot_lab,bot_value,top_value,rate_diff,rr
-Hospitalization,Hospitalizations per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,2478,1414,-1065,0.57
-Hospitalization,Hospitalizations per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,1908,2516,608,1.32
-Hospitalization,Hospitalizations per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,1250,2245,995,1.8
-Hospitalization,Hospitalizations per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,2803,1241,-1562,0.44
+Hospitalization,Hospitalizations per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,2479,1414,-1065,0.57
+Hospitalization,Hospitalizations per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,1908,2516,607,1.32
+Hospitalization,Hospitalizations per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,1250,2245,996,1.8
+Hospitalization,Hospitalizations per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,2804,1241,-1562,0.44
 Hospitalization,Hospitalizations per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,1848,1740,-108,0.94
-Hospitalization,Hospitalizations per 100K,% NH White,Highest % NH White,Lowest % NH White,1959,1437,-522,0.73
-Hospitalization,Hospitalizations per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,2282,1723,-559,0.76
-Hospitalization,Hospitalizations per 100K,% Poverty,Highest Poverty,Lowest Poverty,1385,2035,650,1.47
-Hospitalization,Hospitalizations per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,1549,2336,787,1.51
-Hospitalization,Hospitalizations per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,2534,2042,-491,0.81
-Hospitalization,Hospitalizations per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),1940,1911,-30,0.98
-Hospitalization,Hospitalizations per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),1517,2384,867,1.57
+Hospitalization,Hospitalizations per 100K,% NH White,Highest % NH White,Lowest % NH White,1959,1438,-521,0.73
+Hospitalization,Hospitalizations per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,2282,1723,-559,0.75
+Hospitalization,Hospitalizations per 100K,% Poverty,Highest Poverty,Lowest Poverty,1385,2036,651,1.47
+Hospitalization,Hospitalizations per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,1549,2336,788,1.51
+Hospitalization,Hospitalizations per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,2534,2043,-491,0.81
+Hospitalization,Hospitalizations per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),1941,1911,-30,0.98
+Hospitalization,Hospitalizations per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),1518,2385,867,1.57
 Hospitalization,Hospitalizations per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,1961,2224,263,1.13
-Hospitalization,Hospitalizations per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),2076,2158,82,1.04
-Hospitalization,Hospitalizations per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),1274,2480,1206,1.95
-Hospitalization,Hospitalizations per 100K,Population,Largest Population,Smallest Population,2240,1995,-246,0.89
-Hospitalization,Hospitalizations per 100K,Population Density,Highest Population Density,Lowest Population Density,2348,1776,-572,0.76
-Hospitalization,Hospitalizations per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,1481,2378,897,1.61
-Hospitalization,Hospitalizations per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,2598,1681,-916,0.65
+Hospitalization,Hospitalizations per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),2077,2158,81,1.04
+Hospitalization,Hospitalizations per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),1274,2481,1207,1.95
+Hospitalization,Hospitalizations per 100K,Population,Largest Population,Smallest Population,2241,1995,-246,0.89
+Hospitalization,Hospitalizations per 100K,Population Density,Highest Population Density,Lowest Population Density,2348,1777,-571,0.76
+Hospitalization,Hospitalizations per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,1482,2378,896,1.61
+Hospitalization,Hospitalizations per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,2598,1682,-916,0.65
 Hospitalization,Hospitalizations per 100K,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,1083,2592,1509,2.39
-Hospitalization,Hospitalizations per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,1847,1684,-163,0.91
-Hospitalization,Hospitalizations per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,1121,2175,1054,1.94
-Incidence,Cases per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,27412,22679,-4733,0.83
-Incidence,Cases per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,21119,26080,4961,1.23
-Incidence,Cases per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,20519,28137,7617,1.37
-Incidence,Cases per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,29252,21459,-7793,0.73
-Incidence,Cases per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,25107,20176,-4931,0.8
-Incidence,Cases per 100K,% NH White,Highest % NH White,Lowest % NH White,21498,21441,-57,1
-Incidence,Cases per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,28814,23614,-5201,0.82
-Incidence,Cases per 100K,% Poverty,Highest Poverty,Lowest Poverty,21554,30366,8812,1.41
-Incidence,Cases per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,20003,31490,11487,1.57
-Incidence,Cases per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,22303,31175,8871,1.4
-Incidence,Cases per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),26643,21575,-5067,0.81
-Incidence,Cases per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),20274,27686,7412,1.37
-Incidence,Cases per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,26989,22941,-4048,0.85
-Incidence,Cases per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),20752,24084,3332,1.16
-Incidence,Cases per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),21235,27250,6016,1.28
-Incidence,Cases per 100K,Population,Largest Population,Smallest Population,26320,23587,-2733,0.9
-Incidence,Cases per 100K,Population Density,Highest Population Density,Lowest Population Density,23876,22431,-1445,0.94
-Incidence,Cases per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,21817,22465,648,1.03
-Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,30795,18593,-12202,0.6
-Incidence,Cases per 100K,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,19374,27990,8616,1.44
-Incidence,Cases per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,27486,21846,-5640,0.79
-Incidence,Cases per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,20605,22696,2091,1.1
-Mortality,Deaths per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,342,259,-83,0.76
-Mortality,Deaths per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,235,287,51,1.22
-Mortality,Deaths per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,187,348,161,1.86
-Mortality,Deaths per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,399,213,-186,0.53
-Mortality,Deaths per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,296,192,-104,0.65
+Hospitalization,Hospitalizations per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,1847,1684,-164,0.91
+Hospitalization,Hospitalizations per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,1122,2176,1054,1.94
+Incidence,Cases per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,27430,22705,-4725,0.83
+Incidence,Cases per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,21137,26109,4973,1.24
+Incidence,Cases per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,20555,28157,7602,1.37
+Incidence,Cases per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,29264,21485,-7779,0.73
+Incidence,Cases per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,25122,20203,-4919,0.8
+Incidence,Cases per 100K,% NH White,Highest % NH White,Lowest % NH White,21522,21467,-55,1
+Incidence,Cases per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,28833,23644,-5189,0.82
+Incidence,Cases per 100K,% Poverty,Highest Poverty,Lowest Poverty,21586,30390,8804,1.41
+Incidence,Cases per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,20028,31515,11487,1.57
+Incidence,Cases per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,22333,31200,8867,1.4
+Incidence,Cases per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),26662,21588,-5075,0.81
+Incidence,Cases per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),20307,27709,7402,1.36
+Incidence,Cases per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,27032,22958,-4074,0.85
+Incidence,Cases per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),20772,24095,3323,1.16
+Incidence,Cases per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),21277,27267,5991,1.28
+Incidence,Cases per 100K,Population,Largest Population,Smallest Population,26346,23603,-2744,0.9
+Incidence,Cases per 100K,Population Density,Highest Population Density,Lowest Population Density,23907,22454,-1453,0.94
+Incidence,Cases per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,21859,22474,615,1.03
+Incidence,Cases per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,30823,18618,-12205,0.6
+Incidence,Cases per 100K,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,19408,28002,8594,1.44
+Incidence,Cases per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,27507,21867,-5640,0.79
+Incidence,Cases per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,20638,22704,2066,1.1
+Mortality,Deaths per 100K,% Foreign Born,Highest % Foreign Born,Lowest % Foreign Born,343,259,-83,0.76
+Mortality,Deaths per 100K,% Hispanic,Highest % Hispanic,Lowest % Hispanic,236,288,52,1.22
+Mortality,Deaths per 100K,% NH-Black,Highest % NH Black,Lowest % NH Black,188,349,161,1.86
+Mortality,Deaths per 100K,% NH Asian/PI,Highest % NH Asian/PI,Lowest % NH Asian/PI,400,213,-187,0.53
+Mortality,Deaths per 100K,% NH Native American,Highest % NH Native American,Lowest % NH Native American,297,193,-104,0.65
 Mortality,Deaths per 100K,% NH White,Highest % NH White,Lowest % NH White,255,194,-61,0.76
-Mortality,Deaths per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,357,234,-123,0.66
-Mortality,Deaths per 100K,% Poverty,Highest Poverty,Lowest Poverty,184,388,203,2.1
-Mortality,Deaths per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,232,377,145,1.63
-Mortality,Deaths per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,233,376,144,1.62
-Mortality,Deaths per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),322,294,-28,0.91
-Mortality,Deaths per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),175,376,201,2.15
-Mortality,Deaths per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,259,281,22,1.08
-Mortality,Deaths per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),206,317,112,1.54
-Mortality,Deaths per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),206,398,192,1.93
-Mortality,Deaths per 100K,Population,Largest Population,Smallest Population,298,325,27,1.09
-Mortality,Deaths per 100K,Population Density,Highest Population Density,Lowest Population Density,269,269,1,1
-Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,166,310,144,1.87
-Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,375,235,-140,0.63
-Mortality,Deaths per 100K,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,146,397,251,2.71
-Mortality,Deaths per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,315,213,-102,0.68
-Mortality,Deaths per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,148,324,176,2.19
+Mortality,Deaths per 100K,% Overcrowding,Highest % Overcrowding,Lowest % Overcrowding,358,235,-123,0.66
+Mortality,Deaths per 100K,% Poverty,Highest Poverty,Lowest Poverty,185,389,204,2.11
+Mortality,Deaths per 100K,% Production Worker,Highest % Production Workers,Lowest % Production Workers,232,378,146,1.63
+Mortality,Deaths per 100K,% Service Worker,Highest % Service Worker,Lowest % Service Worker,233,377,144,1.62
+Mortality,Deaths per 100K,Dissimilarity: Hispanic and NH-White,Highest Segregation (Hispanic and White),Lowest Segregation (Hispanic and White),323,294,-29,0.91
+Mortality,Deaths per 100K,Dissimilarity: NH-Black and NH-White,Highest Segregation (Black and White),Lowest Segregation (Black and White),175,377,202,2.15
+Mortality,Deaths per 100K,GINI,Highest Income Inequality,Lowest Income Inequality,260,281,21,1.08
+Mortality,Deaths per 100K,Isolation: Hispanic,Highest Segregation (Hispanic),Lowest Segregation (Hispanic),206,318,112,1.54
+Mortality,Deaths per 100K,Isolation: NH-Black,Highest Segregation (NH Black),Lowest Segregation (NH Black),207,399,192,1.93
+Mortality,Deaths per 100K,Population,Largest Population,Smallest Population,299,325,27,1.09
+Mortality,Deaths per 100K,Population Density,Highest Population Density,Lowest Population Density,270,270,0,1
+Mortality,Deaths per 100K,Social Vulnerability Index (SVI),Most Socially Vulnerable,Least Socially Vulnerable,166,311,145,1.87
+Mortality,Deaths per 100K,SVI -  Housing Type & Transportation,Most Socially Vulnerable,Least Socially Vulnerable,377,235,-141,0.63
+Mortality,Deaths per 100K,SVI - Household Composition & Disability,Most Socially Vulnerable,Least Socially Vulnerable,147,398,252,2.72
+Mortality,Deaths per 100K,SVI - Minority Status & Language,Most Socially Vulnerable,Least Socially Vulnerable,316,214,-103,0.68
+Mortality,Deaths per 100K,SVI - Socioeconomic,Most Socially Vulnerable,Least Socially Vulnerable,148,324,177,2.2
