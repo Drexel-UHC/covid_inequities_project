@@ -271,15 +271,15 @@ Oakland,TRUE,deaths_rate_cum,Mortality,Hispanic,159,Deaths per 100K,2022-04-04,C
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,63,Deaths per 100K,2022-04-04,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH Black,157,Deaths per 100K,2022-04-04,CDC,county
 Oakland,TRUE,deaths_rate_cum,Mortality,NH White,62,Deaths per 100K,2022-04-04,CDC,county
-Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,21562,Cases per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,14494,Cases per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,19541,Cases per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,10021,Cases per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,16709,Cases per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,239,Deaths per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,188,Deaths per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,373,Deaths per 100K,2022-04-10,LHD,city
-Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,314,Deaths per 100K,2022-04-10,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,Hispanic,21604,Cases per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Asian/PI,14526,Cases per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Black,19557,Cases per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH Native American,10081,Cases per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,cases_rate_cum,Incidence,NH White,16734,Cases per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,Hispanic,239,Deaths per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,188,Deaths per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH Black,373,Deaths per 100K,2022-04-11,LHD,city
+Philadelphia,FALSE,deaths_rate_cum,Mortality,NH White,314,Deaths per 100K,2022-04-11,LHD,city
 Phoenix,FALSE,cases_rate_cum,Incidence,Hispanic,25393,Cases per 100K,2022-04-04,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Native American,30664,Cases per 100K,2022-04-04,CDC,county
 Phoenix,FALSE,cases_rate_cum,Incidence,NH Asian/PI,13295,Cases per 100K,2022-04-04,CDC,county
@@ -366,10 +366,10 @@ San Francisco,TRUE,deaths_rate_cum,Mortality,Hispanic,137,Deaths per 100K,2022-0
 San Francisco,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,54,Deaths per 100K,2022-04-04,CDC,city
 San Francisco,TRUE,deaths_rate_cum,Mortality,NH Black,115,Deaths per 100K,2022-04-04,CDC,city
 San Francisco,TRUE,deaths_rate_cum,Mortality,NH White,50,Deaths per 100K,2022-04-04,CDC,city
-San Jose,FALSE,cases_rate_cum,Incidence,Hispanic,22927,Cases per 100K,2022-03-24,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH Asian/PI,7858,Cases per 100K,2022-03-24,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH Black,12307,Cases per 100K,2022-03-24,LHD,county
-San Jose,FALSE,cases_rate_cum,Incidence,NH White,7754,Cases per 100K,2022-03-24,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,Hispanic,23038,Cases per 100K,2022-04-07,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH Asian/PI,8014,Cases per 100K,2022-04-07,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH Black,12464,Cases per 100K,2022-04-07,LHD,county
+San Jose,FALSE,cases_rate_cum,Incidence,NH White,7894,Cases per 100K,2022-04-07,LHD,county
 San Jose,TRUE,cases_rate_cum,Incidence,Hispanic,24382,Cases per 100K,2022-04-04,CDC,county
 San Jose,TRUE,cases_rate_cum,Incidence,NH Native American,17105,Cases per 100K,2022-04-04,CDC,county
 San Jose,TRUE,cases_rate_cum,Incidence,NH Asian/PI,7379,Cases per 100K,2022-04-04,CDC,county
@@ -385,10 +385,10 @@ San Jose,TRUE,hospital_rate_cum,Hospitalization,NH Native American,680,Hospitali
 San Jose,TRUE,hospital_rate_cum,Hospitalization,NH Asian/PI,232,Hospitalizations per 100K,2022-04-04,CDC,county
 San Jose,TRUE,hospital_rate_cum,Hospitalization,NH Black,589,Hospitalizations per 100K,2022-04-04,CDC,county
 San Jose,TRUE,hospital_rate_cum,Hospitalization,NH White,249,Hospitalizations per 100K,2022-04-04,CDC,county
-San Jose,FALSE,deaths_rate_cum,Mortality,Hispanic,139,Deaths per 100K,2022-03-24,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,68,Deaths per 100K,2022-03-24,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH Black,128,Deaths per 100K,2022-03-24,LHD,county
-San Jose,FALSE,deaths_rate_cum,Mortality,NH White,107,Deaths per 100K,2022-03-24,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,Hispanic,141,Deaths per 100K,2022-04-07,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH Asian/PI,69,Deaths per 100K,2022-04-07,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH Black,128,Deaths per 100K,2022-04-07,LHD,county
+San Jose,FALSE,deaths_rate_cum,Mortality,NH White,109,Deaths per 100K,2022-04-07,LHD,county
 San Jose,TRUE,deaths_rate_cum,Mortality,Hispanic,214,Deaths per 100K,2022-04-04,CDC,county
 San Jose,TRUE,deaths_rate_cum,Mortality,NH Asian/PI,66,Deaths per 100K,2022-04-04,CDC,county
 San Jose,TRUE,deaths_rate_cum,Mortality,NH Black,121,Deaths per 100K,2022-04-04,CDC,county
