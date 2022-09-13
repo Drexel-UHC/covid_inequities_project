@@ -1,256 +1,171 @@
 city,adjusted,type,type_label,race_ethnicity,value,labs,date_of_access,source,geo_level
-Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,49.8,% Fully Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,72.7,% Fully Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,36.6,% Fully Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,58.2,% Fully Vaccinated,2022-06-19,State,county
-Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,65.5,% Fully Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,90.4,% Fully Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,64,% Fully Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,38.9,% Fully Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,67.2,% Fully Vaccinated,2022-06-21,LHD,city
-Chicago,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,67.8,% Fully Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,83.5,% Fully Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,54.4,% Fully Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,100,% Fully Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,74.2,% Fully Vaccinated,2022-06-16,LHD,city
-Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,53.1,% Fully Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,68.8,% Fully Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,38.2,% Fully Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,51.6,% Fully Vaccinated,2022-06-19,State,county
-Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,70.2,% Fully Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,29.9,% Fully Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,29.4,% Fully Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,24.6,% Fully Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,32.9,% Fully Vaccinated,2022-07-17,LHD,city
-Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,48.8,% Fully Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,66.3,% Fully Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,42,% Fully Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,47.4,% Fully Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,55.1,% Fully Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,64.5,% Fully Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,39.6,% Fully Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,48.5,% Fully Vaccinated,2022-06-19,State,county
-Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,52,% Fully Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,59.4,% Fully Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,38.9,% Fully Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,34.8,% Fully Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,41.2,% Fully Vaccinated,2022-06-30,LHD,county
-Los Angeles,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,57.5,% Fully Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,79.4,% Fully Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,56.8,% Fully Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,81.6,% Fully Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,73.6,% Fully Vaccinated,2022-06-27,State,county
-New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,73.4,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,97.6,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,60.5,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,100,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,63.2,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,77.2,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,100,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Black,61.7,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,100,% Fully Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH White,63,% Fully Vaccinated,2022-07-14,LHD,city
-Oakland,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,69,% Fully Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,91.7,% Fully Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,64.9,% Fully Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,70.9,% Fully Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,73.8,% Fully Vaccinated,2022-06-27,State,county
-San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,46.3,% Fully Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,53.9,% Fully Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,35.7,% Fully Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,59.4,% Fully Vaccinated,2022-06-19,State,county
-San Diego,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,65.3,% Fully Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,79,% Fully Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,53.3,% Fully Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,71.8,% Fully Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,70.1,% Fully Vaccinated,2022-06-27,State,county
-San Francisco,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,90.7,% Fully Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,87.2,% Fully Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,78.1,% Fully Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,88.2,% Fully Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,73.8,% Fully Vaccinated,2022-06-27,State,city
-San Jose,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,71.6,% Fully Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,94.5,% Fully Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,69.7,% Fully Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,91.8,% Fully Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,75.7,% Fully Vaccinated,2022-06-27,State,county
-Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.3,% Partially Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,12.4,% Partially Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6,% Partially Vaccinated,2022-06-19,State,county
-Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,7.3,% Partially Vaccinated,2022-06-19,State,county
-Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,12.6,% Partially Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,22.7,% Partially Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,8.6,% Partially Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,14.9,% Partially Vaccinated,2022-06-21,LHD,city
-Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,9,% Partially Vaccinated,2022-06-21,LHD,city
-Chicago,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,7.2,% Partially Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,8.9,% Partially Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5.9,% Partially Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,30.8,% Partially Vaccinated,2022-06-16,LHD,city
-Chicago,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.9,% Partially Vaccinated,2022-06-16,LHD,city
-Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.2,% Partially Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.7,% Partially Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5.8,% Partially Vaccinated,2022-06-19,State,county
-Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,6.3,% Partially Vaccinated,2022-06-19,State,county
-Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,19.8,% Partially Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,4.3,% Partially Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,4.1,% Partially Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,4.7,% Partially Vaccinated,2022-07-17,LHD,city
-Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,4,% Partially Vaccinated,2022-07-17,LHD,city
-Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,8.1,% Partially Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,8.5,% Partially Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.1,% Partially Vaccinated,2022-06-19,State,county
-Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.1,% Partially Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.5,% Partially Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,8.9,% Partially Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.5,% Partially Vaccinated,2022-06-19,State,county
-Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.9,% Partially Vaccinated,2022-06-19,State,county
-Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,17.8,% Partially Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,15.2,% Partially Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,9.3,% Partially Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,24.3,% Partially Vaccinated,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,8.1,% Partially Vaccinated,2022-06-30,LHD,county
-Los Angeles,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,6.6,% Partially Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,6,% Partially Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5,% Partially Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,11.1,% Partially Vaccinated,2022-06-27,State,county
-Los Angeles,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5,% Partially Vaccinated,2022-06-27,State,county
-New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.1,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5.9,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,11.5,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.2,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.8,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.2,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.6,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,11.5,% Partially Vaccinated,2022-07-14,LHD,city
-New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.4,% Partially Vaccinated,2022-07-14,LHD,city
-Oakland,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,5.9,% Partially Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,6.5,% Partially Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,4.6,% Partially Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,9.7,% Partially Vaccinated,2022-06-27,State,county
-Oakland,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,3.8,% Partially Vaccinated,2022-06-27,State,county
-San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,8.8,% Partially Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.3,% Partially Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.9,% Partially Vaccinated,2022-06-19,State,county
-San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,9.8,% Partially Vaccinated,2022-06-19,State,county
-San Diego,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.7,% Partially Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,6.5,% Partially Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5.3,% Partially Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,8.8,% Partially Vaccinated,2022-06-27,State,county
-San Diego,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.2,% Partially Vaccinated,2022-06-27,State,county
-San Francisco,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.8,% Partially Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,5,% Partially Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.2,% Partially Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,15.9,% Partially Vaccinated,2022-06-27,State,city
-San Francisco,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.1,% Partially Vaccinated,2022-06-27,State,city
-San Jose,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,5.4,% Partially Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,6.4,% Partially Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,4.6,% Partially Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,12.8,% Partially Vaccinated,2022-06-27,State,county
-San Jose,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,3.6,% Partially Vaccinated,2022-06-27,State,county
-Austin,FALSE,% with at least one dose,% with at least one dose,Hispanic,60.2,% with at least one dose,2022-06-19,State,county
-Austin,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,85.1,% with at least one dose,2022-06-19,State,county
-Austin,FALSE,% with at least one dose,% with at least one dose,NH Black,42.7,% with at least one dose,2022-06-19,State,county
-Austin,FALSE,% with at least one dose,% with at least one dose,NH White,65.4,% with at least one dose,2022-06-19,State,county
-Boston,FALSE,% with at least one dose,% with at least one dose,Hispanic,78.1,% with at least one dose,2022-06-21,LHD,city
-Boston,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-06-21,LHD,city
-Boston,FALSE,% with at least one dose,% with at least one dose,NH Black,72.6,% with at least one dose,2022-06-21,LHD,city
-Boston,FALSE,% with at least one dose,% with at least one dose,NH Native American,53.9,% with at least one dose,2022-06-21,LHD,city
-Boston,FALSE,% with at least one dose,% with at least one dose,NH White,76.2,% with at least one dose,2022-06-21,LHD,city
-Chicago,FALSE,% with at least one dose,% with at least one dose,Hispanic,75,% with at least one dose,2022-06-16,LHD,city
-Chicago,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,92.4,% with at least one dose,2022-06-16,LHD,city
-Chicago,FALSE,% with at least one dose,% with at least one dose,NH Black,60.3,% with at least one dose,2022-06-16,LHD,city
-Chicago,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-06-16,LHD,city
-Chicago,FALSE,% with at least one dose,% with at least one dose,NH White,80.1,% with at least one dose,2022-06-16,LHD,city
-Dallas,FALSE,% with at least one dose,% with at least one dose,Hispanic,63.3,% with at least one dose,2022-06-19,State,county
-Dallas,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,78.5,% with at least one dose,2022-06-19,State,county
-Dallas,FALSE,% with at least one dose,% with at least one dose,NH Black,44,% with at least one dose,2022-06-19,State,county
-Dallas,FALSE,% with at least one dose,% with at least one dose,NH White,57.9,% with at least one dose,2022-06-19,State,county
-Detroit,FALSE,% with at least one dose,% with at least one dose,Hispanic,90,% with at least one dose,2022-07-17,LHD,city
-Detroit,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,34.3,% with at least one dose,2022-07-17,LHD,city
-Detroit,FALSE,% with at least one dose,% with at least one dose,NH Black,33.5,% with at least one dose,2022-07-17,LHD,city
-Detroit,FALSE,% with at least one dose,% with at least one dose,NH Native American,29.3,% with at least one dose,2022-07-17,LHD,city
-Detroit,FALSE,% with at least one dose,% with at least one dose,NH White,36.9,% with at least one dose,2022-07-17,LHD,city
-Fort Worth,FALSE,% with at least one dose,% with at least one dose,Hispanic,56.9,% with at least one dose,2022-06-19,State,county
-Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,74.8,% with at least one dose,2022-06-19,State,county
-Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH Black,48.1,% with at least one dose,2022-06-19,State,county
-Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH White,52.5,% with at least one dose,2022-06-19,State,county
-Houston,FALSE,% with at least one dose,% with at least one dose,Hispanic,65.6,% with at least one dose,2022-06-19,State,county
-Houston,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,73.4,% with at least one dose,2022-06-19,State,county
-Houston,FALSE,% with at least one dose,% with at least one dose,NH Black,46.1,% with at least one dose,2022-06-19,State,county
-Houston,FALSE,% with at least one dose,% with at least one dose,NH White,54.4,% with at least one dose,2022-06-19,State,county
-Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,Hispanic,69.9,% with at least one dose,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,74.6,% with at least one dose,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Black,48.2,% with at least one dose,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Native American,59.1,% with at least one dose,2022-06-30,LHD,county
-Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH White,49.3,% with at least one dose,2022-06-30,LHD,county
-Los Angeles,FALSE,% with at least one dose,% with at least one dose,Hispanic,64.1,% with at least one dose,2022-06-27,State,county
-Los Angeles,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,85.4,% with at least one dose,2022-06-27,State,county
-Los Angeles,FALSE,% with at least one dose,% with at least one dose,NH Black,61.8,% with at least one dose,2022-06-27,State,county
-Los Angeles,FALSE,% with at least one dose,% with at least one dose,NH Native American,92.6,% with at least one dose,2022-06-27,State,county
-Los Angeles,FALSE,% with at least one dose,% with at least one dose,NH White,78.6,% with at least one dose,2022-06-27,State,county
-New York City,FALSE,% with at least one dose,% with at least one dose,Hispanic,83.5,% with at least one dose,2022-07-14,LHD,city
-New York City,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-07-14,LHD,city
-New York City,FALSE,% with at least one dose,% with at least one dose,NH Black,66.4,% with at least one dose,2022-07-14,LHD,city
-New York City,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-07-14,LHD,city
-New York City,FALSE,% with at least one dose,% with at least one dose,NH White,68.4,% with at least one dose,2022-07-14,LHD,city
-New York City,TRUE,% with at least one dose,% with at least one dose,Hispanic,88,% with at least one dose,2022-07-14,LHD,city
-New York City,TRUE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-07-14,LHD,city
-New York City,TRUE,% with at least one dose,% with at least one dose,NH Black,68.4,% with at least one dose,2022-07-14,LHD,city
-New York City,TRUE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-07-14,LHD,city
-New York City,TRUE,% with at least one dose,% with at least one dose,NH White,68.4,% with at least one dose,2022-07-14,LHD,city
-Oakland,FALSE,% with at least one dose,% with at least one dose,Hispanic,74.9,% with at least one dose,2022-06-27,State,county
-Oakland,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,98.2,% with at least one dose,2022-06-27,State,county
-Oakland,FALSE,% with at least one dose,% with at least one dose,NH Black,69.5,% with at least one dose,2022-06-27,State,county
-Oakland,FALSE,% with at least one dose,% with at least one dose,NH Native American,80.5,% with at least one dose,2022-06-27,State,county
-Oakland,FALSE,% with at least one dose,% with at least one dose,NH White,77.6,% with at least one dose,2022-06-27,State,county
-San Antonio,FALSE,% with at least one dose,% with at least one dose,Hispanic,55.1,% with at least one dose,2022-06-19,State,county
-San Antonio,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,63.2,% with at least one dose,2022-06-19,State,county
-San Antonio,FALSE,% with at least one dose,% with at least one dose,NH Black,42.6,% with at least one dose,2022-06-19,State,county
-San Antonio,FALSE,% with at least one dose,% with at least one dose,NH White,69.2,% with at least one dose,2022-06-19,State,county
-San Diego,FALSE,% with at least one dose,% with at least one dose,Hispanic,76,% with at least one dose,2022-06-27,State,county
-San Diego,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,85.5,% with at least one dose,2022-06-27,State,county
-San Diego,FALSE,% with at least one dose,% with at least one dose,NH Black,58.6,% with at least one dose,2022-06-27,State,county
-San Diego,FALSE,% with at least one dose,% with at least one dose,NH Native American,80.6,% with at least one dose,2022-06-27,State,county
-San Diego,FALSE,% with at least one dose,% with at least one dose,NH White,75.3,% with at least one dose,2022-06-27,State,county
-San Francisco,FALSE,% with at least one dose,% with at least one dose,Hispanic,100,% with at least one dose,2022-06-27,State,city
-San Francisco,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,92.2,% with at least one dose,2022-06-27,State,city
-San Francisco,FALSE,% with at least one dose,% with at least one dose,NH Black,84.3,% with at least one dose,2022-06-27,State,city
-San Francisco,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-06-27,State,city
-San Francisco,FALSE,% with at least one dose,% with at least one dose,NH White,78.9,% with at least one dose,2022-06-27,State,city
-San Jose,FALSE,% with at least one dose,% with at least one dose,Hispanic,77,% with at least one dose,2022-06-27,State,county
-San Jose,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-06-27,State,county
-San Jose,FALSE,% with at least one dose,% with at least one dose,NH Black,74.3,% with at least one dose,2022-06-27,State,county
-San Jose,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-06-27,State,county
-San Jose,FALSE,% with at least one dose,% with at least one dose,NH White,79.3,% with at least one dose,2022-06-27,State,county
-Austin,FALSE,Total Doses,Doses per 1000,Hispanic,1274,Doses per 1000,2022-06-19,State,county
-Austin,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1937,Doses per 1000,2022-06-19,State,county
-Austin,FALSE,Total Doses,Doses per 1000,NH Black,918,Doses per 1000,2022-06-19,State,county
-Austin,FALSE,Total Doses,Doses per 1000,NH White,1534,Doses per 1000,2022-06-19,State,county
-Chicago,FALSE,Total Doses,Doses per 1000,Hispanic,1730,Doses per 1000,2022-06-16,LHD,city
-Chicago,FALSE,Total Doses,Doses per 1000,NH Asian/PI,2317,Doses per 1000,2022-06-16,LHD,city
-Chicago,FALSE,Total Doses,Doses per 1000,NH Black,1415,Doses per 1000,2022-06-16,LHD,city
-Chicago,FALSE,Total Doses,Doses per 1000,NH Native American,7958,Doses per 1000,2022-06-16,LHD,city
-Chicago,FALSE,Total Doses,Doses per 1000,NH White,2063,Doses per 1000,2022-06-16,LHD,city
-Dallas,FALSE,Total Doses,Doses per 1000,Hispanic,1294,Doses per 1000,2022-06-19,State,county
-Dallas,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1773,Doses per 1000,2022-06-19,State,county
-Dallas,FALSE,Total Doses,Doses per 1000,NH Black,957,Doses per 1000,2022-06-19,State,county
-Dallas,FALSE,Total Doses,Doses per 1000,NH White,1344,Doses per 1000,2022-06-19,State,county
-Denver,FALSE,Total Doses,Doses per 1000,Hispanic,1228,Doses per 1000,2022-07-15,LHD,city
-Denver,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1878,Doses per 1000,2022-07-15,LHD,city
-Denver,FALSE,Total Doses,Doses per 1000,NH Black,1738,Doses per 1000,2022-07-15,LHD,city
-Denver,FALSE,Total Doses,Doses per 1000,NH Native American,2378,Doses per 1000,2022-07-15,LHD,city
-Denver,FALSE,Total Doses,Doses per 1000,NH White,2303,Doses per 1000,2022-07-15,LHD,city
-Fort Worth,FALSE,Total Doses,Doses per 1000,Hispanic,1198,Doses per 1000,2022-06-19,State,county
-Fort Worth,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1704,Doses per 1000,2022-06-19,State,county
-Fort Worth,FALSE,Total Doses,Doses per 1000,NH Black,1046,Doses per 1000,2022-06-19,State,county
-Fort Worth,FALSE,Total Doses,Doses per 1000,NH White,1200,Doses per 1000,2022-06-19,State,county
-Houston,FALSE,Total Doses,Doses per 1000,Hispanic,1340,Doses per 1000,2022-06-19,State,county
-Houston,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1615,Doses per 1000,2022-06-19,State,county
-Houston,FALSE,Total Doses,Doses per 1000,NH Black,987,Doses per 1000,2022-06-19,State,county
-Houston,FALSE,Total Doses,Doses per 1000,NH White,1222,Doses per 1000,2022-06-19,State,county
-San Antonio,FALSE,Total Doses,Doses per 1000,Hispanic,1183,Doses per 1000,2022-06-19,State,county
-San Antonio,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1408,Doses per 1000,2022-06-19,State,county
-San Antonio,FALSE,Total Doses,Doses per 1000,NH Black,913,Doses per 1000,2022-06-19,State,county
-San Antonio,FALSE,Total Doses,Doses per 1000,NH White,1533,Doses per 1000,2022-06-19,State,county
+Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,51,% Fully Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,73.2,% Fully Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,37,% Fully Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,58.4,% Fully Vaccinated,2022-09-13,State,county
+Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,67.6,% Fully Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,91.7,% Fully Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,66.2,% Fully Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,39.1,% Fully Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,68.3,% Fully Vaccinated,2022-09-07,LHD,city
+Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,53.8,% Fully Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,68.9,% Fully Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,38.4,% Fully Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,51.7,% Fully Vaccinated,2022-09-13,State,county
+Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,70.2,% Fully Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,29.9,% Fully Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,29.4,% Fully Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,24.6,% Fully Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,32.9,% Fully Vaccinated,2022-09-13,LHD,city
+Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,49.6,% Fully Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,66.2,% Fully Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,41.9,% Fully Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,47.5,% Fully Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,55.8,% Fully Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,64.8,% Fully Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,40.1,% Fully Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,48.7,% Fully Vaccinated,2022-09-13,State,county
+Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,54,% Fully Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,60.9,% Fully Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,40.3,% Fully Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,36.3,% Fully Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,41.8,% Fully Vaccinated,2022-08-31,LHD,county
+New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,74.1,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,98.4,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,61.2,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,100,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,63.9,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,73.5,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,96.2,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Black,59.1,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH Native American,100,% Fully Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Fully Vaccinated,% Fully Vaccinated,NH White,60.2,% Fully Vaccinated,2022-09-12,LHD,city
+San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,Hispanic,47.1,% Fully Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Asian/PI,53.9,% Fully Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH Black,35.9,% Fully Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Fully Vaccinated,% Fully Vaccinated,NH White,59.5,% Fully Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,11,% Partially Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,13.9,% Partially Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.4,% Partially Vaccinated,2022-09-13,State,county
+Austin,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,7.8,% Partially Vaccinated,2022-09-13,State,county
+Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,13.2,% Partially Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,24,% Partially Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,9.2,% Partially Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,15.6,% Partially Vaccinated,2022-09-07,LHD,city
+Boston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,9.7,% Partially Vaccinated,2022-09-07,LHD,city
+Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.5,% Partially Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,10.2,% Partially Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,5.9,% Partially Vaccinated,2022-09-13,State,county
+Dallas,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,6.4,% Partially Vaccinated,2022-09-13,State,county
+Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,19.8,% Partially Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,4.3,% Partially Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,4.1,% Partially Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,4.7,% Partially Vaccinated,2022-09-13,LHD,city
+Detroit,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,4,% Partially Vaccinated,2022-09-13,LHD,city
+Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,8.5,% Partially Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,8.8,% Partially Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.2,% Partially Vaccinated,2022-09-13,State,county
+Fort Worth,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.2,% Partially Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,11.1,% Partially Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.8,% Partially Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.8,% Partially Vaccinated,2022-09-13,State,county
+Houston,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,6.2,% Partially Vaccinated,2022-09-13,State,county
+Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,16.9,% Partially Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,14.1,% Partially Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,8.3,% Partially Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,23.2,% Partially Vaccinated,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,7.5,% Partially Vaccinated,2022-08-31,LHD,county
+New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.4,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.8,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,11.8,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.6,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,10.3,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,9.7,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Black,6.2,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH Native American,11.4,% Partially Vaccinated,2022-09-12,LHD,city
+New York City,TRUE,% Partially Vaccinated,% Partially Vaccinated,NH White,5.7,% Partially Vaccinated,2022-09-12,LHD,city
+San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,Hispanic,9.3,% Partially Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Asian/PI,10.1,% Partially Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH Black,7.1,% Partially Vaccinated,2022-09-13,State,county
+San Antonio,FALSE,% Partially Vaccinated,% Partially Vaccinated,NH White,10,% Partially Vaccinated,2022-09-13,State,county
+Austin,FALSE,% with at least one dose,% with at least one dose,Hispanic,62,% with at least one dose,2022-09-13,State,county
+Austin,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,87.1,% with at least one dose,2022-09-13,State,county
+Austin,FALSE,% with at least one dose,% with at least one dose,NH Black,43.4,% with at least one dose,2022-09-13,State,county
+Austin,FALSE,% with at least one dose,% with at least one dose,NH White,66.3,% with at least one dose,2022-09-13,State,county
+Boston,FALSE,% with at least one dose,% with at least one dose,Hispanic,80.8,% with at least one dose,2022-09-07,LHD,city
+Boston,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-09-07,LHD,city
+Boston,FALSE,% with at least one dose,% with at least one dose,NH Black,75.4,% with at least one dose,2022-09-07,LHD,city
+Boston,FALSE,% with at least one dose,% with at least one dose,NH Native American,54.7,% with at least one dose,2022-09-07,LHD,city
+Boston,FALSE,% with at least one dose,% with at least one dose,NH White,77.9,% with at least one dose,2022-09-07,LHD,city
+Chicago,FALSE,% with at least one dose,% with at least one dose,Hispanic,75.7,% with at least one dose,2022-09-12,LHD,city
+Chicago,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,94.2,% with at least one dose,2022-09-12,LHD,city
+Chicago,FALSE,% with at least one dose,% with at least one dose,NH Black,61.2,% with at least one dose,2022-09-12,LHD,city
+Chicago,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-09-12,LHD,city
+Chicago,FALSE,% with at least one dose,% with at least one dose,NH White,82.7,% with at least one dose,2022-09-12,LHD,city
+Dallas,FALSE,% with at least one dose,% with at least one dose,Hispanic,64.3,% with at least one dose,2022-09-13,State,county
+Dallas,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,79.1,% with at least one dose,2022-09-13,State,county
+Dallas,FALSE,% with at least one dose,% with at least one dose,NH Black,44.3,% with at least one dose,2022-09-13,State,county
+Dallas,FALSE,% with at least one dose,% with at least one dose,NH White,58.1,% with at least one dose,2022-09-13,State,county
+Detroit,FALSE,% with at least one dose,% with at least one dose,Hispanic,90,% with at least one dose,2022-09-13,LHD,city
+Detroit,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,34.3,% with at least one dose,2022-09-13,LHD,city
+Detroit,FALSE,% with at least one dose,% with at least one dose,NH Black,33.5,% with at least one dose,2022-09-13,LHD,city
+Detroit,FALSE,% with at least one dose,% with at least one dose,NH Native American,29.3,% with at least one dose,2022-09-13,LHD,city
+Detroit,FALSE,% with at least one dose,% with at least one dose,NH White,36.9,% with at least one dose,2022-09-13,LHD,city
+Fort Worth,FALSE,% with at least one dose,% with at least one dose,Hispanic,58.1,% with at least one dose,2022-09-13,State,county
+Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,75,% with at least one dose,2022-09-13,State,county
+Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH Black,48.1,% with at least one dose,2022-09-13,State,county
+Fort Worth,FALSE,% with at least one dose,% with at least one dose,NH White,52.7,% with at least one dose,2022-09-13,State,county
+Houston,FALSE,% with at least one dose,% with at least one dose,Hispanic,66.8,% with at least one dose,2022-09-13,State,county
+Houston,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,74.6,% with at least one dose,2022-09-13,State,county
+Houston,FALSE,% with at least one dose,% with at least one dose,NH Black,46.9,% with at least one dose,2022-09-13,State,county
+Houston,FALSE,% with at least one dose,% with at least one dose,NH White,54.9,% with at least one dose,2022-09-13,State,county
+Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,Hispanic,70.9,% with at least one dose,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,75,% with at least one dose,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Black,48.6,% with at least one dose,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH Native American,59.5,% with at least one dose,2022-08-31,LHD,county
+Las Vegas (Metro),FALSE,% with at least one dose,% with at least one dose,NH White,49.3,% with at least one dose,2022-08-31,LHD,county
+New York City,FALSE,% with at least one dose,% with at least one dose,Hispanic,84.5,% with at least one dose,2022-09-12,LHD,city
+New York City,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-09-12,LHD,city
+New York City,FALSE,% with at least one dose,% with at least one dose,NH Black,67.2,% with at least one dose,2022-09-12,LHD,city
+New York City,FALSE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-09-12,LHD,city
+New York City,FALSE,% with at least one dose,% with at least one dose,NH White,69.5,% with at least one dose,2022-09-12,LHD,city
+New York City,TRUE,% with at least one dose,% with at least one dose,Hispanic,83.8,% with at least one dose,2022-09-12,LHD,city
+New York City,TRUE,% with at least one dose,% with at least one dose,NH Asian/PI,100,% with at least one dose,2022-09-12,LHD,city
+New York City,TRUE,% with at least one dose,% with at least one dose,NH Black,65.3,% with at least one dose,2022-09-12,LHD,city
+New York City,TRUE,% with at least one dose,% with at least one dose,NH Native American,100,% with at least one dose,2022-09-12,LHD,city
+New York City,TRUE,% with at least one dose,% with at least one dose,NH White,66,% with at least one dose,2022-09-12,LHD,city
+San Antonio,FALSE,% with at least one dose,% with at least one dose,Hispanic,56.3,% with at least one dose,2022-09-13,State,county
+San Antonio,FALSE,% with at least one dose,% with at least one dose,NH Asian/PI,64,% with at least one dose,2022-09-13,State,county
+San Antonio,FALSE,% with at least one dose,% with at least one dose,NH Black,43,% with at least one dose,2022-09-13,State,county
+San Antonio,FALSE,% with at least one dose,% with at least one dose,NH White,69.5,% with at least one dose,2022-09-13,State,county
+Austin,FALSE,Total Doses,Doses per 1000,Hispanic,1331,Doses per 1000,2022-09-13,State,county
+Austin,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1999,Doses per 1000,2022-09-13,State,county
+Austin,FALSE,Total Doses,Doses per 1000,NH Black,947,Doses per 1000,2022-09-13,State,county
+Austin,FALSE,Total Doses,Doses per 1000,NH White,1578,Doses per 1000,2022-09-13,State,county
+Chicago,FALSE,Total Doses,Doses per 1000,Hispanic,1778,Doses per 1000,2022-09-12,LHD,city
+Chicago,FALSE,Total Doses,Doses per 1000,NH Asian/PI,2406,Doses per 1000,2022-09-12,LHD,city
+Chicago,FALSE,Total Doses,Doses per 1000,NH Black,1478,Doses per 1000,2022-09-12,LHD,city
+Chicago,FALSE,Total Doses,Doses per 1000,NH Native American,8525,Doses per 1000,2022-09-12,LHD,city
+Chicago,FALSE,Total Doses,Doses per 1000,NH White,2176,Doses per 1000,2022-09-12,LHD,city
+Dallas,FALSE,Total Doses,Doses per 1000,Hispanic,1328,Doses per 1000,2022-09-13,State,county
+Dallas,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1805,Doses per 1000,2022-09-13,State,county
+Dallas,FALSE,Total Doses,Doses per 1000,NH Black,978,Doses per 1000,2022-09-13,State,county
+Dallas,FALSE,Total Doses,Doses per 1000,NH White,1376,Doses per 1000,2022-09-13,State,county
+Denver,FALSE,Total Doses,Doses per 1000,Hispanic,1263,Doses per 1000,2022-09-12,LHD,city
+Denver,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1931,Doses per 1000,2022-09-12,LHD,city
+Denver,FALSE,Total Doses,Doses per 1000,NH Black,1788,Doses per 1000,2022-09-12,LHD,city
+Denver,FALSE,Total Doses,Doses per 1000,NH Native American,2445,Doses per 1000,2022-09-12,LHD,city
+Denver,FALSE,Total Doses,Doses per 1000,NH White,2369,Doses per 1000,2022-09-12,LHD,city
+Fort Worth,FALSE,Total Doses,Doses per 1000,Hispanic,1238,Doses per 1000,2022-09-13,State,county
+Fort Worth,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1727,Doses per 1000,2022-09-13,State,county
+Fort Worth,FALSE,Total Doses,Doses per 1000,NH Black,1058,Doses per 1000,2022-09-13,State,county
+Fort Worth,FALSE,Total Doses,Doses per 1000,NH White,1227,Doses per 1000,2022-09-13,State,county
+Houston,FALSE,Total Doses,Doses per 1000,Hispanic,1381,Doses per 1000,2022-09-13,State,county
+Houston,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1657,Doses per 1000,2022-09-13,State,county
+Houston,FALSE,Total Doses,Doses per 1000,NH Black,1018,Doses per 1000,2022-09-13,State,county
+Houston,FALSE,Total Doses,Doses per 1000,NH White,1251,Doses per 1000,2022-09-13,State,county
+San Antonio,FALSE,Total Doses,Doses per 1000,Hispanic,1227,Doses per 1000,2022-09-13,State,county
+San Antonio,FALSE,Total Doses,Doses per 1000,NH Asian/PI,1438,Doses per 1000,2022-09-13,State,county
+San Antonio,FALSE,Total Doses,Doses per 1000,NH Black,935,Doses per 1000,2022-09-13,State,county
+San Antonio,FALSE,Total Doses,Doses per 1000,NH White,1566,Doses per 1000,2022-09-13,State,county
