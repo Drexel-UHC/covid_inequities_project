@@ -1,4 +1,4 @@
-# COVID-19 Health Inequities Project Data
+# BCHC COVID-19 Health Inequities Data Repository
 
 This repository contains data on COVID-19 and COVID-19 Inequities in BCHC cities. You can see more of our project at [covid-inequities.info](https://www.covid-inequities.info/) or  view visualizations of these data on the [COVID-19 Inequities Dashboard](https://drexel-uhc.shinyapps.io/bchc_covid19). Data displayed here are all from publicly available data sources. Data are preliminary and subject to change. Information on this page will change as data and documentation are updated. To cite our dashboard, we suggest the following citation:
 <br>
